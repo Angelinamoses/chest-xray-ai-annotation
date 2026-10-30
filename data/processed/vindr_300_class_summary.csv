@@ -1,0 +1,6 @@
+finding,selected_positive_images,images_with_bounding_boxes,total_bounding_box_annotations
+Aortic enlargement,218,218,522
+Cardiomegaly,163,163,379
+Pleural thickening,146,146,359
+Pulmonary fibrosis,123,123,337
+Lung Opacity,108,108,202
