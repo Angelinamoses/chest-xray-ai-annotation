@@ -216,3 +216,33 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Private medical datasets
+data/raw/*
+data/images/*
+data/annotations/*
+data/processed/*
+
+# Preserve directory placeholders
+!data/raw/.gitkeep
+!data/images/.gitkeep
+!data/annotations/.gitkeep
+!data/processed/.gitkeep
+
+# PhysioNet credentials
+.env
+.env.*
+!.env.example
+credentials/
+*.key
+*.pem
+
+# Model artifacts
+*.pt
+*.pth
+*.ckpt
+
+# Python environments
+venv/
+.venv/
+__pycache__/
