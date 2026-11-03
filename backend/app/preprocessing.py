@@ -9,18 +9,8 @@ from PIL import Image
 
 def preprocess_dicom(dicom_path, image_size=256):
     """
-    Preprocess a VinDr-CXR DICOM image using the
-    same procedure used during model training.
-
-    Steps:
-        1. Read DICOM
-        2. Extract pixel array
-        3. Convert to float32
-        4. Apply rescale slope and intercept
-        5. Handle MONOCHROME1 inversion
-        6. Apply 1st-99th percentile normalization
-        7. Resize using bilinear interpolation
-        8. Convert to PyTorch tensor
+    Preprocess a VinDr-CXR DICOM image using the same
+    procedure used during model training.
 
     Returns:
         image_tensor: Tensor [1, 1, 256, 256]
@@ -33,7 +23,7 @@ def preprocess_dicom(dicom_path, image_size=256):
     # 1. Read DICOM
     ds = pydicom.dcmread(str(dicom_path))
 
-    # 2. Extract pixel array
+    # 2. Extract pixel array as float32
     image = ds.pixel_array.astype(np.float32)
 
     # 3. Ensure 2D image
@@ -53,9 +43,7 @@ def preprocess_dicom(dicom_path, image_size=256):
     image = image * slope + intercept
 
     # 5. Handle MONOCHROME1
-    photometric = getattr(
-        ds, "PhotometricInterpretation", ""
-    )
+    photometric = getattr(ds, "PhotometricInterpretation", "")
 
     if photometric == "MONOCHROME1":
         image = image.max() - image
@@ -70,7 +58,6 @@ def preprocess_dicom(dicom_path, image_size=256):
         )
 
     image = np.clip(image, lower, upper)
-
     image = (image - lower) / (upper - lower)
 
     # 7. Resize to 256 x 256
@@ -81,15 +68,17 @@ def preprocess_dicom(dicom_path, image_size=256):
         resample=Image.Resampling.BILINEAR
     )
 
-    image = np.asarray(
-        pil_image,
-        dtype=np.float32
+    image = np.asarray(pil_image, dtype=np.float32)
+
+    # 8. Explicitly create a writable, contiguous copy
+    image = np.array(
+        image,
+        dtype=np.float32,
+        copy=True,
+        order="C"
     )
 
-    # Ensure contiguous NumPy array
-    image = np.ascontiguousarray(image)
-
-    # 8. Convert to PyTorch tensor
+    # 9. Convert to PyTorch tensor
     image_tensor = torch.from_numpy(image)
 
     # [H, W] -> [1, 1, H, W]
