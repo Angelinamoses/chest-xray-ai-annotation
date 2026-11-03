@@ -1,0 +1,9 @@
+
+torch
+numpy
+pydicom
+Pillow
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic

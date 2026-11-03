@@ -1,0 +1,46 @@
+
+# Cell 5: DICOM preprocessing function
+
+def preprocess_dicom(dicom_path, image_size=256):
+
+    ds = pydicom.dcmread(str(dicom_path))
+
+    # Extract pixel array
+    image = ds.pixel_array.astype(np.float32)
+
+    # Ensure this is a 2D image
+    if image.ndim != 2:
+        raise ValueError(
+            f"Expected 2D image, got shape {image.shape}: {dicom_path.name}"
+        )
+
+    # Apply modality LUT/rescale when available
+    slope = float(getattr(ds, "RescaleSlope", 1))
+    intercept = float(getattr(ds, "RescaleIntercept", 0))
+    image = image * slope + intercept
+
+    # Handle MONOCHROME1
+    photometric = getattr(ds, "PhotometricInterpretation", "")
+    if photometric == "MONOCHROME1":
+        image = image.max() - image
+
+    # Robust intensity normalization
+    lower = np.percentile(image, 1)
+    upper = np.percentile(image, 99)
+
+    if upper <= lower:
+        raise ValueError(f"Invalid intensity range: {dicom_path.name}")
+
+    image = np.clip(image, lower, upper)
+    image = (image - lower) / (upper - lower)
+
+    # Resize to 256 x 256
+    pil_image = Image.fromarray(image.astype(np.float32))
+    pil_image = pil_image.resize(
+        (image_size, image_size),
+        resample=Image.Resampling.BILINEAR
+    )
+
+    image = np.asarray(pil_image, dtype=np.float32)
+
+    return image, ds
