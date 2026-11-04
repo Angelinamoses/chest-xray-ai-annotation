@@ -1,0 +1,2366 @@
+image_id,class,threshold,gt_pixels,predicted_pixels,gt_present,predicted_present
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.05,576,1110,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.05,1653,1469,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.05,1146,1442,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.05,904,1190,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.05,2141,2034,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.05,966,1188,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.05,1886,1348,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.05,1081,932,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.05,506,1064,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.05,1153,871,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.05,1754,2104,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.05,1089,1195,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.05,1698,1833,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.05,676,1002,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.05,0,948,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.05,0,613,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.05,1088,1412,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.05,0,808,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.05,1312,1304,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.05,2058,1946,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.05,1254,1331,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.05,0,1025,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.05,644,1048,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.05,3362,1003,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.05,1122,1276,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.05,851,1316,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.05,500,693,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.05,0,926,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.05,0,1267,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.05,504,633,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.05,775,1346,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.05,0,1002,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.05,0,909,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.05,0,16,0,1
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.05,987,1137,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.05,904,1165,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.05,5152,889,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.05,0,437,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.05,1000,873,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.05,0,944,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.05,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.05,1341,1400,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.05,550,1163,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.1,576,1066,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.1,1653,1424,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.1,1146,1408,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.1,904,1125,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.1,2141,1950,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.1,966,1142,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.1,1886,1303,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.1,1081,894,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.1,506,1029,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.1,1153,844,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.1,1754,1993,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.1,1089,1156,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.1,1698,1775,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.1,676,969,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.1,0,921,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.1,0,543,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.1,1088,1367,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.1,0,715,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.1,1312,1273,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.1,2058,1866,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.1,1254,1263,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.1,0,977,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.1,644,1010,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.1,3362,950,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.1,1122,1231,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.1,851,1274,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.1,500,604,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.1,0,884,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.1,0,1200,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.1,504,608,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.1,775,1312,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.1,0,968,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.1,0,852,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.1,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.1,987,1096,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.1,904,1130,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.1,5152,861,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.1,0,378,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.1,1000,842,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.1,0,919,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.1,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.1,1341,1360,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.1,550,1128,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.15,576,1027,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.15,1653,1400,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.15,1146,1388,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.15,904,1098,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.15,2141,1901,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.15,966,1119,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.15,1886,1279,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.15,1081,876,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.15,506,1016,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.15,1153,820,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.15,1754,1928,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.15,1089,1130,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.15,1698,1745,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.15,676,954,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.15,0,906,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.15,0,502,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.15,1088,1345,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.15,0,653,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.15,1312,1243,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.15,2058,1813,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.15,1254,1224,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.15,0,956,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.15,644,987,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.15,3362,931,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.15,1122,1207,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.15,851,1248,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.15,500,556,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.15,0,868,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.15,0,1165,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.15,504,598,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.15,775,1288,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.15,0,949,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.15,0,828,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.15,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.15,987,1070,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.15,904,1107,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.15,5152,847,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.15,0,347,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.15,1000,825,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.15,0,897,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.15,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.15,1341,1337,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.15,550,1106,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.2,576,1014,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.2,1653,1376,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.2,1146,1367,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.2,904,1057,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.2,2141,1870,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.2,966,1101,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.2,1886,1254,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.2,1081,865,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.2,506,997,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.2,1153,801,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.2,1754,1885,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.2,1089,1110,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.2,1698,1713,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.2,676,945,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.2,0,887,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.2,0,477,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.2,1088,1323,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.2,0,618,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.2,1312,1223,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.2,2058,1793,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.2,1254,1191,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.2,0,944,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.2,644,976,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.2,3362,916,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.2,1122,1194,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.2,851,1233,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.2,500,511,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.2,0,852,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.2,0,1141,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.2,504,585,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.2,775,1276,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.2,0,933,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.2,0,810,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.2,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.2,987,1053,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.2,904,1087,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.2,5152,832,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.2,0,318,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.2,1000,807,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.2,0,884,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.2,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.2,1341,1315,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.2,550,1092,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.3,576,1000,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.3,1653,1347,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.3,1146,1338,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.3,904,1021,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.3,2141,1825,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.3,966,1064,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.3,1886,1218,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.3,1081,838,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.3,506,968,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.3,1153,782,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.3,1754,1813,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.3,1089,1080,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.3,1698,1670,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.3,676,926,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.3,0,873,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.3,0,422,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.3,1088,1307,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.3,0,554,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.3,1312,1186,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.3,2058,1764,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.3,1254,1137,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.3,0,927,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.3,644,955,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.3,3362,888,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.3,1122,1176,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.3,851,1205,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.3,500,450,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.3,0,828,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.3,0,1100,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.3,504,559,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.3,775,1251,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.3,0,907,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.3,0,773,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.3,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.3,987,1019,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.3,904,1071,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.3,5152,813,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.3,0,272,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.3,1000,782,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.3,0,863,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.3,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.3,1341,1294,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.3,550,1065,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.4,576,980,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.4,1653,1330,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.4,1146,1317,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.4,904,981,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.4,2141,1784,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.4,966,1036,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.4,1886,1191,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.4,1081,817,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.4,506,954,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.4,1153,765,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.4,1754,1755,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.4,1089,1051,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.4,1698,1636,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.4,676,899,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.4,0,860,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.4,0,377,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.4,1088,1283,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.4,0,491,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.4,1312,1161,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.4,2058,1724,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.4,1254,1100,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.4,0,910,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.4,644,941,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.4,3362,866,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.4,1122,1163,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.4,851,1188,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.4,500,421,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.4,0,812,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.4,0,1076,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.4,504,543,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.4,775,1226,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.4,0,895,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.4,0,747,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.4,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.4,987,998,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.4,904,1046,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.4,5152,794,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.4,0,240,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.4,1000,769,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.4,0,845,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.4,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.4,1341,1274,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.4,550,1047,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.5,576,966,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.5,1653,1307,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.5,1146,1289,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.5,904,948,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.5,2141,1738,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.5,966,1021,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.5,1886,1165,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.5,1081,800,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.5,506,934,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.5,1153,748,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.5,1754,1706,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.5,1089,1038,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.5,1698,1607,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.5,676,881,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.5,0,846,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.5,0,342,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.5,1088,1252,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.5,0,448,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.5,1312,1148,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.5,2058,1694,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.5,1254,1070,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.5,0,892,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.5,644,925,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.5,3362,837,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.5,1122,1142,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.5,851,1166,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.5,500,408,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.5,0,797,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.5,0,1038,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.5,504,533,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.5,775,1207,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.5,0,878,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.5,0,729,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.5,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.5,987,979,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.5,904,1028,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.5,5152,775,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.5,0,196,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.5,1000,755,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.5,0,826,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.5,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.5,1341,1254,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.5,550,1030,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.6,576,942,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.6,1653,1285,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.6,1146,1269,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.6,904,922,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.6,2141,1706,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.6,966,1005,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.6,1886,1145,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.6,1081,785,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.6,506,920,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.6,1153,737,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.6,1754,1640,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.6,1089,1020,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.6,1698,1574,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.6,676,863,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.6,0,823,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.6,0,306,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.6,1088,1231,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.6,0,410,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.6,1312,1126,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.6,2058,1661,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.6,1254,1037,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.6,0,869,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.6,644,908,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.6,3362,821,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.6,1122,1122,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.6,851,1149,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.6,500,393,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.6,0,780,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.6,0,1001,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.6,504,524,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.6,775,1181,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.6,0,854,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.6,0,708,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.6,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.6,987,955,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.6,904,1014,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.6,5152,757,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.6,0,146,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.6,1000,744,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.6,0,809,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.6,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.6,1341,1241,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.6,550,1014,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.7,576,921,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.7,1653,1248,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.7,1146,1251,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.7,904,878,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.7,2141,1677,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.7,966,984,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.7,1886,1111,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.7,1081,769,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.7,506,903,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.7,1153,719,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.7,1754,1580,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.7,1089,986,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.7,1698,1543,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.7,676,847,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.7,0,804,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.7,0,269,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.7,1088,1203,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.7,0,378,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.7,1312,1100,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.7,2058,1618,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.7,1254,996,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.7,0,848,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.7,644,893,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.7,3362,796,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.7,1122,1093,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.7,851,1122,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.7,500,383,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.7,0,771,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.7,0,964,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.7,504,510,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.7,775,1159,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.7,0,839,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.7,0,678,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.7,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.7,987,936,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.7,904,1001,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.7,5152,736,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.7,0,85,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.7,1000,724,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.7,0,791,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.7,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.7,1341,1209,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.7,550,983,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.8,576,905,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.8,1653,1215,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.8,1146,1225,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.8,904,826,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.8,2141,1642,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.8,966,952,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.8,1886,1067,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.8,1081,747,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.8,506,879,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.8,1153,703,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.8,1754,1494,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.8,1089,959,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.8,1698,1509,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.8,676,822,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.8,0,779,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.8,0,213,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.8,1088,1175,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.8,0,332,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.8,1312,1078,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.8,2058,1566,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.8,1254,953,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.8,0,824,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.8,644,874,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.8,3362,769,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.8,1122,1070,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.8,851,1098,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.8,500,363,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.8,0,737,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.8,0,910,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.8,504,488,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.8,775,1136,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.8,0,808,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.8,0,647,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.8,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.8,987,902,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.8,904,972,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.8,5152,718,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.8,0,31,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.8,1000,707,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.8,0,771,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.8,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.8,1341,1180,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.8,550,960,1,1
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,0.9,576,859,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,0.9,1653,1168,1,1
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,0.9,1146,1167,1,1
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,0.9,904,744,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,0.9,2141,1569,1,1
+2a364dea24600221fb6208567bda008b,Aortic enlargement,0.9,966,903,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,0.9,1886,1001,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,0.9,1081,710,1,1
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,0.9,506,836,1,1
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,0.9,1153,666,1,1
+db462203729870bda6162307e7d2f319,Aortic enlargement,0.9,1754,1334,1,1
+3727a613e597811aee451370fde09c49,Aortic enlargement,0.9,1089,906,1,1
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,0.9,1698,1441,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,0.9,676,793,1,1
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0.9,0,757,0,1
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0.9,0,144,0,1
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,0.9,1088,1122,1,1
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0.9,0,255,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,0.9,1312,1021,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,0.9,2058,1512,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,0.9,1254,869,1,1
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0.9,0,785,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,0.9,644,837,1,1
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,0.9,3362,726,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,0.9,1122,1030,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,0.9,851,1054,1,1
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,0.9,500,342,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0.9,0,697,0,1
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0.9,0,832,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,0.9,504,454,1,1
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,0.9,775,1088,1,1
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0.9,0,765,0,1
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0.9,0,592,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0.9,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,0.9,987,849,1,1
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,0.9,904,931,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,0.9,5152,694,1,1
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0.9,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,0.9,1000,667,1,1
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0.9,0,734,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,0.9,1088,0,1,0
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,0.9,1341,1138,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,0.9,550,920,1,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.05,0,1956,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.05,0,3563,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.05,3468,4474,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.05,4449,7025,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.05,6712,5711,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.05,4056,4343,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.05,0,2148,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.05,6594,4984,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.05,4030,5120,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.05,4067,4634,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.05,5654,9014,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.05,3585,4596,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.05,4428,7638,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.05,0,4381,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.05,0,3158,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.05,0,3890,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.05,0,1747,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.05,0,495,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.05,5734,5272,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.05,3932,4856,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.05,4065,6333,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.05,0,2322,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.05,4653,5843,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.05,0,1455,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.05,4312,4178,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.05,4524,4832,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.05,0,100,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.05,3979,4745,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.05,0,3384,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.05,0,295,0,1
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.05,7359,6562,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.05,8120,7233,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.05,0,1686,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.05,4642,5907,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.05,0,2132,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.05,0,4620,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.05,0,6572,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.05,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.05,5258,5215,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.05,0,4254,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.05,3723,5183,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.05,5335,5454,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.05,0,2002,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.1,0,1729,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.1,0,3189,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.1,3468,4304,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.1,4449,6477,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.1,6712,5375,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.1,4056,4146,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.1,0,1477,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.1,6594,4334,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.1,4030,4823,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.1,4067,4238,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.1,5654,8305,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.1,3585,4356,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.1,4428,7234,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.1,0,3858,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.1,0,2948,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.1,0,3399,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.1,0,1428,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.1,0,248,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.1,5734,5013,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.1,3932,4602,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.1,4065,5926,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.1,0,1834,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.1,4653,5629,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.1,0,1154,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.1,4312,3959,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.1,4524,4558,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.1,0,3,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.1,3979,4513,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.1,0,2859,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.1,0,122,0,1
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.1,7359,6226,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.1,8120,6927,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.1,0,1162,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.1,4642,5677,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.1,0,1726,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.1,0,4401,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.1,0,6251,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.1,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.1,5258,4858,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.1,0,4062,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.1,3723,4417,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.1,5335,5205,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.1,0,1536,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.15,0,1589,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.15,0,2899,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.15,3468,4191,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.15,4449,6115,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.15,6712,5169,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.15,4056,4004,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.15,0,1013,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.15,6594,3908,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.15,4030,4637,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.15,4067,4015,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.15,5654,7898,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.15,3585,4226,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.15,4428,7008,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.15,0,3503,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.15,0,2838,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.15,0,3109,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.15,0,1272,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.15,0,184,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.15,5734,4880,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.15,3932,4443,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.15,4065,5714,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.15,0,1466,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.15,4653,5441,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.15,0,943,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.15,4312,3824,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.15,4524,4412,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.15,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.15,3979,4366,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.15,0,2535,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.15,0,66,0,1
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.15,7359,6029,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.15,8120,6747,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.15,0,912,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.15,4642,5537,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.15,0,1456,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.15,0,4278,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.15,0,6076,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.15,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.15,5258,4670,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.15,0,3905,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.15,3723,3877,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.15,5335,5074,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.15,0,1194,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.2,0,1473,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.2,0,2649,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.2,3468,4117,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.2,4449,5899,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.2,6712,5023,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.2,4056,3905,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.2,0,792,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.2,6594,3571,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.2,4030,4513,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.2,4067,3823,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.2,5654,7622,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.2,3585,4130,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.2,4428,6824,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.2,0,3037,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.2,0,2744,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.2,0,2877,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.2,0,1166,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.2,0,141,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.2,5734,4752,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.2,3932,4323,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.2,4065,5574,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.2,0,1211,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.2,4653,5356,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.2,0,790,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.2,4312,3730,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.2,4524,4287,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.2,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.2,3979,4281,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.2,0,2304,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.2,0,42,0,1
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.2,7359,5878,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.2,8120,6603,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.2,0,766,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.2,4642,5448,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.2,0,1227,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.2,0,4176,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.2,0,5944,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.2,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.2,5258,4536,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.2,0,3811,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.2,3723,3504,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.2,5335,4967,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.2,0,978,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.3,0,1307,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.3,0,2163,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.3,3468,4002,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.3,4449,5611,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.3,6712,4816,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.3,4056,3737,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.3,0,536,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.3,6594,3183,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.3,4030,4293,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.3,4067,3593,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.3,5654,7144,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.3,3585,3948,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.3,4428,6590,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.3,0,2284,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.3,0,2604,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.3,0,2514,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.3,0,1034,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.3,0,84,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.3,5734,4603,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.3,3932,4158,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.3,4065,5394,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.3,0,843,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.3,4653,5198,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.3,0,547,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.3,4312,3593,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.3,4524,4127,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.3,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.3,3979,4122,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.3,0,1993,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.3,0,10,0,1
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.3,7359,5656,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.3,8120,6371,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.3,0,614,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.3,4642,5283,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.3,0,854,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.3,0,4051,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.3,0,5749,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.3,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.3,5258,4336,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.3,0,3670,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.3,3723,2916,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.3,5335,4798,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.3,0,687,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.4,0,1172,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.4,0,1792,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.4,3468,3894,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.4,4449,5423,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.4,6712,4636,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.4,4056,3620,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.4,0,366,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.4,6594,2981,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.4,4030,4122,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.4,4067,3403,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.4,5654,6825,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.4,3585,3833,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.4,4428,6393,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.4,0,1894,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.4,0,2495,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.4,0,2238,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.4,0,947,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.4,0,59,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.4,5734,4462,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.4,3932,4019,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.4,4065,5230,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.4,0,686,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.4,4653,5053,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.4,0,398,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.4,4312,3480,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.4,4524,3981,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.4,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.4,3979,4006,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.4,0,1744,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.4,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.4,7359,5480,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.4,8120,6185,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.4,0,504,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.4,4642,5169,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.4,0,529,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.4,0,3943,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.4,0,5606,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.4,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.4,5258,4173,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.4,0,3532,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.4,3723,2542,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.4,5335,4691,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.4,0,476,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.5,0,1023,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.5,0,1556,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.5,3468,3805,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.5,4449,5265,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.5,6712,4477,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.5,4056,3507,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.5,0,261,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.5,6594,2821,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.5,4030,3985,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.5,4067,3212,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.5,5654,6537,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.5,3585,3712,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.5,4428,6223,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.5,0,1587,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.5,0,2379,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.5,0,1931,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.5,0,869,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.5,0,34,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.5,5734,4362,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.5,3932,3901,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.5,4065,5089,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.5,0,546,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.5,4653,4949,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.5,0,300,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.5,4312,3382,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.5,4524,3870,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.5,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.5,3979,3895,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.5,0,1544,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.5,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.5,7359,5324,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.5,8120,6025,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.5,0,382,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.5,4642,5055,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.5,0,345,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.5,0,3842,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.5,0,5445,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.5,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.5,5258,4033,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.5,0,3409,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.5,3723,2216,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.5,5335,4586,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.5,0,299,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.6,0,862,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.6,0,1281,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.6,3468,3705,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.6,4449,5081,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.6,6712,4314,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.6,4056,3389,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.6,0,141,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.6,6594,2640,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.6,4030,3822,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.6,4067,3022,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.6,5654,6288,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.6,3585,3601,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.6,4428,6030,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.6,0,1172,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.6,0,2272,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.6,0,1619,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.6,0,782,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.6,0,13,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.6,5734,4236,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.6,3932,3769,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.6,4065,4960,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.6,0,478,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.6,4653,4815,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.6,0,179,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.6,4312,3259,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.6,4524,3742,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.6,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.6,3979,3789,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.6,0,1349,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.6,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.6,7359,5173,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.6,8120,5818,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.6,0,253,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.6,4642,4926,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.6,0,195,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.6,0,3740,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.6,0,5322,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.6,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.6,5258,3883,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.6,0,3266,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.6,3723,1897,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.6,5335,4466,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.6,0,117,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.7,0,635,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.7,0,911,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.7,3468,3610,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.7,4449,4893,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.7,6712,4118,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.7,4056,3239,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.7,0,35,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.7,6594,2477,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.7,4030,3647,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.7,4067,2742,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.7,5654,5974,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.7,3585,3462,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.7,4428,5832,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.7,0,678,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.7,0,2140,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.7,0,1281,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.7,0,686,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.7,0,0,0,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.7,5734,4094,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.7,3932,3623,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.7,4065,4804,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.7,0,402,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.7,4653,4687,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.7,0,40,0,1
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.7,4312,3131,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.7,4524,3595,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.7,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.7,3979,3658,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.7,0,1124,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.7,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.7,7359,4965,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.7,8120,5607,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.7,0,92,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.7,4642,4771,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.7,0,70,0,1
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.7,0,3610,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.7,0,5180,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.7,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.7,5258,3705,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.7,0,3130,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.7,3723,1554,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.7,5335,4354,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.7,0,48,0,1
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.8,0,372,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.8,0,572,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.8,3468,3472,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.8,4449,4639,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.8,6712,3832,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.8,4056,3037,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.8,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.8,6594,2270,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.8,4030,3356,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.8,4067,2310,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.8,5654,5577,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.8,3585,3271,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.8,4428,5542,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.8,0,202,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.8,0,1953,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.8,0,953,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.8,0,542,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.8,0,0,0,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.8,5734,3896,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.8,3932,3415,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.8,4065,4600,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.8,0,298,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.8,4653,4516,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.8,0,0,0,0
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.8,4312,2954,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.8,4524,3391,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.8,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.8,3979,3473,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.8,0,733,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.8,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.8,7359,4671,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.8,8120,5300,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.8,0,8,0,1
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.8,4642,4562,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.8,0,0,0,0
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.8,0,3445,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.8,0,4956,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.8,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.8,5258,3457,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.8,0,2860,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.8,3723,1119,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.8,5335,4166,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.8,0,0,0,0
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0.9,0,156,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0.9,0,89,0,1
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,0.9,3468,3172,1,1
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,0.9,4449,4133,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,0.9,6712,3166,1,1
+2a364dea24600221fb6208567bda008b,Cardiomegaly,0.9,4056,2613,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0.9,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,0.9,6594,1840,1,1
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,0.9,4030,2741,1,1
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,0.9,4067,1191,1,1
+db462203729870bda6162307e7d2f319,Cardiomegaly,0.9,5654,4805,1,1
+3727a613e597811aee451370fde09c49,Cardiomegaly,0.9,3585,2819,1,1
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,0.9,4428,4984,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0.9,0,20,0,1
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0.9,0,1394,0,1
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0.9,0,350,0,1
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0.9,0,240,0,1
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0.9,0,0,0,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,0.9,5734,3461,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,0.9,3932,2997,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,0.9,4065,4186,1,1
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0.9,0,61,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,0.9,4653,4127,1,1
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0.9,0,0,0,0
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,0.9,4312,2592,1,1
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,0.9,4524,2914,1,1
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0.9,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,0.9,3979,3073,1,1
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0.9,0,304,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0.9,0,0,0,0
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,0.9,7359,4051,1,1
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,0.9,8120,4581,1,1
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0.9,0,0,0,0
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,0.9,4642,4124,1,1
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0.9,0,0,0,0
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0.9,0,3073,0,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0.9,0,4543,0,1
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0.9,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,0.9,5258,2997,1,1
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0.9,0,2300,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,0.9,3723,598,1,1
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,0.9,5335,3801,1,1
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0.9,0,0,0,0
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.05,1452,1624,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.05,2735,1189,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.05,832,1552,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.05,0,142,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.05,608,1251,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.05,0,1341,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.05,740,1503,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.05,0,1187,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.05,0,557,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.05,0,632,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.05,766,164,1,1
+3727a613e597811aee451370fde09c49,Pleural thickening,0.05,658,1591,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.05,420,538,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.05,235,2414,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.05,0,1189,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.05,0,2237,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.05,9393,4210,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.05,0,1792,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.05,0,1622,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.05,0,1397,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.05,0,1054,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.05,391,2006,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.05,0,1356,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.05,2013,2882,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.05,0,2328,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.05,0,1581,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.05,960,1924,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.05,0,1759,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.05,2549,1292,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.05,223,1983,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.05,0,1888,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.05,0,1906,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.05,396,1622,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.05,0,1460,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.05,1024,2630,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.05,702,1469,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.05,547,1463,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.05,491,1746,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.05,304,1222,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.05,349,1505,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.05,0,2366,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.05,0,1094,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.05,0,3420,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.1,1452,1247,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.1,2735,816,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.1,832,1332,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.1,0,51,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.1,608,916,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.1,0,914,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.1,740,1100,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.1,0,930,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.1,0,292,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.1,0,404,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.1,766,46,1,1
+3727a613e597811aee451370fde09c49,Pleural thickening,0.1,658,1369,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.1,420,360,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.1,235,1850,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.1,0,895,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.1,0,1749,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.1,9393,2736,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.1,0,1532,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.1,0,1256,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.1,0,1219,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.1,0,780,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.1,391,1686,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.1,0,1139,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.1,2013,1933,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.1,0,1457,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.1,0,1271,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.1,960,1435,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.1,0,1455,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.1,2549,530,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.1,223,1330,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.1,0,1544,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.1,0,1553,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.1,396,1018,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.1,0,1015,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.1,1024,2130,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.1,702,1137,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.1,547,1101,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.1,491,1462,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.1,304,529,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.1,349,1078,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.1,0,1440,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.1,0,926,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.1,0,2458,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.15,1452,1072,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.15,2735,664,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.15,832,1198,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.15,0,17,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.15,608,750,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.15,0,756,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.15,740,889,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.15,0,810,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.15,0,185,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.15,0,289,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.15,766,7,1,1
+3727a613e597811aee451370fde09c49,Pleural thickening,0.15,658,1245,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.15,420,277,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.15,235,1543,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.15,0,744,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.15,0,1508,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.15,9393,2254,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.15,0,1387,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.15,0,1064,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.15,0,1100,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.15,0,638,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.15,391,1518,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.15,0,1003,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.15,2013,1621,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.15,0,1140,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.15,0,1128,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.15,960,1166,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.15,0,1295,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.15,2549,283,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.15,223,1089,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.15,0,1369,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.15,0,1395,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.15,396,683,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.15,0,846,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.15,1024,1814,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.15,702,942,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.15,547,930,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.15,491,1327,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.15,304,318,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.15,349,870,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.15,0,1222,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.15,0,820,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.15,0,1880,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.2,1452,926,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.2,2735,565,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.2,832,1098,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.2,0,1,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.2,608,642,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.2,0,684,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.2,740,770,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.2,0,702,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.2,0,145,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.2,0,212,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.2,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.2,658,1145,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.2,420,209,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.2,235,1322,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.2,0,625,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.2,0,1339,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.2,9393,1975,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.2,0,1275,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.2,0,939,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.2,0,1011,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.2,0,548,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.2,391,1384,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.2,0,917,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.2,2013,1435,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.2,0,988,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.2,0,1038,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.2,960,1010,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.2,0,1183,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.2,2549,171,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.2,223,952,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.2,0,1245,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.2,0,1266,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.2,396,470,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.2,0,758,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.2,1024,1592,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.2,702,809,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.2,547,802,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.2,491,1231,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.2,304,169,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.2,349,741,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.2,0,1094,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.2,0,750,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.2,0,1584,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.3,1452,732,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.3,2735,428,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.3,832,897,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.3,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.3,608,499,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.3,0,578,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.3,740,642,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.3,0,472,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.3,0,70,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.3,0,114,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.3,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.3,658,989,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.3,420,152,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.3,235,916,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.3,0,465,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.3,0,1067,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.3,9393,1547,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.3,0,1124,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.3,0,766,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.3,0,877,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.3,0,418,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.3,391,1176,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.3,0,747,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.3,2013,1224,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.3,0,786,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.3,0,895,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.3,960,815,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.3,0,1019,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.3,2549,105,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.3,223,740,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.3,0,1063,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.3,0,1061,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.3,396,207,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.3,0,614,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.3,1024,1327,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.3,702,665,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.3,547,641,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.3,491,1103,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.3,304,44,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.3,349,547,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.3,0,928,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.3,0,614,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.3,0,1200,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.4,1452,545,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.4,2735,316,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.4,832,740,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.4,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.4,608,383,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.4,0,476,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.4,740,570,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.4,0,318,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.4,0,31,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.4,0,65,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.4,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.4,658,850,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.4,420,122,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.4,235,664,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.4,0,348,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.4,0,832,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.4,9393,1161,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.4,0,971,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.4,0,620,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.4,0,748,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.4,0,309,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.4,391,992,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.4,0,625,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.4,2013,1091,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.4,0,636,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.4,0,764,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.4,960,670,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.4,0,865,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.4,2549,73,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.4,223,526,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.4,0,913,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.4,0,901,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.4,396,103,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.4,0,503,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.4,1024,1083,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.4,702,526,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.4,547,479,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.4,491,983,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.4,304,5,1,1
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.4,349,383,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.4,0,803,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.4,0,470,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.4,0,869,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.5,1452,344,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.5,2735,247,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.5,832,542,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.5,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.5,608,279,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.5,0,366,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.5,740,513,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.5,0,250,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.5,0,1,0,1
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.5,0,32,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.5,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.5,658,708,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.5,420,99,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.5,235,340,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.5,0,235,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.5,0,651,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.5,9393,753,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.5,0,813,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.5,0,502,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.5,0,616,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.5,0,197,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.5,391,840,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.5,0,522,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.5,2013,946,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.5,0,513,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.5,0,632,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.5,960,535,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.5,0,703,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.5,2549,41,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.5,223,329,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.5,0,757,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.5,0,753,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.5,396,37,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.5,0,423,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.5,1024,831,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.5,702,387,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.5,547,373,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.5,491,860,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.5,304,0,1,0
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.5,349,241,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.5,0,677,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.5,0,250,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.5,0,575,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.6,1452,110,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.6,2735,178,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.6,832,292,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.6,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.6,608,135,1,1
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.6,0,216,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.6,740,439,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.6,0,171,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.6,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.6,0,4,0,1
+db462203729870bda6162307e7d2f319,Pleural thickening,0.6,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.6,658,549,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.6,420,72,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.6,235,21,1,1
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.6,0,133,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.6,0,460,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.6,9393,327,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.6,0,556,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.6,0,376,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.6,0,464,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.6,0,137,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.6,391,718,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.6,0,399,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.6,2013,788,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.6,0,387,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.6,0,498,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.6,960,360,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.6,0,530,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.6,2549,10,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.6,223,186,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.6,0,546,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.6,0,548,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.6,396,0,1,0
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.6,0,314,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.6,1024,520,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.6,702,155,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.6,547,296,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.6,491,715,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.6,304,0,1,0
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.6,349,78,1,1
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.6,0,544,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.6,0,103,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.6,0,387,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.7,1452,7,1,1
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.7,2735,101,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.7,832,112,1,1
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.7,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.7,608,0,1,0
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.7,0,2,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.7,740,305,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.7,0,37,0,1
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.7,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.7,0,0,0,0
+db462203729870bda6162307e7d2f319,Pleural thickening,0.7,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.7,658,252,1,1
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.7,420,22,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.7,235,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.7,0,27,0,1
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.7,0,81,0,1
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.7,9393,45,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.7,0,213,0,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.7,0,173,0,1
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.7,0,190,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.7,0,62,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.7,391,504,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.7,0,289,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.7,2013,521,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.7,0,238,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.7,0,263,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.7,960,74,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.7,0,268,0,1
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.7,2549,0,1,0
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.7,223,48,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.7,0,174,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.7,0,236,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.7,396,0,1,0
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.7,0,130,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.7,1024,217,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.7,702,34,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.7,547,137,1,1
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.7,491,430,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.7,304,0,1,0
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.7,349,0,1,0
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.7,0,329,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.7,0,3,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.7,0,197,0,1
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.8,1452,0,1,0
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.8,2735,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.8,832,0,1,0
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.8,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.8,608,0,1,0
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.8,0,0,0,0
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.8,740,82,1,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.8,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.8,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.8,0,0,0,0
+db462203729870bda6162307e7d2f319,Pleural thickening,0.8,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.8,658,0,1,0
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.8,420,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.8,235,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.8,0,0,0,0
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.8,0,0,0,0
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.8,9393,0,1,0
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.8,0,0,0,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.8,0,0,0,0
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.8,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.8,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.8,391,176,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.8,0,81,0,1
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.8,2013,78,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.8,0,31,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.8,0,21,0,1
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.8,960,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.8,0,0,0,0
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.8,2549,0,1,0
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.8,223,0,1,0
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.8,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.8,0,3,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.8,396,0,1,0
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.8,0,19,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.8,1024,55,1,1
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.8,702,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.8,547,0,1,0
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.8,491,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.8,304,0,1,0
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.8,349,0,1,0
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.8,0,114,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.8,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.8,0,0,0,0
+db0409f17482d968dc350ae12a91d913,Pleural thickening,0.9,1452,0,1,0
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,0.9,2735,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,0.9,832,0,1,0
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0.9,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,0.9,608,0,1,0
+2a364dea24600221fb6208567bda008b,Pleural thickening,0.9,0,0,0,0
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,0.9,740,0,1,0
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0.9,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0.9,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0.9,0,0,0,0
+db462203729870bda6162307e7d2f319,Pleural thickening,0.9,766,0,1,0
+3727a613e597811aee451370fde09c49,Pleural thickening,0.9,658,0,1,0
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,0.9,420,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,0.9,235,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0.9,0,0,0,0
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0.9,0,0,0,0
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,0.9,9393,0,1,0
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0.9,0,0,0,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0.9,0,0,0,0
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0.9,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0.9,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,0.9,391,0,1,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0.9,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pleural thickening,0.9,2013,0,1,0
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0.9,0,0,0,0
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0.9,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,0.9,960,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0.9,0,0,0,0
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,0.9,2549,0,1,0
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,0.9,223,0,1,0
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0.9,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0.9,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,0.9,396,0,1,0
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0.9,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,0.9,1024,0,1,0
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,0.9,702,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,0.9,547,0,1,0
+134cd4124bd1d75563cb47732742e331,Pleural thickening,0.9,491,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,0.9,304,0,1,0
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,0.9,349,0,1,0
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0.9,0,0,0,0
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0.9,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0.9,0,0,0,0
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.05,0,2177,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.05,4535,2126,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.05,0,1992,0,1
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.05,924,655,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.05,0,763,0,1
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.05,690,2780,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.05,0,2569,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.05,0,1900,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.05,0,571,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.05,0,1207,0,1
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.05,0,73,0,1
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.05,0,1218,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.05,2438,1582,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.05,878,3851,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.05,137,1150,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.05,242,2738,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.05,3180,6013,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.05,1280,2986,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.05,2311,1525,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.05,0,1462,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.05,0,650,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.05,192,2602,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.05,0,1048,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.05,1247,8919,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.05,0,3117,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.05,0,1102,0,1
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.05,792,1412,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.05,632,1539,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.05,0,3094,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.05,8028,5153,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.05,0,2139,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.05,0,3191,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.05,622,2995,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.05,0,3418,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.05,0,4681,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.05,168,2002,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.05,0,1881,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.05,4033,962,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.05,0,3093,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.05,0,2035,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.05,0,7365,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.05,0,355,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.05,0,3870,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.1,0,1838,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.1,4535,1413,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.1,0,1103,0,1
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.1,924,397,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.1,0,163,0,1
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.1,690,1693,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.1,0,1339,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.1,0,1141,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.1,0,393,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.1,0,502,0,1
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.1,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.1,0,377,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.1,2438,906,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.1,878,2395,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.1,137,677,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.1,242,1625,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.1,3180,5312,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.1,1280,1823,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.1,2311,679,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.1,0,445,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.1,0,21,0,1
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.1,192,1415,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.1,0,393,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.1,1247,6602,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.1,0,2054,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.1,0,134,0,1
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.1,792,446,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.1,632,644,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.1,0,2273,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.1,8028,3773,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.1,0,876,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.1,0,1690,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.1,622,2483,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.1,0,2363,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.1,0,3381,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.1,168,1104,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.1,0,911,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.1,4033,63,1,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.1,0,2346,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.1,0,1302,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.1,0,5796,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.1,0,36,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.1,0,2951,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.15,0,1678,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.15,4535,1236,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.15,0,702,0,1
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.15,924,302,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.15,0,10,0,1
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.15,690,1279,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.15,0,948,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.15,0,897,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.15,0,314,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.15,0,150,0,1
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.15,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.15,0,265,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.15,2438,573,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.15,878,1852,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.15,137,537,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.15,242,1268,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.15,3180,4873,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.15,1280,1220,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.15,2311,429,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.15,0,217,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.15,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.15,192,861,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.15,0,235,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.15,1247,5272,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.15,0,1591,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.15,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.15,792,269,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.15,632,407,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.15,0,1682,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.15,8028,3091,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.15,0,587,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.15,0,1180,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.15,622,2186,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.15,0,1811,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.15,0,2916,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.15,168,836,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.15,0,758,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.15,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.15,0,2032,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.15,0,1067,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.15,0,5274,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.15,0,4,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.15,0,2533,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.2,0,1538,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.2,4535,1106,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.2,0,394,0,1
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.2,924,223,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.2,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.2,690,1059,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.2,0,683,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.2,0,727,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.2,0,254,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.2,0,40,0,1
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.2,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.2,0,220,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.2,2438,364,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.2,878,1482,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.2,137,453,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.2,242,1045,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.2,3180,4460,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.2,1280,802,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.2,2311,292,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.2,0,103,0,1
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.2,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.2,192,663,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.2,0,182,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.2,1247,4127,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.2,0,1294,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.2,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.2,792,194,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.2,632,323,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.2,0,1303,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.2,8028,2649,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.2,0,424,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.2,0,879,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.2,622,1973,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.2,0,1531,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.2,0,2614,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.2,168,712,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.2,0,668,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.2,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.2,0,1806,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.2,0,909,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.2,0,4915,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.2,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.2,0,2288,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.3,0,1288,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.3,4535,886,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.3,0,154,0,1
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.3,924,111,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.3,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.3,690,844,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.3,0,303,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.3,0,479,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.3,0,157,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.3,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.3,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.3,0,139,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.3,2438,104,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.3,878,879,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.3,137,309,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.3,242,758,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.3,3180,3614,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.3,1280,457,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.3,2311,101,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.3,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.3,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.3,192,449,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.3,0,87,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.3,1247,2432,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.3,0,990,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.3,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.3,792,102,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.3,632,213,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.3,0,681,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.3,8028,1991,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.3,0,192,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.3,0,527,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.3,622,1639,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.3,0,1228,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.3,0,2161,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.3,168,566,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.3,0,501,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.3,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.3,0,1483,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.3,0,719,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.3,0,4346,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.3,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.3,0,1932,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.4,0,1059,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.4,4535,659,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.4,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.4,924,50,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.4,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.4,690,721,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.4,0,106,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.4,0,321,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.4,0,38,0,1
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.4,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.4,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.4,0,80,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.4,2438,4,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.4,878,460,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.4,137,185,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.4,242,537,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.4,3180,3002,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.4,1280,272,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.4,2311,28,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.4,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.4,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.4,192,311,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.4,0,23,0,1
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.4,1247,1371,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.4,0,732,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.4,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.4,792,33,1,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.4,632,124,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.4,0,364,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.4,8028,1663,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.4,0,82,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.4,0,350,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.4,622,1359,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.4,0,970,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.4,0,1764,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.4,168,415,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.4,0,345,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.4,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.4,0,1184,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.4,0,563,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.4,0,3820,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.4,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.4,0,1610,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.5,0,749,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.5,4535,457,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.5,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.5,924,1,1,1
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.5,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.5,690,601,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.5,0,16,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.5,0,163,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.5,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.5,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.5,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.5,0,32,0,1
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.5,2438,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.5,878,163,1,1
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.5,137,50,1,1
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.5,242,344,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.5,3180,2423,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.5,1280,115,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.5,2311,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.5,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.5,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.5,192,179,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.5,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.5,1247,733,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.5,0,485,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.5,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.5,792,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.5,632,40,1,1
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.5,0,213,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.5,8028,1360,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.5,0,26,0,1
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.5,0,252,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.5,622,1039,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.5,0,763,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.5,0,1337,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.5,168,230,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.5,0,203,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.5,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.5,0,876,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.5,0,401,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.5,0,3302,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.5,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.5,0,1294,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.6,0,458,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.6,4535,271,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.6,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.6,924,0,1,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.6,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.6,690,464,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.6,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.6,0,9,0,1
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.6,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.6,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.6,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.6,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.6,2438,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.6,878,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.6,137,0,1,0
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.6,242,159,1,1
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.6,3180,1711,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.6,1280,2,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.6,2311,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.6,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.6,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.6,192,80,1,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.6,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.6,1247,325,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.6,0,299,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.6,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.6,792,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.6,632,0,1,0
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.6,0,103,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.6,8028,1105,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.6,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.6,0,133,0,1
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.6,622,680,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.6,0,591,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.6,0,781,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.6,168,105,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.6,0,40,0,1
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.6,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.6,0,527,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.6,0,228,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.6,0,2606,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.6,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.6,0,962,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.7,0,207,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.7,4535,3,1,1
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.7,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.7,924,0,1,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.7,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.7,690,270,1,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.7,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.7,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.7,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.7,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.7,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.7,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.7,2438,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.7,878,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.7,137,0,1,0
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.7,242,0,1,0
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.7,3180,947,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.7,1280,0,1,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.7,2311,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.7,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.7,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.7,192,0,1,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.7,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.7,1247,0,1,0
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.7,0,83,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.7,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.7,792,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.7,632,0,1,0
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.7,0,6,0,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.7,8028,661,1,1
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.7,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.7,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.7,622,309,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.7,0,367,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.7,0,127,0,1
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.7,168,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.7,0,0,0,0
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.7,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.7,0,216,0,1
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.7,0,0,0,0
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.7,0,1536,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.7,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.7,0,524,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.8,0,0,0,0
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.8,4535,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.8,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.8,924,0,1,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.8,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.8,690,0,1,0
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.8,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.8,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.8,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.8,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.8,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.8,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.8,2438,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.8,878,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.8,137,0,1,0
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.8,242,0,1,0
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.8,3180,175,1,1
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.8,1280,0,1,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.8,2311,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.8,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.8,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.8,192,0,1,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.8,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.8,1247,0,1,0
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.8,0,0,0,0
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.8,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.8,792,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.8,632,0,1,0
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.8,0,0,0,0
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.8,8028,0,1,0
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.8,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.8,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.8,622,9,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.8,0,69,0,1
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.8,0,0,0,0
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.8,168,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.8,0,0,0,0
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.8,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.8,0,0,0,0
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.8,0,0,0,0
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.8,0,676,0,1
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.8,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.8,0,77,0,1
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0.9,0,0,0,0
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,0.9,4535,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0.9,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,0.9,924,0,1,0
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0.9,0,0,0,0
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,0.9,690,0,1,0
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0.9,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0.9,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0.9,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0.9,0,0,0,0
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0.9,0,0,0,0
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0.9,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,0.9,2438,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,0.9,878,0,1,0
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,0.9,137,0,1,0
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,0.9,242,0,1,0
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,0.9,3180,0,1,0
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,0.9,1280,0,1,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,0.9,2311,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0.9,0,0,0,0
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0.9,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,0.9,192,0,1,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0.9,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,0.9,1247,0,1,0
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0.9,0,0,0,0
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0.9,0,0,0,0
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,0.9,792,0,1,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,0.9,632,0,1,0
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0.9,0,0,0,0
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,0.9,8028,0,1,0
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0.9,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0.9,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,0.9,622,0,1,0
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0.9,0,0,0,0
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0.9,0,0,0,0
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,0.9,168,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0.9,0,0,0,0
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,0.9,4033,0,1,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0.9,0,0,0,0
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0.9,0,0,0,0
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0.9,0,0,0,0
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0.9,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0.9,0,0,0,0
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.05,0,2261,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.05,3578,1639,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.05,0,1933,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.05,0,489,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.05,0,345,0,1
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.05,0,3103,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.05,0,3197,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.05,0,1363,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.05,0,783,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.05,0,1270,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.05,0,25,0,1
+3727a613e597811aee451370fde09c49,Lung Opacity,0.05,0,610,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.05,420,1094,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.05,0,3998,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.05,0,1211,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.05,0,2906,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.05,12932,6932,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.05,1280,3206,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.05,480,1278,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.05,2460,931,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.05,0,21,0,1
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.05,0,1359,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.05,0,540,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.05,416,8708,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.05,0,3122,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.05,840,672,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.05,0,640,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.05,544,753,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.05,8903,4447,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.05,1416,4029,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.05,0,1917,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.05,0,2262,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.05,4071,3772,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.05,0,4443,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.05,0,4363,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.05,8778,1584,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.05,0,1152,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.05,0,319,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.05,2080,4830,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.05,0,1942,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.05,9003,8262,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.05,0,615,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.05,3883,3835,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.1,0,1831,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.1,3578,1336,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.1,0,977,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.1,0,308,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.1,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.1,0,2045,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.1,0,1915,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.1,0,993,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.1,0,564,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.1,0,699,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.1,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.1,0,403,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.1,420,605,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.1,0,2566,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.1,0,842,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.1,0,1882,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.1,12932,6074,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.1,1280,2257,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.1,480,824,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.1,2460,367,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.1,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.1,0,674,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.1,0,325,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.1,416,6399,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.1,0,2357,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.1,840,380,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.1,0,295,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.1,544,530,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.1,8903,3679,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.1,1416,3114,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.1,0,924,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.1,0,1508,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.1,4071,3061,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.1,0,2842,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.1,0,3479,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.1,8778,1143,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.1,0,894,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.1,0,167,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.1,2080,3396,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.1,0,1453,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.1,9003,6996,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.1,0,314,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.1,3883,3229,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.15,0,1597,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.15,3578,1178,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.15,0,609,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.15,0,192,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.15,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.15,0,1634,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.15,0,1498,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.15,0,789,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.15,0,489,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.15,0,538,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.15,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.15,0,336,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.15,420,446,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.15,0,2009,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.15,0,655,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.15,0,1571,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.15,12932,5599,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.15,1280,1791,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.15,480,667,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.15,2460,233,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.15,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.15,0,487,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.15,0,238,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.15,416,5242,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.15,0,2003,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.15,840,253,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.15,0,142,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.15,544,424,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.15,8903,3208,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.15,1416,2543,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.15,0,515,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.15,0,1207,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.15,4071,2745,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.15,0,2196,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.15,0,3123,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.15,8778,975,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.15,0,778,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.15,0,86,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.15,2080,2898,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.15,0,1207,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.15,9003,6439,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.15,0,190,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.15,3883,2959,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.2,0,1474,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.2,3578,1057,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.2,0,389,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.2,0,126,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.2,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.2,0,1423,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.2,0,1280,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.2,0,659,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.2,0,442,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.2,0,470,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.2,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.2,0,291,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.2,420,321,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.2,0,1630,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.2,0,562,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.2,0,1389,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.2,12932,5235,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.2,1280,1412,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.2,480,558,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.2,2460,162,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.2,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.2,0,379,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.2,0,185,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.2,416,4401,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.2,0,1759,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.2,840,177,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.2,0,58,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.2,544,359,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.2,8903,2834,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.2,1416,2268,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.2,0,319,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.2,0,1041,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.2,4071,2537,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.2,0,1792,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.2,0,2843,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.2,8778,878,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.2,0,686,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.2,0,29,0,1
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.2,2080,2593,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.2,0,1078,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.2,9003,6018,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.2,0,113,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.2,3883,2766,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.3,0,1250,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.3,3578,811,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.3,0,105,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.3,0,59,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.3,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.3,0,1211,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.3,0,993,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.3,0,472,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.3,0,371,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.3,0,369,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.3,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.3,0,234,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.3,420,162,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.3,0,1174,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.3,0,402,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.3,0,1093,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.3,12932,4765,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.3,1280,926,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.3,480,427,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.3,2460,71,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.3,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.3,0,197,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.3,0,121,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.3,416,3273,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.3,0,1451,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.3,840,50,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.3,0,1,0,1
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.3,544,250,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.3,8903,2193,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.3,1416,1924,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.3,0,149,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.3,0,808,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.3,4071,2295,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.3,0,1478,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.3,0,2401,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.3,8778,731,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.3,0,538,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.3,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.3,2080,2256,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.3,0,880,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.3,9003,5260,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.3,0,30,0,1
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.3,3883,2486,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.4,0,1089,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.4,3578,604,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.4,0,29,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.4,0,21,0,1
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.4,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.4,0,1055,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.4,0,770,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.4,0,309,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.4,0,309,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.4,0,295,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.4,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.4,0,176,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.4,420,107,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.4,0,809,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.4,0,249,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.4,0,870,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.4,12932,4406,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.4,1280,600,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.4,480,321,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.4,2460,40,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.4,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.4,0,110,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.4,0,84,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.4,416,2455,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.4,0,1206,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.4,840,6,1,1
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.4,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.4,544,187,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.4,8903,1662,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.4,1416,1698,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.4,0,72,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.4,0,624,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.4,4071,2050,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.4,0,1343,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.4,0,2024,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.4,8778,627,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.4,0,412,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.4,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.4,2080,2015,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.4,0,727,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.4,9003,4844,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.4,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.4,3883,2249,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.5,0,962,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.5,3578,450,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.5,0,2,0,1
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.5,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.5,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.5,0,925,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.5,0,599,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.5,0,169,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.5,0,237,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.5,0,211,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.5,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.5,0,129,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.5,420,65,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.5,0,516,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.5,0,124,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.5,0,592,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.5,12932,4062,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.5,1280,400,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.5,480,209,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.5,2460,6,1,1
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.5,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.5,0,45,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.5,0,51,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.5,416,1846,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.5,0,975,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.5,840,0,1,0
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.5,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.5,544,112,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.5,8903,1344,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.5,1416,1497,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.5,0,16,0,1
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.5,0,440,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.5,4071,1811,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.5,0,1235,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.5,0,1719,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.5,8778,521,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.5,0,265,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.5,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.5,2080,1805,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.5,0,602,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.5,9003,4507,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.5,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.5,3883,2017,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.6,0,851,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.6,3578,288,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.6,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.6,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.6,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.6,0,798,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.6,0,442,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.6,0,40,0,1
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.6,0,142,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.6,0,99,0,1
+db462203729870bda6162307e7d2f319,Lung Opacity,0.6,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.6,0,71,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.6,420,21,1,1
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.6,0,250,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.6,0,16,0,1
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.6,0,365,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.6,12932,3704,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.6,1280,204,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.6,480,118,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.6,2460,0,1,0
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.6,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.6,0,9,0,1
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.6,0,20,0,1
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.6,416,1254,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.6,0,741,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.6,840,0,1,0
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.6,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.6,544,51,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.6,8903,1135,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.6,1416,1276,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.6,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.6,0,252,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.6,4071,1542,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.6,0,1121,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.6,0,1441,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.6,8778,430,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.6,0,116,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.6,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.6,2080,1571,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.6,0,446,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.6,9003,4122,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.6,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.6,3883,1653,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.7,0,733,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.7,3578,88,1,1
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.7,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.7,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.7,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.7,0,661,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.7,0,273,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.7,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.7,0,61,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.7,0,0,0,0
+db462203729870bda6162307e7d2f319,Lung Opacity,0.7,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.7,0,24,0,1
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.7,420,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.7,0,67,0,1
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.7,0,0,0,0
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.7,0,187,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.7,12932,3034,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.7,1280,76,1,1
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.7,480,36,1,1
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.7,2460,0,1,0
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.7,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.7,0,0,0,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.7,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.7,416,711,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.7,0,474,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.7,840,0,1,0
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.7,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.7,544,15,1,1
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.7,8903,896,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.7,1416,1044,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.7,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.7,0,51,0,1
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.7,4071,1308,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.7,0,995,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.7,0,1103,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.7,8778,306,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.7,0,59,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.7,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.7,2080,1322,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.7,0,245,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.7,9003,3616,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.7,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.7,3883,1268,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.8,0,548,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.8,3578,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.8,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.8,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.8,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.8,0,504,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.8,0,72,0,1
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.8,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.8,0,20,0,1
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.8,0,0,0,0
+db462203729870bda6162307e7d2f319,Lung Opacity,0.8,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.8,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.8,420,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.8,0,0,0,0
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.8,0,0,0,0
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.8,0,65,0,1
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.8,12932,2267,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.8,1280,0,1,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.8,480,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.8,2460,0,1,0
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.8,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.8,0,0,0,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.8,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.8,416,184,1,1
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.8,0,178,0,1
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.8,840,0,1,0
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.8,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.8,544,0,1,0
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.8,8903,450,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.8,1416,558,1,1
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.8,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.8,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.8,4071,1066,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.8,0,791,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.8,0,555,0,1
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.8,8778,150,1,1
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.8,0,14,0,1
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.8,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.8,2080,876,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.8,0,9,0,1
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.8,9003,2772,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.8,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.8,3883,997,1,1
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0.9,0,258,0,1
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,0.9,3578,0,1,0
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0.9,0,0,0,0
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0.9,0,0,0,0
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0.9,0,0,0,0
+2a364dea24600221fb6208567bda008b,Lung Opacity,0.9,0,217,0,1
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0.9,0,0,0,0
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0.9,0,0,0,0
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0.9,0,0,0,0
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0.9,0,0,0,0
+db462203729870bda6162307e7d2f319,Lung Opacity,0.9,0,0,0,0
+3727a613e597811aee451370fde09c49,Lung Opacity,0.9,0,0,0,0
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,0.9,420,0,1,0
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0.9,0,0,0,0
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0.9,0,0,0,0
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0.9,0,0,0,0
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,0.9,12932,1283,1,1
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,0.9,1280,0,1,0
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,0.9,480,0,1,0
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,0.9,2460,0,1,0
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0.9,0,0,0,0
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0.9,0,0,0,0
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0.9,0,0,0,0
+c0440c09698f89df168dc146af067fe7,Lung Opacity,0.9,416,0,1,0
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0.9,0,0,0,0
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,0.9,840,0,1,0
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0.9,0,0,0,0
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,0.9,544,0,1,0
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,0.9,8903,14,1,1
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,0.9,1416,0,1,0
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0.9,0,0,0,0
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0.9,0,0,0,0
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,0.9,4071,648,1,1
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0.9,0,401,0,1
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0.9,0,0,0,0
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,0.9,8778,0,1,0
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0.9,0,0,0,0
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0.9,0,0,0,0
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,0.9,2080,497,1,1
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0.9,0,0,0,0
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,0.9,9003,1717,1,1
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0.9,0,0,0,0
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,0.9,3883,527,1,1
