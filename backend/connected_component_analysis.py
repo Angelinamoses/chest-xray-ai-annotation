@@ -16,28 +16,37 @@ BACKEND_DIR = Path(__file__).resolve().parent
 PROJECT_ROOT = BACKEND_DIR.parent
 
 MANIFEST_PATH = (
-    PROJECT_ROOT / "data" / "processed"
+    PROJECT_ROOT
+    / "data"
+    / "processed"
     / "validation_manifest.csv"
 )
 
 MASK_DIR = (
-    PROJECT_ROOT / "data" / "processed"
+    PROJECT_ROOT
+    / "data"
+    / "processed"
     / "masks_256"
 )
 
 DICOM_DIR = (
-    PROJECT_ROOT / "data" / "images"
-    / "train" / "vindr_300"
+    PROJECT_ROOT
+    / "data"
+    / "images"
+    / "train"
+    / "vindr_300"
 )
 
 OUTPUT_DIR = (
-    BACKEND_DIR / "outputs"
+    BACKEND_DIR
+    / "outputs"
     / "connected_component_analysis"
 )
 
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-# Frozen probability thresholds
+
+# Frozen thresholds selected using validation experiments
 THRESHOLDS = {
     "Aortic enlargement": 0.60,
     "Cardiomegaly": 0.70,
@@ -46,7 +55,9 @@ THRESHOLDS = {
     "Lung Opacity": 0.15,
 }
 
-# Minimum connected-component sizes
+EXPECTED_VALIDATION_IMAGES = 43
+EXPECTED_IMAGE_SIZE = (256, 256)
+
 COMPONENT_CUTOFFS = [10, 25, 50, 100, 250]
 
 # 8-connectivity
@@ -54,43 +65,96 @@ CONNECTIVITY = np.ones((3, 3), dtype=np.uint8)
 
 
 # =====================================================
-# 2. LOAD VALIDATION MANIFEST
+# 2. CONFIGURATION VALIDATION
 # =====================================================
+
+if len(CLASS_NAMES) != 5:
+    raise ValueError(
+        f"Expected 5 classes, found {len(CLASS_NAMES)}"
+    )
+
+if set(THRESHOLDS.keys()) != set(CLASS_NAMES):
+    raise ValueError(
+        "Threshold configuration does not match CLASS_NAMES."
+    )
+
+for class_name, threshold in THRESHOLDS.items():
+    if not 0 <= threshold <= 1:
+        raise ValueError(
+            f"Invalid threshold for {class_name}: {threshold}"
+        )
+
+
+# =====================================================
+# 3. LOAD VALIDATION MANIFEST
+# =====================================================
+
+if not MANIFEST_PATH.exists():
+    raise FileNotFoundError(
+        f"Validation manifest not found: {MANIFEST_PATH}"
+    )
 
 manifest = pd.read_csv(MANIFEST_PATH)
 
-if len(manifest) != 43:
+if "image_id" not in manifest.columns:
     raise ValueError(
-        f"Expected 43 validation images, got {len(manifest)}"
+        "Manifest must contain an image_id column."
     )
 
-print("=" * 70)
+if len(manifest) != EXPECTED_VALIDATION_IMAGES:
+    raise ValueError(
+        f"Expected {EXPECTED_VALIDATION_IMAGES} validation "
+        f"images, found {len(manifest)}."
+    )
+
+manifest["image_id"] = manifest["image_id"].astype(str)
+
+if manifest["image_id"].duplicated().any():
+    raise ValueError(
+        "Duplicate image IDs found in validation manifest."
+    )
+
+print("=" * 75)
 print("CONNECTED-COMPONENT ANALYSIS")
-print("=" * 70)
+print("=" * 75)
 
 print("Validation images:", len(manifest))
 print("Classes:", CLASS_NAMES)
+print("Thresholds:", THRESHOLDS)
 
 
 # =====================================================
-# 3. LOAD MODEL
+# 4. LOAD MODEL
 # =====================================================
 
 print("\nLoading Original U-Net...")
 
 inference = ChestXrayInference()
 
-print("Model loaded on:", inference.device)
+print("Model loaded successfully.")
+print("Device:", inference.device)
 
 
 # =====================================================
-# 4. METRIC FUNCTIONS
+# 5. METRIC FUNCTIONS
 # =====================================================
 
 def calculate_segmentation_metrics(gt, pred):
+    """
+    Calculate segmentation metrics for one image.
 
-    gt = gt.astype(bool)
-    pred = pred.astype(bool)
+    Both inputs must have identical spatial dimensions.
+    Empty GT and empty prediction produce NaN Dice/IoU.
+    """
+
+    gt = np.asarray(gt).astype(bool)
+    pred = np.asarray(pred).astype(bool)
+
+    if gt.shape != pred.shape:
+        raise ValueError(
+            f"GT shape {gt.shape} does not match "
+            f"prediction shape {pred.shape}."
+        )
 
     tp = int(np.logical_and(gt, pred).sum())
     fp = int(np.logical_and(~gt, pred).sum())
@@ -101,22 +165,26 @@ def calculate_segmentation_metrics(gt, pred):
 
     dice = (
         2 * tp / dice_denominator
-        if dice_denominator > 0 else np.nan
+        if dice_denominator > 0
+        else np.nan
     )
 
     iou = (
         tp / iou_denominator
-        if iou_denominator > 0 else np.nan
+        if iou_denominator > 0
+        else np.nan
     )
 
     precision = (
         tp / (tp + fp)
-        if tp + fp > 0 else np.nan
+        if tp + fp > 0
+        else np.nan
     )
 
     recall = (
         tp / (tp + fn)
-        if tp + fn > 0 else np.nan
+        if tp + fn > 0
+        else np.nan
     )
 
     return {
@@ -130,10 +198,56 @@ def calculate_segmentation_metrics(gt, pred):
     }
 
 
-def calculate_image_metrics(gt, pred):
+def calculate_pooled_metrics(tp, fp, fn):
+    """
+    Calculate pooled metrics directly from accumulated
+    pixel-level TP, FP and FN counts.
 
-    gt_present = bool(gt.sum() > 0)
-    pred_present = bool(pred.sum() > 0)
+    This avoids constructing artificial arrays.
+    """
+
+    tp = int(tp)
+    fp = int(fp)
+    fn = int(fn)
+
+    dice_denominator = 2 * tp + fp + fn
+    iou_denominator = tp + fp + fn
+
+    return {
+        "pixel_precision": (
+            tp / (tp + fp)
+            if tp + fp > 0
+            else np.nan
+        ),
+
+        "pixel_recall": (
+            tp / (tp + fn)
+            if tp + fn > 0
+            else np.nan
+        ),
+
+        "pixel_dice": (
+            2 * tp / dice_denominator
+            if dice_denominator > 0
+            else np.nan
+        ),
+
+        "pixel_iou": (
+            tp / iou_denominator
+            if iou_denominator > 0
+            else np.nan
+        ),
+    }
+
+
+def calculate_image_metrics(gt, pred):
+    """
+    Image-level presence classification relative to
+    the bounding-box-derived pseudo-mask.
+    """
+
+    gt_present = bool(np.any(gt))
+    pred_present = bool(np.any(pred))
 
     if gt_present and pred_present:
         return "TP"
@@ -148,10 +262,16 @@ def calculate_image_metrics(gt, pred):
 
 
 # =====================================================
-# 5. CONNECTED-COMPONENT HELPERS
+# 6. CONNECTED-COMPONENT FUNCTIONS
 # =====================================================
 
 def get_component_statistics(mask):
+    """
+    Identify 8-connected components and calculate
+    their areas.
+    """
+
+    mask = np.asarray(mask).astype(bool)
 
     labeled, number_of_components = ndimage.label(
         mask,
@@ -176,7 +296,8 @@ def get_component_statistics(mask):
 
     largest_fraction = (
         largest_area / total_area
-        if total_area > 0 else 0.0
+        if total_area > 0
+        else 0.0
     )
 
     return {
@@ -189,6 +310,9 @@ def get_component_statistics(mask):
 
 
 def keep_largest_component(labels):
+    """
+    Retain only the largest connected component.
+    """
 
     component_ids, counts = np.unique(
         labels[labels > 0],
@@ -204,6 +328,10 @@ def keep_largest_component(labels):
 
 
 def remove_small_components(labels, minimum_size):
+    """
+    Retain components whose pixel area is at least
+    minimum_size.
+    """
 
     component_ids, counts = np.unique(
         labels[labels > 0],
@@ -221,19 +349,20 @@ def remove_small_components(labels, minimum_size):
 
 
 # =====================================================
-# 6. EVALUATION STORAGE
+# 7. EVALUATION STORAGE
 # =====================================================
 
 component_rows = []
 image_rows = []
 
-# Methods compared
 METHODS = (
     ["baseline", "largest_component"]
-    + [f"minimum_component_{x}" for x in COMPONENT_CUTOFFS]
+    + [
+        f"minimum_component_{cutoff}"
+        for cutoff in COMPONENT_CUTOFFS
+    ]
 )
 
-# Aggregate metrics per class and method
 aggregate = {
     class_name: {
         method: {
@@ -252,45 +381,93 @@ aggregate = {
 
 
 # =====================================================
-# 7. RUN INFERENCE AND COMPONENT ANALYSIS
+# 8. RUN INFERENCE AND COMPONENT ANALYSIS
 # =====================================================
 
-for image_index, row in manifest.iterrows():
+for image_index, row in enumerate(
+    manifest.itertuples(index=False),
+    start=1
+):
 
-    image_id = str(row["image_id"])
+    image_id = str(row.image_id)
 
     print(
-        f"\n[{image_index + 1}/43] Processing {image_id}"
+        f"\n[{image_index}/{len(manifest)}] "
+        f"Processing {image_id}"
     )
 
+    # -------------------------------------------------
     # Locate DICOM
+    # -------------------------------------------------
+
     dicom_path = DICOM_DIR / f"{image_id}.dicom"
 
     if not dicom_path.exists():
         dicom_path = DICOM_DIR / f"{image_id}.dcm"
 
     if not dicom_path.exists():
-        raise FileNotFoundError(dicom_path)
+        raise FileNotFoundError(
+            f"DICOM not found for image: {image_id}"
+        )
 
+    # -------------------------------------------------
     # Load pseudo-mask
+    # -------------------------------------------------
+
     gt_path = MASK_DIR / f"{image_id}.npy"
 
     if not gt_path.exists():
-        raise FileNotFoundError(gt_path)
+        raise FileNotFoundError(
+            f"Mask not found for image: {image_id}"
+        )
 
     gt_all = np.load(gt_path)
 
-    if gt_all.shape != (256, 256, 5):
+    expected_mask_shape = (
+        EXPECTED_IMAGE_SIZE[0],
+        EXPECTED_IMAGE_SIZE[1],
+        len(CLASS_NAMES)
+    )
+
+    if gt_all.shape != expected_mask_shape:
         raise ValueError(
-            f"Invalid mask shape: {gt_all.shape}"
+            f"Invalid mask shape for {image_id}: "
+            f"{gt_all.shape}. Expected {expected_mask_shape}."
         )
 
     gt_all = (gt_all > 0).astype(np.uint8)
 
-    # Inference
+    # -------------------------------------------------
+    # Model inference
+    # -------------------------------------------------
+
     result = inference.predict(dicom_path)
 
-    probabilities = result["probabilities"]
+    probabilities = np.asarray(
+        result["probabilities"]
+    )
+
+    expected_prediction_shape = (
+        len(CLASS_NAMES),
+        EXPECTED_IMAGE_SIZE[0],
+        EXPECTED_IMAGE_SIZE[1]
+    )
+
+    if probabilities.shape != expected_prediction_shape:
+        raise ValueError(
+            f"Invalid probability shape for {image_id}: "
+            f"{probabilities.shape}. "
+            f"Expected {expected_prediction_shape}."
+        )
+
+    if not np.isfinite(probabilities).all():
+        raise ValueError(
+            f"Non-finite probabilities found for {image_id}."
+        )
+
+    # -------------------------------------------------
+    # Class-wise analysis
+    # -------------------------------------------------
 
     for class_index, class_name in enumerate(CLASS_NAMES):
 
@@ -305,11 +482,11 @@ for image_index, row in manifest.iterrows():
             probability >= threshold
         ).astype(np.uint8)
 
+        # Connected-component statistics
         stats = get_component_statistics(baseline)
 
         labels = stats["labels"]
 
-        # Component distribution
         component_rows.append({
             "image_id": image_id,
             "class": class_name,
@@ -328,9 +505,13 @@ for image_index, row in manifest.iterrows():
             ),
         })
 
+        # -------------------------------------------------
         # Filtering strategies
+        # -------------------------------------------------
+
         filtered_predictions = {
             "baseline": baseline,
+
             "largest_component": keep_largest_component(
                 labels
             ),
@@ -345,22 +526,35 @@ for image_index, row in manifest.iterrows():
                 cutoff
             )
 
-        # Evaluate every strategy
+        # -------------------------------------------------
+        # Evaluate each strategy
+        # -------------------------------------------------
+
         for method, pred in filtered_predictions.items():
 
             pixel_metrics = calculate_segmentation_metrics(
-                gt, pred
+                gt,
+                pred
             )
 
             image_result = calculate_image_metrics(
-                gt, pred
+                gt,
+                pred
             )
 
             counts = aggregate[class_name][method]
 
-            counts["TP_pixels"] += pixel_metrics["TP_pixels"]
-            counts["FP_pixels"] += pixel_metrics["FP_pixels"]
-            counts["FN_pixels"] += pixel_metrics["FN_pixels"]
+            counts["TP_pixels"] += (
+                pixel_metrics["TP_pixels"]
+            )
+
+            counts["FP_pixels"] += (
+                pixel_metrics["FP_pixels"]
+            )
+
+            counts["FN_pixels"] += (
+                pixel_metrics["FN_pixels"]
+            )
 
             counts[f"{image_result}_images"] += 1
 
@@ -368,6 +562,7 @@ for image_index, row in manifest.iterrows():
                 "image_id": image_id,
                 "class": class_name,
                 "method": method,
+                "threshold": threshold,
                 "gt_pixels": int(gt.sum()),
                 "predicted_pixels": int(pred.sum()),
                 "image_result": image_result,
@@ -376,7 +571,7 @@ for image_index, row in manifest.iterrows():
 
 
 # =====================================================
-# 8. CREATE SUMMARY
+# 9. CREATE CORRECTED AGGREGATE SUMMARY
 # =====================================================
 
 summary_rows = []
@@ -391,9 +586,11 @@ for class_name in CLASS_NAMES:
         fp = counts["FP_pixels"]
         fn = counts["FN_pixels"]
 
-        pixel_metrics = calculate_segmentation_metrics(
-            np.array([1] * (tp + fn) + [0] * fp),
-            np.array([1] * tp + [0] * (fp + fn))
+        # Correct pooled pixel-level metrics
+        pixel_metrics = calculate_pooled_metrics(
+            tp,
+            fp,
+            fn
         )
 
         image_tp = counts["TP_images"]
@@ -403,67 +600,104 @@ for class_name in CLASS_NAMES:
 
         image_precision = (
             image_tp / (image_tp + image_fp)
-            if image_tp + image_fp > 0 else np.nan
+            if image_tp + image_fp > 0
+            else np.nan
         )
 
         image_recall = (
             image_tp / (image_tp + image_fn)
-            if image_tp + image_fn > 0 else np.nan
+            if image_tp + image_fn > 0
+            else np.nan
         )
 
         image_specificity = (
             image_tn / (image_tn + image_fp)
-            if image_tn + image_fp > 0 else np.nan
+            if image_tn + image_fp > 0
+            else np.nan
+        )
+
+        image_f1 = (
+            2 * image_precision * image_recall
+            / (image_precision + image_recall)
+            if (
+                np.isfinite(image_precision)
+                and np.isfinite(image_recall)
+                and image_precision + image_recall > 0
+            )
+            else np.nan
         )
 
         summary_rows.append({
             "class": class_name,
             "method": method,
 
+            # Pixel-level confusion counts
             "pixel_TP": tp,
             "pixel_FP": fp,
             "pixel_FN": fn,
 
-            "pixel_precision": pixel_metrics["pixel_precision"],
-            "pixel_recall": pixel_metrics["pixel_recall"],
-            "pixel_dice": pixel_metrics["dice"],
-            "pixel_iou": pixel_metrics["iou"],
+            # Correct pooled segmentation metrics
+            **pixel_metrics,
 
+            # Image-level confusion counts
             "image_TP": image_tp,
             "image_FP": image_fp,
             "image_TN": image_tn,
             "image_FN": image_fn,
 
+            # Image-level metrics
             "image_precision": image_precision,
             "image_recall": image_recall,
             "image_specificity": image_specificity,
+            "image_f1": image_f1,
         })
 
 
 # =====================================================
-# 9. SAVE REPORTS
+# 10. SAVE REPORTS
 # =====================================================
 
 component_df = pd.DataFrame(component_rows)
+
 image_df = pd.DataFrame(image_rows)
+
 summary_df = pd.DataFrame(summary_rows)
 
-component_path = OUTPUT_DIR / "component_statistics.csv"
-image_path = OUTPUT_DIR / "filtered_image_results.csv"
-summary_path = OUTPUT_DIR / "component_filter_summary.csv"
+component_path = (
+    OUTPUT_DIR / "component_statistics.csv"
+)
 
-component_df.to_csv(component_path, index=False)
-image_df.to_csv(image_path, index=False)
-summary_df.to_csv(summary_path, index=False)
+image_path = (
+    OUTPUT_DIR / "filtered_image_results.csv"
+)
+
+summary_path = (
+    OUTPUT_DIR / "component_filter_summary.csv"
+)
+
+component_df.to_csv(
+    component_path,
+    index=False
+)
+
+image_df.to_csv(
+    image_path,
+    index=False
+)
+
+summary_df.to_csv(
+    summary_path,
+    index=False
+)
 
 
 # =====================================================
-# 10. DISPLAY RESULTS
+# 11. DISPLAY RESULTS
 # =====================================================
 
-print("\n" + "=" * 75)
-print("COMPONENT FILTERING SUMMARY")
-print("=" * 75)
+print("\n" + "=" * 85)
+print("CORRECTED COMPONENT FILTERING SUMMARY")
+print("=" * 85)
 
 for class_name in CLASS_NAMES:
 
@@ -474,11 +708,13 @@ for class_name in CLASS_NAMES:
     ][[
         "method",
         "pixel_dice",
+        "pixel_iou",
         "pixel_precision",
         "pixel_recall",
         "image_precision",
         "image_recall",
         "image_specificity",
+        "image_f1",
         "image_FP",
     ]]
 
@@ -489,11 +725,46 @@ for class_name in CLASS_NAMES:
         )
     )
 
-print("\n" + "=" * 75)
-print("COMPONENT ANALYSIS COMPLETED")
-print("=" * 75)
+
+# =====================================================
+# 12. FINAL VALIDATION
+# =====================================================
+
+expected_component_rows = (
+    len(manifest) * len(CLASS_NAMES)
+)
+
+expected_image_rows = (
+    len(manifest) * len(CLASS_NAMES) * len(METHODS)
+)
+
+if len(component_df) != expected_component_rows:
+    raise RuntimeError(
+        "Unexpected number of component-statistics rows."
+    )
+
+if len(image_df) != expected_image_rows:
+    raise RuntimeError(
+        "Unexpected number of per-image evaluation rows."
+    )
+
+if len(summary_df) != len(CLASS_NAMES) * len(METHODS):
+    raise RuntimeError(
+        "Unexpected number of aggregate summary rows."
+    )
+
+print("\n" + "=" * 85)
+print("CONNECTED-COMPONENT ANALYSIS COMPLETED")
+print("=" * 85)
+
+print("\nValidation images:", len(manifest))
+print("Classes:", len(CLASS_NAMES))
+print("Methods:", len(METHODS))
 
 print("\nSaved reports:")
+
 print(component_path)
 print(image_path)
 print(summary_path)
+
+print("\nAll output validation checks passed.")
