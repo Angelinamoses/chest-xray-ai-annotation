@@ -1,0 +1,81 @@
+class,grid_row,grid_column,FP_pixels,percentage_of_class_FP
+Aortic enlargement,1,1,0,0.0
+Aortic enlargement,1,2,133,1.125687685146001
+Aortic enlargement,1,3,639,5.408379179009733
+Aortic enlargement,1,4,0,0.0
+Aortic enlargement,2,1,0,0.0
+Aortic enlargement,2,2,3026,25.611510791366907
+Aortic enlargement,2,3,8008,67.77824798984342
+Aortic enlargement,2,4,0,0.0
+Aortic enlargement,3,1,0,0.0
+Aortic enlargement,3,2,0,0.0
+Aortic enlargement,3,3,9,0.0761743546339399
+Aortic enlargement,3,4,0,0.0
+Aortic enlargement,4,1,0,0.0
+Aortic enlargement,4,2,0,0.0
+Aortic enlargement,4,3,0,0.0
+Aortic enlargement,4,4,0,0.0
+Cardiomegaly,1,1,10,0.03422664886880925
+Cardiomegaly,1,2,0,0.0
+Cardiomegaly,1,3,0,0.0
+Cardiomegaly,1,4,0,0.0
+Cardiomegaly,2,1,163,0.5578943765615909
+Cardiomegaly,2,2,906,3.1009343875141187
+Cardiomegaly,2,3,1336,4.572680288872917
+Cardiomegaly,2,4,143,0.48944107882397236
+Cardiomegaly,3,1,10,0.03422664886880925
+Cardiomegaly,3,2,10281,35.1884177020228
+Cardiomegaly,3,3,13978,47.84200978882158
+Cardiomegaly,3,4,2104,7.201286921997467
+Cardiomegaly,4,1,0,0.0
+Cardiomegaly,4,2,286,0.9788821576479447
+Cardiomegaly,4,3,0,0.0
+Cardiomegaly,4,4,0,0.0
+Pleural thickening,1,1,1893,4.279900520009043
+Pleural thickening,1,2,17431,39.40990278091793
+Pleural thickening,1,3,15882,35.90775491747682
+Pleural thickening,1,4,532,1.2028035270178612
+Pleural thickening,2,1,871,1.9692516391589419
+Pleural thickening,2,2,2312,5.2272213429798775
+Pleural thickening,2,3,1329,3.004747908659281
+Pleural thickening,2,4,12,0.027130906624463033
+Pleural thickening,3,1,1593,3.6016278543974676
+Pleural thickening,3,2,651,1.4718516843771197
+Pleural thickening,3,3,180,0.40696359936694554
+Pleural thickening,3,4,142,0.32104906172281256
+Pleural thickening,4,1,1027,2.3219534252769614
+Pleural thickening,4,2,86,0.1944381641419851
+Pleural thickening,4,3,177,0.40018087271082975
+Pleural thickening,4,4,112,0.253221795161655
+Pulmonary fibrosis,1,1,834,1.3634803080092206
+Pulmonary fibrosis,1,2,5006,8.184151585004987
+Pulmonary fibrosis,1,3,2727,4.458286330864682
+Pulmonary fibrosis,1,4,262,0.4283355404057744
+Pulmonary fibrosis,2,1,5330,8.713848970850295
+Pulmonary fibrosis,2,2,8169,13.355240570896072
+Pulmonary fibrosis,2,3,7305,11.942714208641915
+Pulmonary fibrosis,2,4,315,0.5149835695718279
+Pulmonary fibrosis,3,1,9754,15.946507103503523
+Pulmonary fibrosis,3,2,15365,25.119754115781387
+Pulmonary fibrosis,3,3,3223,5.269181094380957
+Pulmonary fibrosis,3,4,681,1.113345431360047
+Pulmonary fibrosis,4,1,912,1.4910000490460542
+Pulmonary fibrosis,4,2,1035,1.6920888714502917
+Pulmonary fibrosis,4,3,0,0.0
+Pulmonary fibrosis,4,4,249,0.40708225023296873
+Lung Opacity,1,1,68,0.16846277715842933
+Lung Opacity,1,2,1049,2.5987860770469466
+Lung Opacity,1,3,1385,3.431190387712127
+Lung Opacity,1,4,260,0.644122383252818
+Lung Opacity,2,1,1492,3.696271522358479
+Lung Opacity,2,2,3186,7.892976588628763
+Lung Opacity,2,3,3708,9.186176142697882
+Lung Opacity,2,4,421,1.042982782113217
+Lung Opacity,3,1,6527,16.169949213427476
+Lung Opacity,3,2,14451,35.80081753994798
+Lung Opacity,3,3,4087,10.125108385977951
+Lung Opacity,3,4,813,2.014121144555927
+Lung Opacity,4,1,1003,2.484825963086833
+Lung Opacity,4,2,1450,3.592220983525331
+Lung Opacity,4,3,110,0.27251331599157685
+Lung Opacity,4,4,355,0.8794747925182708

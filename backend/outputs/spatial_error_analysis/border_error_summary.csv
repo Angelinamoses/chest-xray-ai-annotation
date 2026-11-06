@@ -1,0 +1,6 @@
+class,border_width_pixels,border_FP_pixels,interior_FP_pixels,total_FP_pixels,border_FP_percentage,interior_FP_percentage
+Aortic enlargement,16,0,11815,11815,0.0,100.0
+Cardiomegaly,16,3,29214,29217,0.010267994660642776,99.98973200533936
+Pleural thickening,16,0,44230,44230,0.0,100.0
+Pulmonary fibrosis,16,0,61167,61167,0.0,100.0
+Lung Opacity,16,0,40365,40365,0.0,100.0
