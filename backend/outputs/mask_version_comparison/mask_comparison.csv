@@ -1,0 +1,1501 @@
+image_id,class_name,old_pixels,new_pixels,changed_pixels,dice_agreement,identical
+020717d6ab0b440b37978d9bace9f9b2,Aortic enlargement,1572,1572,0,1.0,True
+020717d6ab0b440b37978d9bace9f9b2,Cardiomegaly,0,0,0,1.0,True
+020717d6ab0b440b37978d9bace9f9b2,Pleural thickening,363,363,0,1.0,True
+020717d6ab0b440b37978d9bace9f9b2,Pulmonary fibrosis,560,560,0,1.0,True
+020717d6ab0b440b37978d9bace9f9b2,Lung Opacity,3034,3034,0,1.0,True
+03810755ae5721d65884360e3bccbf9b,Aortic enlargement,1153,1153,0,1.0,True
+03810755ae5721d65884360e3bccbf9b,Cardiomegaly,4067,4067,0,1.0,True
+03810755ae5721d65884360e3bccbf9b,Pleural thickening,0,0,0,1.0,True
+03810755ae5721d65884360e3bccbf9b,Pulmonary fibrosis,0,0,0,1.0,True
+03810755ae5721d65884360e3bccbf9b,Lung Opacity,0,0,0,1.0,True
+03a6078c0c12fb076b50ae017e590e19,Aortic enlargement,870,870,0,1.0,True
+03a6078c0c12fb076b50ae017e590e19,Cardiomegaly,4134,4134,0,1.0,True
+03a6078c0c12fb076b50ae017e590e19,Pleural thickening,0,0,0,1.0,True
+03a6078c0c12fb076b50ae017e590e19,Pulmonary fibrosis,286,286,0,1.0,True
+03a6078c0c12fb076b50ae017e590e19,Lung Opacity,826,826,0,1.0,True
+0453de2faeb8d349af739a68d9dee1cb,Aortic enlargement,825,825,0,1.0,True
+0453de2faeb8d349af739a68d9dee1cb,Cardiomegaly,0,0,0,1.0,True
+0453de2faeb8d349af739a68d9dee1cb,Pleural thickening,189,189,0,1.0,True
+0453de2faeb8d349af739a68d9dee1cb,Pulmonary fibrosis,0,0,0,1.0,True
+0453de2faeb8d349af739a68d9dee1cb,Lung Opacity,180,180,0,1.0,True
+05d676834dbed1639cb5eea70c1e307b,Aortic enlargement,0,0,0,1.0,True
+05d676834dbed1639cb5eea70c1e307b,Cardiomegaly,0,0,0,1.0,True
+05d676834dbed1639cb5eea70c1e307b,Pleural thickening,152,152,0,1.0,True
+05d676834dbed1639cb5eea70c1e307b,Pulmonary fibrosis,783,783,0,1.0,True
+05d676834dbed1639cb5eea70c1e307b,Lung Opacity,870,870,0,1.0,True
+06e523e21ac668629092e85928b176a3,Aortic enlargement,340,340,0,1.0,True
+06e523e21ac668629092e85928b176a3,Cardiomegaly,0,0,0,1.0,True
+06e523e21ac668629092e85928b176a3,Pleural thickening,210,210,0,1.0,True
+06e523e21ac668629092e85928b176a3,Pulmonary fibrosis,319,319,0,1.0,True
+06e523e21ac668629092e85928b176a3,Lung Opacity,96,96,0,1.0,True
+07d82e7e5749cbc21633134f489a7fbf,Aortic enlargement,1804,1804,0,1.0,True
+07d82e7e5749cbc21633134f489a7fbf,Cardiomegaly,0,0,0,1.0,True
+07d82e7e5749cbc21633134f489a7fbf,Pleural thickening,302,302,0,1.0,True
+07d82e7e5749cbc21633134f489a7fbf,Pulmonary fibrosis,578,578,0,1.0,True
+07d82e7e5749cbc21633134f489a7fbf,Lung Opacity,0,0,0,1.0,True
+088869b047b7336c8d31bea5cf10cf24,Aortic enlargement,0,0,0,1.0,True
+088869b047b7336c8d31bea5cf10cf24,Cardiomegaly,3744,3744,0,1.0,True
+088869b047b7336c8d31bea5cf10cf24,Pleural thickening,0,0,0,1.0,True
+088869b047b7336c8d31bea5cf10cf24,Pulmonary fibrosis,0,0,0,1.0,True
+088869b047b7336c8d31bea5cf10cf24,Lung Opacity,0,0,0,1.0,True
+08ce56202e44175674fc5f5517e74db4,Aortic enlargement,1472,1472,0,1.0,True
+08ce56202e44175674fc5f5517e74db4,Cardiomegaly,6231,6231,0,1.0,True
+08ce56202e44175674fc5f5517e74db4,Pleural thickening,336,336,0,1.0,True
+08ce56202e44175674fc5f5517e74db4,Pulmonary fibrosis,4450,4450,0,1.0,True
+08ce56202e44175674fc5f5517e74db4,Lung Opacity,0,0,0,1.0,True
+09ee91a2120006e587d2e63c7bf0230f,Aortic enlargement,775,775,0,1.0,True
+09ee91a2120006e587d2e63c7bf0230f,Cardiomegaly,7359,7359,0,1.0,True
+09ee91a2120006e587d2e63c7bf0230f,Pleural thickening,0,0,0,1.0,True
+09ee91a2120006e587d2e63c7bf0230f,Pulmonary fibrosis,0,0,0,1.0,True
+09ee91a2120006e587d2e63c7bf0230f,Lung Opacity,0,0,0,1.0,True
+0a2d01ecb9e01cf972c1e1d31ccacb98,Aortic enlargement,702,702,0,1.0,True
+0a2d01ecb9e01cf972c1e1d31ccacb98,Cardiomegaly,4777,4777,0,1.0,True
+0a2d01ecb9e01cf972c1e1d31ccacb98,Pleural thickening,0,0,0,1.0,True
+0a2d01ecb9e01cf972c1e1d31ccacb98,Pulmonary fibrosis,0,0,0,1.0,True
+0a2d01ecb9e01cf972c1e1d31ccacb98,Lung Opacity,0,0,0,1.0,True
+0b22826cc68b8d3177c5be2f4e1ae720,Aortic enlargement,1555,1555,0,1.0,True
+0b22826cc68b8d3177c5be2f4e1ae720,Cardiomegaly,3446,3446,0,1.0,True
+0b22826cc68b8d3177c5be2f4e1ae720,Pleural thickening,0,0,0,1.0,True
+0b22826cc68b8d3177c5be2f4e1ae720,Pulmonary fibrosis,0,0,0,1.0,True
+0b22826cc68b8d3177c5be2f4e1ae720,Lung Opacity,0,0,0,1.0,True
+0c0e47b7e0ebd10209a81d01e3c889a6,Aortic enlargement,0,0,0,1.0,True
+0c0e47b7e0ebd10209a81d01e3c889a6,Cardiomegaly,3484,3484,0,1.0,True
+0c0e47b7e0ebd10209a81d01e3c889a6,Pleural thickening,0,0,0,1.0,True
+0c0e47b7e0ebd10209a81d01e3c889a6,Pulmonary fibrosis,0,0,0,1.0,True
+0c0e47b7e0ebd10209a81d01e3c889a6,Lung Opacity,0,0,0,1.0,True
+0c6a7e3c733bd4f4d89443ca16615fc6,Aortic enlargement,1558,1558,0,1.0,True
+0c6a7e3c733bd4f4d89443ca16615fc6,Cardiomegaly,7076,7076,0,1.0,True
+0c6a7e3c733bd4f4d89443ca16615fc6,Pleural thickening,10005,10005,0,1.0,True
+0c6a7e3c733bd4f4d89443ca16615fc6,Pulmonary fibrosis,9315,9315,0,1.0,True
+0c6a7e3c733bd4f4d89443ca16615fc6,Lung Opacity,4272,4272,0,1.0,True
+0dc30d30a14a6a68c9bec20ee32331c2,Aortic enlargement,1081,1081,0,1.0,True
+0dc30d30a14a6a68c9bec20ee32331c2,Cardiomegaly,6594,6594,0,1.0,True
+0dc30d30a14a6a68c9bec20ee32331c2,Pleural thickening,0,0,0,1.0,True
+0dc30d30a14a6a68c9bec20ee32331c2,Pulmonary fibrosis,0,0,0,1.0,True
+0dc30d30a14a6a68c9bec20ee32331c2,Lung Opacity,0,0,0,1.0,True
+0e5734a5483002be04b734d7c88058be,Aortic enlargement,2353,2353,0,1.0,True
+0e5734a5483002be04b734d7c88058be,Cardiomegaly,5117,5117,0,1.0,True
+0e5734a5483002be04b734d7c88058be,Pleural thickening,0,0,0,1.0,True
+0e5734a5483002be04b734d7c88058be,Pulmonary fibrosis,0,0,0,1.0,True
+0e5734a5483002be04b734d7c88058be,Lung Opacity,0,0,0,1.0,True
+1133414000e82176ab7852aeacc762eb,Aortic enlargement,1188,1188,0,1.0,True
+1133414000e82176ab7852aeacc762eb,Cardiomegaly,5243,5243,0,1.0,True
+1133414000e82176ab7852aeacc762eb,Pleural thickening,672,672,0,1.0,True
+1133414000e82176ab7852aeacc762eb,Pulmonary fibrosis,0,0,0,1.0,True
+1133414000e82176ab7852aeacc762eb,Lung Opacity,0,0,0,1.0,True
+11750f2005f2f50d592c5c5cc145fdfe,Aortic enlargement,1230,1230,0,1.0,True
+11750f2005f2f50d592c5c5cc145fdfe,Cardiomegaly,0,0,0,1.0,True
+11750f2005f2f50d592c5c5cc145fdfe,Pleural thickening,221,221,0,1.0,True
+11750f2005f2f50d592c5c5cc145fdfe,Pulmonary fibrosis,0,0,0,1.0,True
+11750f2005f2f50d592c5c5cc145fdfe,Lung Opacity,0,0,0,1.0,True
+1280dc55c1ff852024be232c2942e3fd,Aortic enlargement,928,928,0,1.0,True
+1280dc55c1ff852024be232c2942e3fd,Cardiomegaly,0,0,0,1.0,True
+1280dc55c1ff852024be232c2942e3fd,Pleural thickening,296,296,0,1.0,True
+1280dc55c1ff852024be232c2942e3fd,Pulmonary fibrosis,0,0,0,1.0,True
+1280dc55c1ff852024be232c2942e3fd,Lung Opacity,0,0,0,1.0,True
+134cd4124bd1d75563cb47732742e331,Aortic enlargement,0,0,0,1.0,True
+134cd4124bd1d75563cb47732742e331,Cardiomegaly,0,0,0,1.0,True
+134cd4124bd1d75563cb47732742e331,Pleural thickening,491,491,0,1.0,True
+134cd4124bd1d75563cb47732742e331,Pulmonary fibrosis,4033,4033,0,1.0,True
+134cd4124bd1d75563cb47732742e331,Lung Opacity,0,0,0,1.0,True
+150d9b226334d9f3471d088307cdc5fd,Aortic enlargement,968,968,0,1.0,True
+150d9b226334d9f3471d088307cdc5fd,Cardiomegaly,5109,5109,0,1.0,True
+150d9b226334d9f3471d088307cdc5fd,Pleural thickening,0,0,0,1.0,True
+150d9b226334d9f3471d088307cdc5fd,Pulmonary fibrosis,0,0,0,1.0,True
+150d9b226334d9f3471d088307cdc5fd,Lung Opacity,1152,1152,0,1.0,True
+16041095041e6b5afb13e8da17bf45b4,Aortic enlargement,831,831,0,1.0,True
+16041095041e6b5afb13e8da17bf45b4,Cardiomegaly,3774,3774,0,1.0,True
+16041095041e6b5afb13e8da17bf45b4,Pleural thickening,296,296,0,1.0,True
+16041095041e6b5afb13e8da17bf45b4,Pulmonary fibrosis,0,0,0,1.0,True
+16041095041e6b5afb13e8da17bf45b4,Lung Opacity,0,0,0,1.0,True
+1722c7262a821be25de56e351d641993,Aortic enlargement,1082,1082,0,1.0,True
+1722c7262a821be25de56e351d641993,Cardiomegaly,7230,7230,0,1.0,True
+1722c7262a821be25de56e351d641993,Pleural thickening,0,0,0,1.0,True
+1722c7262a821be25de56e351d641993,Pulmonary fibrosis,0,0,0,1.0,True
+1722c7262a821be25de56e351d641993,Lung Opacity,0,0,0,1.0,True
+1730d2ebd1cc96e9e5656cdf916ac7f8,Aortic enlargement,972,972,0,1.0,True
+1730d2ebd1cc96e9e5656cdf916ac7f8,Cardiomegaly,4794,4794,0,1.0,True
+1730d2ebd1cc96e9e5656cdf916ac7f8,Pleural thickening,0,0,0,1.0,True
+1730d2ebd1cc96e9e5656cdf916ac7f8,Pulmonary fibrosis,3240,3240,0,1.0,True
+1730d2ebd1cc96e9e5656cdf916ac7f8,Lung Opacity,3884,3884,0,1.0,True
+1aaab6baefab214419016ad2f3175120,Aortic enlargement,1576,1576,0,1.0,True
+1aaab6baefab214419016ad2f3175120,Cardiomegaly,5182,5182,0,1.0,True
+1aaab6baefab214419016ad2f3175120,Pleural thickening,280,280,0,1.0,True
+1aaab6baefab214419016ad2f3175120,Pulmonary fibrosis,0,0,0,1.0,True
+1aaab6baefab214419016ad2f3175120,Lung Opacity,0,0,0,1.0,True
+1aef7fa409ee0cb4579032577e02e9cb,Aortic enlargement,1104,1104,0,1.0,True
+1aef7fa409ee0cb4579032577e02e9cb,Cardiomegaly,0,0,0,1.0,True
+1aef7fa409ee0cb4579032577e02e9cb,Pleural thickening,312,312,0,1.0,True
+1aef7fa409ee0cb4579032577e02e9cb,Pulmonary fibrosis,16788,16788,0,1.0,True
+1aef7fa409ee0cb4579032577e02e9cb,Lung Opacity,0,0,0,1.0,True
+1e96e84ac07738cd2f019b1c1d1aac5c,Aortic enlargement,1220,1220,0,1.0,True
+1e96e84ac07738cd2f019b1c1d1aac5c,Cardiomegaly,6133,6133,0,1.0,True
+1e96e84ac07738cd2f019b1c1d1aac5c,Pleural thickening,0,0,0,1.0,True
+1e96e84ac07738cd2f019b1c1d1aac5c,Pulmonary fibrosis,0,0,0,1.0,True
+1e96e84ac07738cd2f019b1c1d1aac5c,Lung Opacity,0,0,0,1.0,True
+1ee608f4c2322489c730271c6ef7caba,Aortic enlargement,506,506,0,1.0,True
+1ee608f4c2322489c730271c6ef7caba,Cardiomegaly,4030,4030,0,1.0,True
+1ee608f4c2322489c730271c6ef7caba,Pleural thickening,0,0,0,1.0,True
+1ee608f4c2322489c730271c6ef7caba,Pulmonary fibrosis,0,0,0,1.0,True
+1ee608f4c2322489c730271c6ef7caba,Lung Opacity,0,0,0,1.0,True
+1fc71d17e68259b0ae13b884ccce7309,Aortic enlargement,1359,1359,0,1.0,True
+1fc71d17e68259b0ae13b884ccce7309,Cardiomegaly,3346,3346,0,1.0,True
+1fc71d17e68259b0ae13b884ccce7309,Pleural thickening,0,0,0,1.0,True
+1fc71d17e68259b0ae13b884ccce7309,Pulmonary fibrosis,0,0,0,1.0,True
+1fc71d17e68259b0ae13b884ccce7309,Lung Opacity,0,0,0,1.0,True
+20e27597c972c6e7fdb4d1e7638e227e,Aortic enlargement,0,0,0,1.0,True
+20e27597c972c6e7fdb4d1e7638e227e,Cardiomegaly,0,0,0,1.0,True
+20e27597c972c6e7fdb4d1e7638e227e,Pleural thickening,0,0,0,1.0,True
+20e27597c972c6e7fdb4d1e7638e227e,Pulmonary fibrosis,1160,1160,0,1.0,True
+20e27597c972c6e7fdb4d1e7638e227e,Lung Opacity,9088,9088,0,1.0,True
+2121782e288bb5fccf342938ce4faee2,Aortic enlargement,0,0,0,1.0,True
+2121782e288bb5fccf342938ce4faee2,Cardiomegaly,4835,4835,0,1.0,True
+2121782e288bb5fccf342938ce4faee2,Pleural thickening,0,0,0,1.0,True
+2121782e288bb5fccf342938ce4faee2,Pulmonary fibrosis,0,0,0,1.0,True
+2121782e288bb5fccf342938ce4faee2,Lung Opacity,1617,1617,0,1.0,True
+222b7757f55bee221e7aba69fc9928d0,Aortic enlargement,1181,1181,0,1.0,True
+222b7757f55bee221e7aba69fc9928d0,Cardiomegaly,4806,4806,0,1.0,True
+222b7757f55bee221e7aba69fc9928d0,Pleural thickening,0,0,0,1.0,True
+222b7757f55bee221e7aba69fc9928d0,Pulmonary fibrosis,0,0,0,1.0,True
+222b7757f55bee221e7aba69fc9928d0,Lung Opacity,752,752,0,1.0,True
+22807ea675967a02baf8f510543a4a95,Aortic enlargement,0,0,0,1.0,True
+22807ea675967a02baf8f510543a4a95,Cardiomegaly,0,0,0,1.0,True
+22807ea675967a02baf8f510543a4a95,Pleural thickening,0,0,0,1.0,True
+22807ea675967a02baf8f510543a4a95,Pulmonary fibrosis,0,0,0,1.0,True
+22807ea675967a02baf8f510543a4a95,Lung Opacity,6694,6694,0,1.0,True
+22d12a2c3610060793453d39c4330429,Aortic enlargement,0,0,0,1.0,True
+22d12a2c3610060793453d39c4330429,Cardiomegaly,0,0,0,1.0,True
+22d12a2c3610060793453d39c4330429,Pleural thickening,52,52,0,1.0,True
+22d12a2c3610060793453d39c4330429,Pulmonary fibrosis,824,824,0,1.0,True
+22d12a2c3610060793453d39c4330429,Lung Opacity,0,0,0,1.0,True
+24b3b89454ece6db0ba1a5cb83f3421a,Aortic enlargement,702,702,0,1.0,True
+24b3b89454ece6db0ba1a5cb83f3421a,Cardiomegaly,0,0,0,1.0,True
+24b3b89454ece6db0ba1a5cb83f3421a,Pleural thickening,2136,2136,0,1.0,True
+24b3b89454ece6db0ba1a5cb83f3421a,Pulmonary fibrosis,0,0,0,1.0,True
+24b3b89454ece6db0ba1a5cb83f3421a,Lung Opacity,792,792,0,1.0,True
+25673b843469af61ad711cdd1d920a8b,Aortic enlargement,766,766,0,1.0,True
+25673b843469af61ad711cdd1d920a8b,Cardiomegaly,0,0,0,1.0,True
+25673b843469af61ad711cdd1d920a8b,Pleural thickening,0,0,0,1.0,True
+25673b843469af61ad711cdd1d920a8b,Pulmonary fibrosis,0,0,0,1.0,True
+25673b843469af61ad711cdd1d920a8b,Lung Opacity,0,0,0,1.0,True
+26562944ced2c6e1eea7abaf0e5a6e5d,Aortic enlargement,1046,1046,0,1.0,True
+26562944ced2c6e1eea7abaf0e5a6e5d,Cardiomegaly,0,0,0,1.0,True
+26562944ced2c6e1eea7abaf0e5a6e5d,Pleural thickening,144,144,0,1.0,True
+26562944ced2c6e1eea7abaf0e5a6e5d,Pulmonary fibrosis,0,0,0,1.0,True
+26562944ced2c6e1eea7abaf0e5a6e5d,Lung Opacity,0,0,0,1.0,True
+26a2c28022c4eb76848703d3bd669562,Aortic enlargement,1036,1036,0,1.0,True
+26a2c28022c4eb76848703d3bd669562,Cardiomegaly,0,0,0,1.0,True
+26a2c28022c4eb76848703d3bd669562,Pleural thickening,0,0,0,1.0,True
+26a2c28022c4eb76848703d3bd669562,Pulmonary fibrosis,0,0,0,1.0,True
+26a2c28022c4eb76848703d3bd669562,Lung Opacity,0,0,0,1.0,True
+26be9cde1a3d1a38f19c6753cc9ed40d,Aortic enlargement,644,644,0,1.0,True
+26be9cde1a3d1a38f19c6753cc9ed40d,Cardiomegaly,4860,4860,0,1.0,True
+26be9cde1a3d1a38f19c6753cc9ed40d,Pleural thickening,203,203,0,1.0,True
+26be9cde1a3d1a38f19c6753cc9ed40d,Pulmonary fibrosis,0,0,0,1.0,True
+26be9cde1a3d1a38f19c6753cc9ed40d,Lung Opacity,0,0,0,1.0,True
+26d1d5a0ef2e692c6340e74859ffdc53,Aortic enlargement,676,676,0,1.0,True
+26d1d5a0ef2e692c6340e74859ffdc53,Cardiomegaly,0,0,0,1.0,True
+26d1d5a0ef2e692c6340e74859ffdc53,Pleural thickening,235,235,0,1.0,True
+26d1d5a0ef2e692c6340e74859ffdc53,Pulmonary fibrosis,878,878,0,1.0,True
+26d1d5a0ef2e692c6340e74859ffdc53,Lung Opacity,0,0,0,1.0,True
+2954986a6bc846398d3cc9bc2297ed84,Aortic enlargement,525,525,0,1.0,True
+2954986a6bc846398d3cc9bc2297ed84,Cardiomegaly,0,0,0,1.0,True
+2954986a6bc846398d3cc9bc2297ed84,Pleural thickening,575,575,0,1.0,True
+2954986a6bc846398d3cc9bc2297ed84,Pulmonary fibrosis,413,413,0,1.0,True
+2954986a6bc846398d3cc9bc2297ed84,Lung Opacity,5688,5688,0,1.0,True
+2a364dea24600221fb6208567bda008b,Aortic enlargement,966,966,0,1.0,True
+2a364dea24600221fb6208567bda008b,Cardiomegaly,4056,4056,0,1.0,True
+2a364dea24600221fb6208567bda008b,Pleural thickening,0,0,0,1.0,True
+2a364dea24600221fb6208567bda008b,Pulmonary fibrosis,690,690,0,1.0,True
+2a364dea24600221fb6208567bda008b,Lung Opacity,0,0,0,1.0,True
+2be93a3c2bd9a086a39c3806e1811356,Aortic enlargement,0,0,0,1.0,True
+2be93a3c2bd9a086a39c3806e1811356,Cardiomegaly,0,0,0,1.0,True
+2be93a3c2bd9a086a39c3806e1811356,Pleural thickening,0,0,0,1.0,True
+2be93a3c2bd9a086a39c3806e1811356,Pulmonary fibrosis,2408,2408,0,1.0,True
+2be93a3c2bd9a086a39c3806e1811356,Lung Opacity,19300,19300,0,1.0,True
+2cb170e77545abd5b7992c83865eb690,Aortic enlargement,1225,1225,0,1.0,True
+2cb170e77545abd5b7992c83865eb690,Cardiomegaly,0,0,0,1.0,True
+2cb170e77545abd5b7992c83865eb690,Pleural thickening,0,0,0,1.0,True
+2cb170e77545abd5b7992c83865eb690,Pulmonary fibrosis,0,0,0,1.0,True
+2cb170e77545abd5b7992c83865eb690,Lung Opacity,0,0,0,1.0,True
+2cb59fe7e250f3e883c884e726719115,Aortic enlargement,0,0,0,1.0,True
+2cb59fe7e250f3e883c884e726719115,Cardiomegaly,0,0,0,1.0,True
+2cb59fe7e250f3e883c884e726719115,Pleural thickening,0,0,0,1.0,True
+2cb59fe7e250f3e883c884e726719115,Pulmonary fibrosis,3320,3320,0,1.0,True
+2cb59fe7e250f3e883c884e726719115,Lung Opacity,0,0,0,1.0,True
+2d914572fd6d5cd4b158067b5a1eda1e,Aortic enlargement,0,0,0,1.0,True
+2d914572fd6d5cd4b158067b5a1eda1e,Cardiomegaly,0,0,0,1.0,True
+2d914572fd6d5cd4b158067b5a1eda1e,Pleural thickening,0,0,0,1.0,True
+2d914572fd6d5cd4b158067b5a1eda1e,Pulmonary fibrosis,1536,1536,0,1.0,True
+2d914572fd6d5cd4b158067b5a1eda1e,Lung Opacity,0,0,0,1.0,True
+3024b7dc8e38999c16ab20ed51c7aa2e,Aortic enlargement,713,713,0,1.0,True
+3024b7dc8e38999c16ab20ed51c7aa2e,Cardiomegaly,0,0,0,1.0,True
+3024b7dc8e38999c16ab20ed51c7aa2e,Pleural thickening,772,772,0,1.0,True
+3024b7dc8e38999c16ab20ed51c7aa2e,Pulmonary fibrosis,3539,3539,0,1.0,True
+3024b7dc8e38999c16ab20ed51c7aa2e,Lung Opacity,352,352,0,1.0,True
+309ca3d3a6991e2a001d75f734d88099,Aortic enlargement,0,0,0,1.0,True
+309ca3d3a6991e2a001d75f734d88099,Cardiomegaly,0,0,0,1.0,True
+309ca3d3a6991e2a001d75f734d88099,Pleural thickening,0,0,0,1.0,True
+309ca3d3a6991e2a001d75f734d88099,Pulmonary fibrosis,606,606,0,1.0,True
+309ca3d3a6991e2a001d75f734d88099,Lung Opacity,0,0,0,1.0,True
+3143c4090b404863d57a355e61585d0b,Aortic enlargement,1440,1440,0,1.0,True
+3143c4090b404863d57a355e61585d0b,Cardiomegaly,0,0,0,1.0,True
+3143c4090b404863d57a355e61585d0b,Pleural thickening,0,0,0,1.0,True
+3143c4090b404863d57a355e61585d0b,Pulmonary fibrosis,374,374,0,1.0,True
+3143c4090b404863d57a355e61585d0b,Lung Opacity,0,0,0,1.0,True
+3145bee8f1346fa89938289eedd7b05c,Aortic enlargement,1512,1512,0,1.0,True
+3145bee8f1346fa89938289eedd7b05c,Cardiomegaly,4529,4529,0,1.0,True
+3145bee8f1346fa89938289eedd7b05c,Pleural thickening,154,154,0,1.0,True
+3145bee8f1346fa89938289eedd7b05c,Pulmonary fibrosis,0,0,0,1.0,True
+3145bee8f1346fa89938289eedd7b05c,Lung Opacity,2870,2870,0,1.0,True
+324c908cb345ed14be7a468a56f1ceba,Aortic enlargement,1766,1766,0,1.0,True
+324c908cb345ed14be7a468a56f1ceba,Cardiomegaly,4077,4077,0,1.0,True
+324c908cb345ed14be7a468a56f1ceba,Pleural thickening,1516,1516,0,1.0,True
+324c908cb345ed14be7a468a56f1ceba,Pulmonary fibrosis,694,694,0,1.0,True
+324c908cb345ed14be7a468a56f1ceba,Lung Opacity,0,0,0,1.0,True
+328a03f1cf631960207c6f6f3026bdb1,Aortic enlargement,1416,1416,0,1.0,True
+328a03f1cf631960207c6f6f3026bdb1,Cardiomegaly,3368,3368,0,1.0,True
+328a03f1cf631960207c6f6f3026bdb1,Pleural thickening,1058,1058,0,1.0,True
+328a03f1cf631960207c6f6f3026bdb1,Pulmonary fibrosis,1102,1102,0,1.0,True
+328a03f1cf631960207c6f6f3026bdb1,Lung Opacity,2826,2826,0,1.0,True
+32c05ef69ce090ebbdaa6741c21afc01,Aortic enlargement,0,0,0,1.0,True
+32c05ef69ce090ebbdaa6741c21afc01,Cardiomegaly,0,0,0,1.0,True
+32c05ef69ce090ebbdaa6741c21afc01,Pleural thickening,0,0,0,1.0,True
+32c05ef69ce090ebbdaa6741c21afc01,Pulmonary fibrosis,6816,6816,0,1.0,True
+32c05ef69ce090ebbdaa6741c21afc01,Lung Opacity,6990,6990,0,1.0,True
+3368f56c5e66bc4f6111b5cf5d701f30,Aortic enlargement,1118,1118,0,1.0,True
+3368f56c5e66bc4f6111b5cf5d701f30,Cardiomegaly,4850,4850,0,1.0,True
+3368f56c5e66bc4f6111b5cf5d701f30,Pleural thickening,0,0,0,1.0,True
+3368f56c5e66bc4f6111b5cf5d701f30,Pulmonary fibrosis,0,0,0,1.0,True
+3368f56c5e66bc4f6111b5cf5d701f30,Lung Opacity,0,0,0,1.0,True
+35388720c654dc329d698234c3205892,Aortic enlargement,0,0,0,1.0,True
+35388720c654dc329d698234c3205892,Cardiomegaly,5167,5167,0,1.0,True
+35388720c654dc329d698234c3205892,Pleural thickening,272,272,0,1.0,True
+35388720c654dc329d698234c3205892,Pulmonary fibrosis,0,0,0,1.0,True
+35388720c654dc329d698234c3205892,Lung Opacity,0,0,0,1.0,True
+369bf7d495f4a800910764a6f9a9a071,Aortic enlargement,0,0,0,1.0,True
+369bf7d495f4a800910764a6f9a9a071,Cardiomegaly,0,0,0,1.0,True
+369bf7d495f4a800910764a6f9a9a071,Pleural thickening,0,0,0,1.0,True
+369bf7d495f4a800910764a6f9a9a071,Pulmonary fibrosis,2352,2352,0,1.0,True
+369bf7d495f4a800910764a6f9a9a071,Lung Opacity,0,0,0,1.0,True
+36d12290ed702e358cabe1d85657dafb,Aortic enlargement,766,766,0,1.0,True
+36d12290ed702e358cabe1d85657dafb,Cardiomegaly,2953,2953,0,1.0,True
+36d12290ed702e358cabe1d85657dafb,Pleural thickening,434,434,0,1.0,True
+36d12290ed702e358cabe1d85657dafb,Pulmonary fibrosis,138,138,0,1.0,True
+36d12290ed702e358cabe1d85657dafb,Lung Opacity,348,348,0,1.0,True
+3727a613e597811aee451370fde09c49,Aortic enlargement,1089,1089,0,1.0,True
+3727a613e597811aee451370fde09c49,Cardiomegaly,3585,3585,0,1.0,True
+3727a613e597811aee451370fde09c49,Pleural thickening,658,658,0,1.0,True
+3727a613e597811aee451370fde09c49,Pulmonary fibrosis,0,0,0,1.0,True
+3727a613e597811aee451370fde09c49,Lung Opacity,0,0,0,1.0,True
+37c55613c78c7775df0514fb0c804f4a,Aortic enlargement,3363,3363,0,1.0,True
+37c55613c78c7775df0514fb0c804f4a,Cardiomegaly,3424,3424,0,1.0,True
+37c55613c78c7775df0514fb0c804f4a,Pleural thickening,917,917,0,1.0,True
+37c55613c78c7775df0514fb0c804f4a,Pulmonary fibrosis,0,0,0,1.0,True
+37c55613c78c7775df0514fb0c804f4a,Lung Opacity,0,0,0,1.0,True
+380d07a94cc4b012812119370de47192,Aortic enlargement,1391,1391,0,1.0,True
+380d07a94cc4b012812119370de47192,Cardiomegaly,0,0,0,1.0,True
+380d07a94cc4b012812119370de47192,Pleural thickening,0,0,0,1.0,True
+380d07a94cc4b012812119370de47192,Pulmonary fibrosis,0,0,0,1.0,True
+380d07a94cc4b012812119370de47192,Lung Opacity,0,0,0,1.0,True
+39394c845e092472bfff78c26ce9feb4,Aortic enlargement,809,809,0,1.0,True
+39394c845e092472bfff78c26ce9feb4,Cardiomegaly,3669,3669,0,1.0,True
+39394c845e092472bfff78c26ce9feb4,Pleural thickening,0,0,0,1.0,True
+39394c845e092472bfff78c26ce9feb4,Pulmonary fibrosis,0,0,0,1.0,True
+39394c845e092472bfff78c26ce9feb4,Lung Opacity,0,0,0,1.0,True
+394ea2732452334954cf83c6e5b41951,Aortic enlargement,2004,2004,0,1.0,True
+394ea2732452334954cf83c6e5b41951,Cardiomegaly,5146,5146,0,1.0,True
+394ea2732452334954cf83c6e5b41951,Pleural thickening,0,0,0,1.0,True
+394ea2732452334954cf83c6e5b41951,Pulmonary fibrosis,0,0,0,1.0,True
+394ea2732452334954cf83c6e5b41951,Lung Opacity,0,0,0,1.0,True
+398ca3c2cf798b9483dde58ef6887a31,Aortic enlargement,1315,1315,0,1.0,True
+398ca3c2cf798b9483dde58ef6887a31,Cardiomegaly,0,0,0,1.0,True
+398ca3c2cf798b9483dde58ef6887a31,Pleural thickening,0,0,0,1.0,True
+398ca3c2cf798b9483dde58ef6887a31,Pulmonary fibrosis,0,0,0,1.0,True
+398ca3c2cf798b9483dde58ef6887a31,Lung Opacity,0,0,0,1.0,True
+3abc9bc2967d1891119ae82511e479b3,Aortic enlargement,500,500,0,1.0,True
+3abc9bc2967d1891119ae82511e479b3,Cardiomegaly,0,0,0,1.0,True
+3abc9bc2967d1891119ae82511e479b3,Pleural thickening,960,960,0,1.0,True
+3abc9bc2967d1891119ae82511e479b3,Pulmonary fibrosis,792,792,0,1.0,True
+3abc9bc2967d1891119ae82511e479b3,Lung Opacity,0,0,0,1.0,True
+3bb06e20b2595be65d7a95e948b2169c,Aortic enlargement,0,0,0,1.0,True
+3bb06e20b2595be65d7a95e948b2169c,Cardiomegaly,0,0,0,1.0,True
+3bb06e20b2595be65d7a95e948b2169c,Pleural thickening,2293,2293,0,1.0,True
+3bb06e20b2595be65d7a95e948b2169c,Pulmonary fibrosis,6124,6124,0,1.0,True
+3bb06e20b2595be65d7a95e948b2169c,Lung Opacity,0,0,0,1.0,True
+3c022a8f6192af3d7ca567e509d44801,Aortic enlargement,1856,1856,0,1.0,True
+3c022a8f6192af3d7ca567e509d44801,Cardiomegaly,5030,5030,0,1.0,True
+3c022a8f6192af3d7ca567e509d44801,Pleural thickening,748,748,0,1.0,True
+3c022a8f6192af3d7ca567e509d44801,Pulmonary fibrosis,0,0,0,1.0,True
+3c022a8f6192af3d7ca567e509d44801,Lung Opacity,0,0,0,1.0,True
+3c2064ec0c7fbd9873601524016c9d97,Aortic enlargement,1023,1023,0,1.0,True
+3c2064ec0c7fbd9873601524016c9d97,Cardiomegaly,2592,2592,0,1.0,True
+3c2064ec0c7fbd9873601524016c9d97,Pleural thickening,0,0,0,1.0,True
+3c2064ec0c7fbd9873601524016c9d97,Pulmonary fibrosis,0,0,0,1.0,True
+3c2064ec0c7fbd9873601524016c9d97,Lung Opacity,0,0,0,1.0,True
+3c4863368b0bf5c811a52e24fa2cd2d8,Aortic enlargement,1071,1071,0,1.0,True
+3c4863368b0bf5c811a52e24fa2cd2d8,Cardiomegaly,4797,4797,0,1.0,True
+3c4863368b0bf5c811a52e24fa2cd2d8,Pleural thickening,1426,1426,0,1.0,True
+3c4863368b0bf5c811a52e24fa2cd2d8,Pulmonary fibrosis,900,900,0,1.0,True
+3c4863368b0bf5c811a52e24fa2cd2d8,Lung Opacity,0,0,0,1.0,True
+3cac0eba7aff674db58e5e7d5cebe985,Aortic enlargement,957,957,0,1.0,True
+3cac0eba7aff674db58e5e7d5cebe985,Cardiomegaly,4524,4524,0,1.0,True
+3cac0eba7aff674db58e5e7d5cebe985,Pleural thickening,0,0,0,1.0,True
+3cac0eba7aff674db58e5e7d5cebe985,Pulmonary fibrosis,0,0,0,1.0,True
+3cac0eba7aff674db58e5e7d5cebe985,Lung Opacity,35154,35154,0,1.0,True
+3ce8e5fe27fc9db53129cdbdd8de89de,Aortic enlargement,5152,5152,0,1.0,True
+3ce8e5fe27fc9db53129cdbdd8de89de,Cardiomegaly,0,0,0,1.0,True
+3ce8e5fe27fc9db53129cdbdd8de89de,Pleural thickening,547,547,0,1.0,True
+3ce8e5fe27fc9db53129cdbdd8de89de,Pulmonary fibrosis,0,0,0,1.0,True
+3ce8e5fe27fc9db53129cdbdd8de89de,Lung Opacity,0,0,0,1.0,True
+3e2dac4065ec2fa64f4650a95e3edfa2,Aortic enlargement,924,924,0,1.0,True
+3e2dac4065ec2fa64f4650a95e3edfa2,Cardiomegaly,4719,4719,0,1.0,True
+3e2dac4065ec2fa64f4650a95e3edfa2,Pleural thickening,0,0,0,1.0,True
+3e2dac4065ec2fa64f4650a95e3edfa2,Pulmonary fibrosis,0,0,0,1.0,True
+3e2dac4065ec2fa64f4650a95e3edfa2,Lung Opacity,0,0,0,1.0,True
+3fcf06bf3f3395ba65a8b648b68e98d4,Aortic enlargement,1023,1023,0,1.0,True
+3fcf06bf3f3395ba65a8b648b68e98d4,Cardiomegaly,3500,3500,0,1.0,True
+3fcf06bf3f3395ba65a8b648b68e98d4,Pleural thickening,280,280,0,1.0,True
+3fcf06bf3f3395ba65a8b648b68e98d4,Pulmonary fibrosis,0,0,0,1.0,True
+3fcf06bf3f3395ba65a8b648b68e98d4,Lung Opacity,0,0,0,1.0,True
+3fd3aa2d64f365c666ce7de3d5352226,Aortic enlargement,1122,1122,0,1.0,True
+3fd3aa2d64f365c666ce7de3d5352226,Cardiomegaly,4312,4312,0,1.0,True
+3fd3aa2d64f365c666ce7de3d5352226,Pleural thickening,0,0,0,1.0,True
+3fd3aa2d64f365c666ce7de3d5352226,Pulmonary fibrosis,0,0,0,1.0,True
+3fd3aa2d64f365c666ce7de3d5352226,Lung Opacity,0,0,0,1.0,True
+40946078a25a73b1cf8ad53d4497b4ca,Aortic enlargement,867,867,0,1.0,True
+40946078a25a73b1cf8ad53d4497b4ca,Cardiomegaly,3658,3658,0,1.0,True
+40946078a25a73b1cf8ad53d4497b4ca,Pleural thickening,0,0,0,1.0,True
+40946078a25a73b1cf8ad53d4497b4ca,Pulmonary fibrosis,0,0,0,1.0,True
+40946078a25a73b1cf8ad53d4497b4ca,Lung Opacity,0,0,0,1.0,True
+415f0f58066bad3d69bd5fac2c80574b,Aortic enlargement,0,0,0,1.0,True
+415f0f58066bad3d69bd5fac2c80574b,Cardiomegaly,0,0,0,1.0,True
+415f0f58066bad3d69bd5fac2c80574b,Pleural thickening,1630,1630,0,1.0,True
+415f0f58066bad3d69bd5fac2c80574b,Pulmonary fibrosis,2613,2613,0,1.0,True
+415f0f58066bad3d69bd5fac2c80574b,Lung Opacity,0,0,0,1.0,True
+417de085be6029490ca2690608d65e57,Aortic enlargement,1670,1670,0,1.0,True
+417de085be6029490ca2690608d65e57,Cardiomegaly,6702,6702,0,1.0,True
+417de085be6029490ca2690608d65e57,Pleural thickening,0,0,0,1.0,True
+417de085be6029490ca2690608d65e57,Pulmonary fibrosis,0,0,0,1.0,True
+417de085be6029490ca2690608d65e57,Lung Opacity,40,40,0,1.0,True
+41981decf2f67490e917ab06a55a677c,Aortic enlargement,0,0,0,1.0,True
+41981decf2f67490e917ab06a55a677c,Cardiomegaly,0,0,0,1.0,True
+41981decf2f67490e917ab06a55a677c,Pleural thickening,0,0,0,1.0,True
+41981decf2f67490e917ab06a55a677c,Pulmonary fibrosis,1697,1697,0,1.0,True
+41981decf2f67490e917ab06a55a677c,Lung Opacity,1225,1225,0,1.0,True
+41a3987fef185ed06ea962df3493f57a,Aortic enlargement,0,0,0,1.0,True
+41a3987fef185ed06ea962df3493f57a,Cardiomegaly,0,0,0,1.0,True
+41a3987fef185ed06ea962df3493f57a,Pleural thickening,0,0,0,1.0,True
+41a3987fef185ed06ea962df3493f57a,Pulmonary fibrosis,1361,1361,0,1.0,True
+41a3987fef185ed06ea962df3493f57a,Lung Opacity,675,675,0,1.0,True
+43042c8224a4438b1ce2bb0695976182,Aortic enlargement,1214,1214,0,1.0,True
+43042c8224a4438b1ce2bb0695976182,Cardiomegaly,3007,3007,0,1.0,True
+43042c8224a4438b1ce2bb0695976182,Pleural thickening,0,0,0,1.0,True
+43042c8224a4438b1ce2bb0695976182,Pulmonary fibrosis,0,0,0,1.0,True
+43042c8224a4438b1ce2bb0695976182,Lung Opacity,0,0,0,1.0,True
+43d6a61fac5fb77bbf83e0070b914c82,Aortic enlargement,0,0,0,1.0,True
+43d6a61fac5fb77bbf83e0070b914c82,Cardiomegaly,4437,4437,0,1.0,True
+43d6a61fac5fb77bbf83e0070b914c82,Pleural thickening,110,110,0,1.0,True
+43d6a61fac5fb77bbf83e0070b914c82,Pulmonary fibrosis,2100,2100,0,1.0,True
+43d6a61fac5fb77bbf83e0070b914c82,Lung Opacity,0,0,0,1.0,True
+44e4be82a8acb16906b5398bc464b472,Aortic enlargement,2311,2311,0,1.0,True
+44e4be82a8acb16906b5398bc464b472,Cardiomegaly,4590,4590,0,1.0,True
+44e4be82a8acb16906b5398bc464b472,Pleural thickening,0,0,0,1.0,True
+44e4be82a8acb16906b5398bc464b472,Pulmonary fibrosis,0,0,0,1.0,True
+44e4be82a8acb16906b5398bc464b472,Lung Opacity,0,0,0,1.0,True
+45f8fd11d471cfb910172d26f8157ee5,Aortic enlargement,1021,1021,0,1.0,True
+45f8fd11d471cfb910172d26f8157ee5,Cardiomegaly,3686,3686,0,1.0,True
+45f8fd11d471cfb910172d26f8157ee5,Pleural thickening,1009,1009,0,1.0,True
+45f8fd11d471cfb910172d26f8157ee5,Pulmonary fibrosis,1595,1595,0,1.0,True
+45f8fd11d471cfb910172d26f8157ee5,Lung Opacity,703,703,0,1.0,True
+475705a8adf676e4f6d9db5296ed2b71,Aortic enlargement,1341,1341,0,1.0,True
+475705a8adf676e4f6d9db5296ed2b71,Cardiomegaly,5335,5335,0,1.0,True
+475705a8adf676e4f6d9db5296ed2b71,Pleural thickening,0,0,0,1.0,True
+475705a8adf676e4f6d9db5296ed2b71,Pulmonary fibrosis,0,0,0,1.0,True
+475705a8adf676e4f6d9db5296ed2b71,Lung Opacity,0,0,0,1.0,True
+48c44319fb3ad32555821ee0c74e6719,Aortic enlargement,1114,1114,0,1.0,True
+48c44319fb3ad32555821ee0c74e6719,Cardiomegaly,4620,4620,0,1.0,True
+48c44319fb3ad32555821ee0c74e6719,Pleural thickening,0,0,0,1.0,True
+48c44319fb3ad32555821ee0c74e6719,Pulmonary fibrosis,9214,9214,0,1.0,True
+48c44319fb3ad32555821ee0c74e6719,Lung Opacity,0,0,0,1.0,True
+4a24da485b9550c8df8b19caff945cdc,Aortic enlargement,800,800,0,1.0,True
+4a24da485b9550c8df8b19caff945cdc,Cardiomegaly,6925,6925,0,1.0,True
+4a24da485b9550c8df8b19caff945cdc,Pleural thickening,0,0,0,1.0,True
+4a24da485b9550c8df8b19caff945cdc,Pulmonary fibrosis,0,0,0,1.0,True
+4a24da485b9550c8df8b19caff945cdc,Lung Opacity,0,0,0,1.0,True
+4a2dec8f7163be64ef67f0d09056c921,Aortic enlargement,810,810,0,1.0,True
+4a2dec8f7163be64ef67f0d09056c921,Cardiomegaly,6254,6254,0,1.0,True
+4a2dec8f7163be64ef67f0d09056c921,Pleural thickening,0,0,0,1.0,True
+4a2dec8f7163be64ef67f0d09056c921,Pulmonary fibrosis,0,0,0,1.0,True
+4a2dec8f7163be64ef67f0d09056c921,Lung Opacity,3238,3238,0,1.0,True
+4bbfe3f248e318444c6628c28c2dbfae,Aortic enlargement,1254,1254,0,1.0,True
+4bbfe3f248e318444c6628c28c2dbfae,Cardiomegaly,4065,4065,0,1.0,True
+4bbfe3f248e318444c6628c28c2dbfae,Pleural thickening,0,0,0,1.0,True
+4bbfe3f248e318444c6628c28c2dbfae,Pulmonary fibrosis,0,0,0,1.0,True
+4bbfe3f248e318444c6628c28c2dbfae,Lung Opacity,0,0,0,1.0,True
+4c4cf43e7c8529c430c1d1295fee1784,Aortic enlargement,0,0,0,1.0,True
+4c4cf43e7c8529c430c1d1295fee1784,Cardiomegaly,0,0,0,1.0,True
+4c4cf43e7c8529c430c1d1295fee1784,Pleural thickening,0,0,0,1.0,True
+4c4cf43e7c8529c430c1d1295fee1784,Pulmonary fibrosis,7427,7427,0,1.0,True
+4c4cf43e7c8529c430c1d1295fee1784,Lung Opacity,7427,7427,0,1.0,True
+4e7a534c72ee26ef1610dd6e5c94d246,Aortic enlargement,479,479,0,1.0,True
+4e7a534c72ee26ef1610dd6e5c94d246,Cardiomegaly,2739,2739,0,1.0,True
+4e7a534c72ee26ef1610dd6e5c94d246,Pleural thickening,0,0,0,1.0,True
+4e7a534c72ee26ef1610dd6e5c94d246,Pulmonary fibrosis,1668,1668,0,1.0,True
+4e7a534c72ee26ef1610dd6e5c94d246,Lung Opacity,962,962,0,1.0,True
+4f15e82336d2e7505d4c9d757d6b1e68,Aortic enlargement,900,900,0,1.0,True
+4f15e82336d2e7505d4c9d757d6b1e68,Cardiomegaly,3061,3061,0,1.0,True
+4f15e82336d2e7505d4c9d757d6b1e68,Pleural thickening,0,0,0,1.0,True
+4f15e82336d2e7505d4c9d757d6b1e68,Pulmonary fibrosis,0,0,0,1.0,True
+4f15e82336d2e7505d4c9d757d6b1e68,Lung Opacity,2016,2016,0,1.0,True
+50625148e666a338a8588bd1b1e0b7f3,Aortic enlargement,0,0,0,1.0,True
+50625148e666a338a8588bd1b1e0b7f3,Cardiomegaly,0,0,0,1.0,True
+50625148e666a338a8588bd1b1e0b7f3,Pleural thickening,391,391,0,1.0,True
+50625148e666a338a8588bd1b1e0b7f3,Pulmonary fibrosis,192,192,0,1.0,True
+50625148e666a338a8588bd1b1e0b7f3,Lung Opacity,0,0,0,1.0,True
+5076848df8fa698b517a34f6a8246d43,Aortic enlargement,756,756,0,1.0,True
+5076848df8fa698b517a34f6a8246d43,Cardiomegaly,6943,6943,0,1.0,True
+5076848df8fa698b517a34f6a8246d43,Pleural thickening,0,0,0,1.0,True
+5076848df8fa698b517a34f6a8246d43,Pulmonary fibrosis,522,522,0,1.0,True
+5076848df8fa698b517a34f6a8246d43,Lung Opacity,0,0,0,1.0,True
+5164a68ca025b37b2ee9525b66c01071,Aortic enlargement,997,997,0,1.0,True
+5164a68ca025b37b2ee9525b66c01071,Cardiomegaly,1737,1737,0,1.0,True
+5164a68ca025b37b2ee9525b66c01071,Pleural thickening,475,475,0,1.0,True
+5164a68ca025b37b2ee9525b66c01071,Pulmonary fibrosis,289,289,0,1.0,True
+5164a68ca025b37b2ee9525b66c01071,Lung Opacity,4218,4218,0,1.0,True
+51b168d29879c8972aa29d9f31f4b00c,Aortic enlargement,0,0,0,1.0,True
+51b168d29879c8972aa29d9f31f4b00c,Cardiomegaly,0,0,0,1.0,True
+51b168d29879c8972aa29d9f31f4b00c,Pleural thickening,349,349,0,1.0,True
+51b168d29879c8972aa29d9f31f4b00c,Pulmonary fibrosis,0,0,0,1.0,True
+51b168d29879c8972aa29d9f31f4b00c,Lung Opacity,0,0,0,1.0,True
+53d4fbf11ca8be107a343df37ca9eddc,Aortic enlargement,3629,3629,0,1.0,True
+53d4fbf11ca8be107a343df37ca9eddc,Cardiomegaly,0,0,0,1.0,True
+53d4fbf11ca8be107a343df37ca9eddc,Pleural thickening,0,0,0,1.0,True
+53d4fbf11ca8be107a343df37ca9eddc,Pulmonary fibrosis,0,0,0,1.0,True
+53d4fbf11ca8be107a343df37ca9eddc,Lung Opacity,0,0,0,1.0,True
+53e93d9f8cf885a55e00079256595a86,Aortic enlargement,567,567,0,1.0,True
+53e93d9f8cf885a55e00079256595a86,Cardiomegaly,0,0,0,1.0,True
+53e93d9f8cf885a55e00079256595a86,Pleural thickening,0,0,0,1.0,True
+53e93d9f8cf885a55e00079256595a86,Pulmonary fibrosis,0,0,0,1.0,True
+53e93d9f8cf885a55e00079256595a86,Lung Opacity,9218,9218,0,1.0,True
+5450f21b06e8ee3fcdc1375711bc28ee,Aortic enlargement,0,0,0,1.0,True
+5450f21b06e8ee3fcdc1375711bc28ee,Cardiomegaly,0,0,0,1.0,True
+5450f21b06e8ee3fcdc1375711bc28ee,Pleural thickening,0,0,0,1.0,True
+5450f21b06e8ee3fcdc1375711bc28ee,Pulmonary fibrosis,0,0,0,1.0,True
+5450f21b06e8ee3fcdc1375711bc28ee,Lung Opacity,2480,2480,0,1.0,True
+54d7976f3b2da92eafd691971f78ea2b,Aortic enlargement,1146,1146,0,1.0,True
+54d7976f3b2da92eafd691971f78ea2b,Cardiomegaly,3468,3468,0,1.0,True
+54d7976f3b2da92eafd691971f78ea2b,Pleural thickening,832,832,0,1.0,True
+54d7976f3b2da92eafd691971f78ea2b,Pulmonary fibrosis,0,0,0,1.0,True
+54d7976f3b2da92eafd691971f78ea2b,Lung Opacity,0,0,0,1.0,True
+5562ea946b0ed8574dd20d05a001d6c4,Aortic enlargement,0,0,0,1.0,True
+5562ea946b0ed8574dd20d05a001d6c4,Cardiomegaly,0,0,0,1.0,True
+5562ea946b0ed8574dd20d05a001d6c4,Pleural thickening,0,0,0,1.0,True
+5562ea946b0ed8574dd20d05a001d6c4,Pulmonary fibrosis,0,0,0,1.0,True
+5562ea946b0ed8574dd20d05a001d6c4,Lung Opacity,2964,2964,0,1.0,True
+582b7c53ef97d1107d527bf23879353f,Aortic enlargement,0,0,0,1.0,True
+582b7c53ef97d1107d527bf23879353f,Cardiomegaly,0,0,0,1.0,True
+582b7c53ef97d1107d527bf23879353f,Pleural thickening,1156,1156,0,1.0,True
+582b7c53ef97d1107d527bf23879353f,Pulmonary fibrosis,945,945,0,1.0,True
+582b7c53ef97d1107d527bf23879353f,Lung Opacity,0,0,0,1.0,True
+58e1820f96aa84a141c9e217c46dfe71,Aortic enlargement,575,575,0,1.0,True
+58e1820f96aa84a141c9e217c46dfe71,Cardiomegaly,2796,2796,0,1.0,True
+58e1820f96aa84a141c9e217c46dfe71,Pleural thickening,686,686,0,1.0,True
+58e1820f96aa84a141c9e217c46dfe71,Pulmonary fibrosis,0,0,0,1.0,True
+58e1820f96aa84a141c9e217c46dfe71,Lung Opacity,462,462,0,1.0,True
+5b295b1def2ae7beedc752eb0fd668aa,Aortic enlargement,945,945,0,1.0,True
+5b295b1def2ae7beedc752eb0fd668aa,Cardiomegaly,0,0,0,1.0,True
+5b295b1def2ae7beedc752eb0fd668aa,Pleural thickening,1000,1000,0,1.0,True
+5b295b1def2ae7beedc752eb0fd668aa,Pulmonary fibrosis,945,945,0,1.0,True
+5b295b1def2ae7beedc752eb0fd668aa,Lung Opacity,9834,9834,0,1.0,True
+5bb68aea19f6eb00d28d0e6386afecfc,Aortic enlargement,947,947,0,1.0,True
+5bb68aea19f6eb00d28d0e6386afecfc,Cardiomegaly,0,0,0,1.0,True
+5bb68aea19f6eb00d28d0e6386afecfc,Pleural thickening,0,0,0,1.0,True
+5bb68aea19f6eb00d28d0e6386afecfc,Pulmonary fibrosis,0,0,0,1.0,True
+5bb68aea19f6eb00d28d0e6386afecfc,Lung Opacity,7558,7558,0,1.0,True
+5f080be2c69effc23bae4b5704b3a9e1,Aortic enlargement,756,756,0,1.0,True
+5f080be2c69effc23bae4b5704b3a9e1,Cardiomegaly,0,0,0,1.0,True
+5f080be2c69effc23bae4b5704b3a9e1,Pleural thickening,296,296,0,1.0,True
+5f080be2c69effc23bae4b5704b3a9e1,Pulmonary fibrosis,0,0,0,1.0,True
+5f080be2c69effc23bae4b5704b3a9e1,Lung Opacity,0,0,0,1.0,True
+5f6d317d6ef78eb1f66b9cf0f0bd8555,Aortic enlargement,858,858,0,1.0,True
+5f6d317d6ef78eb1f66b9cf0f0bd8555,Cardiomegaly,0,0,0,1.0,True
+5f6d317d6ef78eb1f66b9cf0f0bd8555,Pleural thickening,1069,1069,0,1.0,True
+5f6d317d6ef78eb1f66b9cf0f0bd8555,Pulmonary fibrosis,0,0,0,1.0,True
+5f6d317d6ef78eb1f66b9cf0f0bd8555,Lung Opacity,0,0,0,1.0,True
+604340ab6423f81a91ac72182163e9a4,Aortic enlargement,0,0,0,1.0,True
+604340ab6423f81a91ac72182163e9a4,Cardiomegaly,0,0,0,1.0,True
+604340ab6423f81a91ac72182163e9a4,Pleural thickening,0,0,0,1.0,True
+604340ab6423f81a91ac72182163e9a4,Pulmonary fibrosis,0,0,0,1.0,True
+604340ab6423f81a91ac72182163e9a4,Lung Opacity,4656,4656,0,1.0,True
+60d769f30bc9d356998abeeba51fa6ff,Aortic enlargement,1136,1136,0,1.0,True
+60d769f30bc9d356998abeeba51fa6ff,Cardiomegaly,3712,3712,0,1.0,True
+60d769f30bc9d356998abeeba51fa6ff,Pleural thickening,180,180,0,1.0,True
+60d769f30bc9d356998abeeba51fa6ff,Pulmonary fibrosis,0,0,0,1.0,True
+60d769f30bc9d356998abeeba51fa6ff,Lung Opacity,0,0,0,1.0,True
+63415dfe4d7eb0c122a6818e84195475,Aortic enlargement,957,957,0,1.0,True
+63415dfe4d7eb0c122a6818e84195475,Cardiomegaly,2378,2378,0,1.0,True
+63415dfe4d7eb0c122a6818e84195475,Pleural thickening,408,408,0,1.0,True
+63415dfe4d7eb0c122a6818e84195475,Pulmonary fibrosis,2173,2173,0,1.0,True
+63415dfe4d7eb0c122a6818e84195475,Lung Opacity,9309,9309,0,1.0,True
+64e323f8638652f7bf813a933ebcbf07,Aortic enlargement,2292,2292,0,1.0,True
+64e323f8638652f7bf813a933ebcbf07,Cardiomegaly,0,0,0,1.0,True
+64e323f8638652f7bf813a933ebcbf07,Pleural thickening,0,0,0,1.0,True
+64e323f8638652f7bf813a933ebcbf07,Pulmonary fibrosis,0,0,0,1.0,True
+64e323f8638652f7bf813a933ebcbf07,Lung Opacity,0,0,0,1.0,True
+6692df8a8c5f641eff181a2f589bfe80,Aortic enlargement,1698,1698,0,1.0,True
+6692df8a8c5f641eff181a2f589bfe80,Cardiomegaly,4428,4428,0,1.0,True
+6692df8a8c5f641eff181a2f589bfe80,Pleural thickening,420,420,0,1.0,True
+6692df8a8c5f641eff181a2f589bfe80,Pulmonary fibrosis,2438,2438,0,1.0,True
+6692df8a8c5f641eff181a2f589bfe80,Lung Opacity,420,420,0,1.0,True
+66cc79784846f7ec74c4ced47c244b24,Aortic enlargement,1200,1200,0,1.0,True
+66cc79784846f7ec74c4ced47c244b24,Cardiomegaly,3420,3420,0,1.0,True
+66cc79784846f7ec74c4ced47c244b24,Pleural thickening,276,276,0,1.0,True
+66cc79784846f7ec74c4ced47c244b24,Pulmonary fibrosis,1042,1042,0,1.0,True
+66cc79784846f7ec74c4ced47c244b24,Lung Opacity,0,0,0,1.0,True
+67533fa705019e473c1609ec6ed294d8,Aortic enlargement,1089,1089,0,1.0,True
+67533fa705019e473c1609ec6ed294d8,Cardiomegaly,4509,4509,0,1.0,True
+67533fa705019e473c1609ec6ed294d8,Pleural thickening,217,217,0,1.0,True
+67533fa705019e473c1609ec6ed294d8,Pulmonary fibrosis,0,0,0,1.0,True
+67533fa705019e473c1609ec6ed294d8,Lung Opacity,0,0,0,1.0,True
+68194ba7f002feafff03a21625a07305,Aortic enlargement,936,936,0,1.0,True
+68194ba7f002feafff03a21625a07305,Cardiomegaly,3791,3791,0,1.0,True
+68194ba7f002feafff03a21625a07305,Pleural thickening,0,0,0,1.0,True
+68194ba7f002feafff03a21625a07305,Pulmonary fibrosis,0,0,0,1.0,True
+68194ba7f002feafff03a21625a07305,Lung Opacity,0,0,0,1.0,True
+690a74b4ebf969fbadc5ad0a1187968d,Aortic enlargement,1622,1622,0,1.0,True
+690a74b4ebf969fbadc5ad0a1187968d,Cardiomegaly,6242,6242,0,1.0,True
+690a74b4ebf969fbadc5ad0a1187968d,Pleural thickening,1035,1035,0,1.0,True
+690a74b4ebf969fbadc5ad0a1187968d,Pulmonary fibrosis,756,756,0,1.0,True
+690a74b4ebf969fbadc5ad0a1187968d,Lung Opacity,0,0,0,1.0,True
+6d1ae9283e8be51b5057a189f53bef03,Aortic enlargement,1252,1252,0,1.0,True
+6d1ae9283e8be51b5057a189f53bef03,Cardiomegaly,3805,3805,0,1.0,True
+6d1ae9283e8be51b5057a189f53bef03,Pleural thickening,0,0,0,1.0,True
+6d1ae9283e8be51b5057a189f53bef03,Pulmonary fibrosis,0,0,0,1.0,True
+6d1ae9283e8be51b5057a189f53bef03,Lung Opacity,0,0,0,1.0,True
+6de2efbed6b23441ab46cbcfa980e4bd,Aortic enlargement,1442,1442,0,1.0,True
+6de2efbed6b23441ab46cbcfa980e4bd,Cardiomegaly,3351,3351,0,1.0,True
+6de2efbed6b23441ab46cbcfa980e4bd,Pleural thickening,0,0,0,1.0,True
+6de2efbed6b23441ab46cbcfa980e4bd,Pulmonary fibrosis,0,0,0,1.0,True
+6de2efbed6b23441ab46cbcfa980e4bd,Lung Opacity,1512,1512,0,1.0,True
+6efabbfe08d43653606d7b16c5ad264d,Aortic enlargement,0,0,0,1.0,True
+6efabbfe08d43653606d7b16c5ad264d,Cardiomegaly,0,0,0,1.0,True
+6efabbfe08d43653606d7b16c5ad264d,Pleural thickening,0,0,0,1.0,True
+6efabbfe08d43653606d7b16c5ad264d,Pulmonary fibrosis,0,0,0,1.0,True
+6efabbfe08d43653606d7b16c5ad264d,Lung Opacity,2184,2184,0,1.0,True
+6fb55d54b54b05b50913b456d1b5d0cc,Aortic enlargement,0,0,0,1.0,True
+6fb55d54b54b05b50913b456d1b5d0cc,Cardiomegaly,0,0,0,1.0,True
+6fb55d54b54b05b50913b456d1b5d0cc,Pleural thickening,81,81,0,1.0,True
+6fb55d54b54b05b50913b456d1b5d0cc,Pulmonary fibrosis,285,285,0,1.0,True
+6fb55d54b54b05b50913b456d1b5d0cc,Lung Opacity,9453,9453,0,1.0,True
+713f94c56bcf0a3622522744fb0d24d7,Aortic enlargement,992,992,0,1.0,True
+713f94c56bcf0a3622522744fb0d24d7,Cardiomegaly,4946,4946,0,1.0,True
+713f94c56bcf0a3622522744fb0d24d7,Pleural thickening,0,0,0,1.0,True
+713f94c56bcf0a3622522744fb0d24d7,Pulmonary fibrosis,0,0,0,1.0,True
+713f94c56bcf0a3622522744fb0d24d7,Lung Opacity,0,0,0,1.0,True
+7245fcab6a98659146972d983aa01c6d,Aortic enlargement,1118,1118,0,1.0,True
+7245fcab6a98659146972d983aa01c6d,Cardiomegaly,0,0,0,1.0,True
+7245fcab6a98659146972d983aa01c6d,Pleural thickening,0,0,0,1.0,True
+7245fcab6a98659146972d983aa01c6d,Pulmonary fibrosis,308,308,0,1.0,True
+7245fcab6a98659146972d983aa01c6d,Lung Opacity,5501,5501,0,1.0,True
+742d73529266f013bbbcdf0f2bf9d218,Aortic enlargement,1015,1015,0,1.0,True
+742d73529266f013bbbcdf0f2bf9d218,Cardiomegaly,3362,3362,0,1.0,True
+742d73529266f013bbbcdf0f2bf9d218,Pleural thickening,0,0,0,1.0,True
+742d73529266f013bbbcdf0f2bf9d218,Pulmonary fibrosis,0,0,0,1.0,True
+742d73529266f013bbbcdf0f2bf9d218,Lung Opacity,0,0,0,1.0,True
+7486840374f87cde690928d1b33aa97c,Aortic enlargement,899,899,0,1.0,True
+7486840374f87cde690928d1b33aa97c,Cardiomegaly,5394,5394,0,1.0,True
+7486840374f87cde690928d1b33aa97c,Pleural thickening,0,0,0,1.0,True
+7486840374f87cde690928d1b33aa97c,Pulmonary fibrosis,654,654,0,1.0,True
+7486840374f87cde690928d1b33aa97c,Lung Opacity,0,0,0,1.0,True
+75ed9329d92e12a8d1eb26cdaa0c5094,Aortic enlargement,0,0,0,1.0,True
+75ed9329d92e12a8d1eb26cdaa0c5094,Cardiomegaly,0,0,0,1.0,True
+75ed9329d92e12a8d1eb26cdaa0c5094,Pleural thickening,609,609,0,1.0,True
+75ed9329d92e12a8d1eb26cdaa0c5094,Pulmonary fibrosis,2115,2115,0,1.0,True
+75ed9329d92e12a8d1eb26cdaa0c5094,Lung Opacity,0,0,0,1.0,True
+7661ae717d26893100f399e76e02c438,Aortic enlargement,0,0,0,1.0,True
+7661ae717d26893100f399e76e02c438,Cardiomegaly,0,0,0,1.0,True
+7661ae717d26893100f399e76e02c438,Pleural thickening,0,0,0,1.0,True
+7661ae717d26893100f399e76e02c438,Pulmonary fibrosis,829,829,0,1.0,True
+7661ae717d26893100f399e76e02c438,Lung Opacity,0,0,0,1.0,True
+768f286b65425e98e6d03fa3bd1c5ded,Aortic enlargement,0,0,0,1.0,True
+768f286b65425e98e6d03fa3bd1c5ded,Cardiomegaly,4642,4642,0,1.0,True
+768f286b65425e98e6d03fa3bd1c5ded,Pleural thickening,0,0,0,1.0,True
+768f286b65425e98e6d03fa3bd1c5ded,Pulmonary fibrosis,0,0,0,1.0,True
+768f286b65425e98e6d03fa3bd1c5ded,Lung Opacity,0,0,0,1.0,True
+76f84c8d0216ec44b47059fa80049995,Aortic enlargement,0,0,0,1.0,True
+76f84c8d0216ec44b47059fa80049995,Cardiomegaly,0,0,0,1.0,True
+76f84c8d0216ec44b47059fa80049995,Pleural thickening,2549,2549,0,1.0,True
+76f84c8d0216ec44b47059fa80049995,Pulmonary fibrosis,0,0,0,1.0,True
+76f84c8d0216ec44b47059fa80049995,Lung Opacity,8903,8903,0,1.0,True
+7847f09e3ec0d370353104de17dc6a71,Aortic enlargement,972,972,0,1.0,True
+7847f09e3ec0d370353104de17dc6a71,Cardiomegaly,3800,3800,0,1.0,True
+7847f09e3ec0d370353104de17dc6a71,Pleural thickening,0,0,0,1.0,True
+7847f09e3ec0d370353104de17dc6a71,Pulmonary fibrosis,0,0,0,1.0,True
+7847f09e3ec0d370353104de17dc6a71,Lung Opacity,0,0,0,1.0,True
+79bd8310bd57dfd23d33bfe5b3cc81d3,Aortic enlargement,2816,2816,0,1.0,True
+79bd8310bd57dfd23d33bfe5b3cc81d3,Cardiomegaly,12320,12320,0,1.0,True
+79bd8310bd57dfd23d33bfe5b3cc81d3,Pleural thickening,1485,1485,0,1.0,True
+79bd8310bd57dfd23d33bfe5b3cc81d3,Pulmonary fibrosis,0,0,0,1.0,True
+79bd8310bd57dfd23d33bfe5b3cc81d3,Lung Opacity,0,0,0,1.0,True
+7b30d37b73be405bfd91ed5e2d46c473,Aortic enlargement,1088,1088,0,1.0,True
+7b30d37b73be405bfd91ed5e2d46c473,Cardiomegaly,3723,3723,0,1.0,True
+7b30d37b73be405bfd91ed5e2d46c473,Pleural thickening,0,0,0,1.0,True
+7b30d37b73be405bfd91ed5e2d46c473,Pulmonary fibrosis,0,0,0,1.0,True
+7b30d37b73be405bfd91ed5e2d46c473,Lung Opacity,9003,9003,0,1.0,True
+7b759182d86f6a44b377ffcfce8a3b53,Aortic enlargement,1608,1608,0,1.0,True
+7b759182d86f6a44b377ffcfce8a3b53,Cardiomegaly,5204,5204,0,1.0,True
+7b759182d86f6a44b377ffcfce8a3b53,Pleural thickening,0,0,0,1.0,True
+7b759182d86f6a44b377ffcfce8a3b53,Pulmonary fibrosis,0,0,0,1.0,True
+7b759182d86f6a44b377ffcfce8a3b53,Lung Opacity,0,0,0,1.0,True
+7c3fb9bf622d400c454d0a6b39a1b484,Aortic enlargement,1052,1052,0,1.0,True
+7c3fb9bf622d400c454d0a6b39a1b484,Cardiomegaly,3326,3326,0,1.0,True
+7c3fb9bf622d400c454d0a6b39a1b484,Pleural thickening,0,0,0,1.0,True
+7c3fb9bf622d400c454d0a6b39a1b484,Pulmonary fibrosis,0,0,0,1.0,True
+7c3fb9bf622d400c454d0a6b39a1b484,Lung Opacity,0,0,0,1.0,True
+7d0cc84e9002c1eb219559540c014e7a,Aortic enlargement,1088,1088,0,1.0,True
+7d0cc84e9002c1eb219559540c014e7a,Cardiomegaly,0,0,0,1.0,True
+7d0cc84e9002c1eb219559540c014e7a,Pleural thickening,693,693,0,1.0,True
+7d0cc84e9002c1eb219559540c014e7a,Pulmonary fibrosis,4274,4274,0,1.0,True
+7d0cc84e9002c1eb219559540c014e7a,Lung Opacity,0,0,0,1.0,True
+7d5de314c3280fe6e89ec1e101c1539e,Aortic enlargement,1618,1618,0,1.0,True
+7d5de314c3280fe6e89ec1e101c1539e,Cardiomegaly,2856,2856,0,1.0,True
+7d5de314c3280fe6e89ec1e101c1539e,Pleural thickening,287,287,0,1.0,True
+7d5de314c3280fe6e89ec1e101c1539e,Pulmonary fibrosis,0,0,0,1.0,True
+7d5de314c3280fe6e89ec1e101c1539e,Lung Opacity,0,0,0,1.0,True
+7e2859fc7565a9b2701b29d682056319,Aortic enlargement,904,904,0,1.0,True
+7e2859fc7565a9b2701b29d682056319,Cardiomegaly,4449,4449,0,1.0,True
+7e2859fc7565a9b2701b29d682056319,Pleural thickening,0,0,0,1.0,True
+7e2859fc7565a9b2701b29d682056319,Pulmonary fibrosis,924,924,0,1.0,True
+7e2859fc7565a9b2701b29d682056319,Lung Opacity,0,0,0,1.0,True
+7e705e1d7561ee00863609c72d39aded,Aortic enlargement,1225,1225,0,1.0,True
+7e705e1d7561ee00863609c72d39aded,Cardiomegaly,3200,3200,0,1.0,True
+7e705e1d7561ee00863609c72d39aded,Pleural thickening,384,384,0,1.0,True
+7e705e1d7561ee00863609c72d39aded,Pulmonary fibrosis,0,0,0,1.0,True
+7e705e1d7561ee00863609c72d39aded,Lung Opacity,0,0,0,1.0,True
+7ea5d9e48085e44708b8fad8974ce953,Aortic enlargement,784,784,0,1.0,True
+7ea5d9e48085e44708b8fad8974ce953,Cardiomegaly,0,0,0,1.0,True
+7ea5d9e48085e44708b8fad8974ce953,Pleural thickening,0,0,0,1.0,True
+7ea5d9e48085e44708b8fad8974ce953,Pulmonary fibrosis,741,741,0,1.0,True
+7ea5d9e48085e44708b8fad8974ce953,Lung Opacity,0,0,0,1.0,True
+7f6545a0985a090403178267ff0295a4,Aortic enlargement,0,0,0,1.0,True
+7f6545a0985a090403178267ff0295a4,Cardiomegaly,0,0,0,1.0,True
+7f6545a0985a090403178267ff0295a4,Pleural thickening,192,192,0,1.0,True
+7f6545a0985a090403178267ff0295a4,Pulmonary fibrosis,0,0,0,1.0,True
+7f6545a0985a090403178267ff0295a4,Lung Opacity,0,0,0,1.0,True
+80566fdc49f6da7e1a3e5f69bda6d299,Aortic enlargement,973,973,0,1.0,True
+80566fdc49f6da7e1a3e5f69bda6d299,Cardiomegaly,5544,5544,0,1.0,True
+80566fdc49f6da7e1a3e5f69bda6d299,Pleural thickening,0,0,0,1.0,True
+80566fdc49f6da7e1a3e5f69bda6d299,Pulmonary fibrosis,7498,7498,0,1.0,True
+80566fdc49f6da7e1a3e5f69bda6d299,Lung Opacity,0,0,0,1.0,True
+8081c5d9aa37706f9e9d43f8e26d2ee5,Aortic enlargement,828,828,0,1.0,True
+8081c5d9aa37706f9e9d43f8e26d2ee5,Cardiomegaly,4033,4033,0,1.0,True
+8081c5d9aa37706f9e9d43f8e26d2ee5,Pleural thickening,0,0,0,1.0,True
+8081c5d9aa37706f9e9d43f8e26d2ee5,Pulmonary fibrosis,0,0,0,1.0,True
+8081c5d9aa37706f9e9d43f8e26d2ee5,Lung Opacity,0,0,0,1.0,True
+8222ee980c821621f5a6cff2b212b2ff,Aortic enlargement,0,0,0,1.0,True
+8222ee980c821621f5a6cff2b212b2ff,Cardiomegaly,0,0,0,1.0,True
+8222ee980c821621f5a6cff2b212b2ff,Pleural thickening,0,0,0,1.0,True
+8222ee980c821621f5a6cff2b212b2ff,Pulmonary fibrosis,0,0,0,1.0,True
+8222ee980c821621f5a6cff2b212b2ff,Lung Opacity,7665,7665,0,1.0,True
+82624b37dc4d0169f3fe6fd87dcb5208,Aortic enlargement,1019,1019,0,1.0,True
+82624b37dc4d0169f3fe6fd87dcb5208,Cardiomegaly,4920,4920,0,1.0,True
+82624b37dc4d0169f3fe6fd87dcb5208,Pleural thickening,2260,2260,0,1.0,True
+82624b37dc4d0169f3fe6fd87dcb5208,Pulmonary fibrosis,1069,1069,0,1.0,True
+82624b37dc4d0169f3fe6fd87dcb5208,Lung Opacity,12297,12297,0,1.0,True
+85cfc59f138f490784170dbaeb0112a7,Aortic enlargement,0,0,0,1.0,True
+85cfc59f138f490784170dbaeb0112a7,Cardiomegaly,0,0,0,1.0,True
+85cfc59f138f490784170dbaeb0112a7,Pleural thickening,4792,4792,0,1.0,True
+85cfc59f138f490784170dbaeb0112a7,Pulmonary fibrosis,6567,6567,0,1.0,True
+85cfc59f138f490784170dbaeb0112a7,Lung Opacity,4837,4837,0,1.0,True
+86d9b86fe05cf159ca827fad05736c4d,Aortic enlargement,0,0,0,1.0,True
+86d9b86fe05cf159ca827fad05736c4d,Cardiomegaly,6458,6458,0,1.0,True
+86d9b86fe05cf159ca827fad05736c4d,Pleural thickening,0,0,0,1.0,True
+86d9b86fe05cf159ca827fad05736c4d,Pulmonary fibrosis,0,0,0,1.0,True
+86d9b86fe05cf159ca827fad05736c4d,Lung Opacity,0,0,0,1.0,True
+8762595001d994ee7c1734a165301a09,Aortic enlargement,1032,1032,0,1.0,True
+8762595001d994ee7c1734a165301a09,Cardiomegaly,4639,4639,0,1.0,True
+8762595001d994ee7c1734a165301a09,Pleural thickening,226,226,0,1.0,True
+8762595001d994ee7c1734a165301a09,Pulmonary fibrosis,0,0,0,1.0,True
+8762595001d994ee7c1734a165301a09,Lung Opacity,0,0,0,1.0,True
+8794eea4b84bc93cdf786327e3e606f6,Aortic enlargement,0,0,0,1.0,True
+8794eea4b84bc93cdf786327e3e606f6,Cardiomegaly,0,0,0,1.0,True
+8794eea4b84bc93cdf786327e3e606f6,Pleural thickening,1264,1264,0,1.0,True
+8794eea4b84bc93cdf786327e3e606f6,Pulmonary fibrosis,3780,3780,0,1.0,True
+8794eea4b84bc93cdf786327e3e606f6,Lung Opacity,0,0,0,1.0,True
+886159a41e7589ba0d0713980591e27d,Aortic enlargement,0,0,0,1.0,True
+886159a41e7589ba0d0713980591e27d,Cardiomegaly,11319,11319,0,1.0,True
+886159a41e7589ba0d0713980591e27d,Pleural thickening,0,0,0,1.0,True
+886159a41e7589ba0d0713980591e27d,Pulmonary fibrosis,0,0,0,1.0,True
+886159a41e7589ba0d0713980591e27d,Lung Opacity,2352,2352,0,1.0,True
+8933f5b721da3ab96e2a6b7efa61fc24,Aortic enlargement,1140,1140,0,1.0,True
+8933f5b721da3ab96e2a6b7efa61fc24,Cardiomegaly,0,0,0,1.0,True
+8933f5b721da3ab96e2a6b7efa61fc24,Pleural thickening,3115,3115,0,1.0,True
+8933f5b721da3ab96e2a6b7efa61fc24,Pulmonary fibrosis,2552,2552,0,1.0,True
+8933f5b721da3ab96e2a6b7efa61fc24,Lung Opacity,0,0,0,1.0,True
+8be5bfabd547e1ef91f0b0b7b4d597d4,Aortic enlargement,2339,2339,0,1.0,True
+8be5bfabd547e1ef91f0b0b7b4d597d4,Cardiomegaly,5045,5045,0,1.0,True
+8be5bfabd547e1ef91f0b0b7b4d597d4,Pleural thickening,0,0,0,1.0,True
+8be5bfabd547e1ef91f0b0b7b4d597d4,Pulmonary fibrosis,804,804,0,1.0,True
+8be5bfabd547e1ef91f0b0b7b4d597d4,Lung Opacity,294,294,0,1.0,True
+8c22b37c81902d8c42fec5b9363f79bd,Aortic enlargement,1488,1488,0,1.0,True
+8c22b37c81902d8c42fec5b9363f79bd,Cardiomegaly,0,0,0,1.0,True
+8c22b37c81902d8c42fec5b9363f79bd,Pleural thickening,480,480,0,1.0,True
+8c22b37c81902d8c42fec5b9363f79bd,Pulmonary fibrosis,0,0,0,1.0,True
+8c22b37c81902d8c42fec5b9363f79bd,Lung Opacity,370,370,0,1.0,True
+8cc5ee4cf5c697d98d7c85951aa4f8d7,Aortic enlargement,0,0,0,1.0,True
+8cc5ee4cf5c697d98d7c85951aa4f8d7,Cardiomegaly,0,0,0,1.0,True
+8cc5ee4cf5c697d98d7c85951aa4f8d7,Pleural thickening,350,350,0,1.0,True
+8cc5ee4cf5c697d98d7c85951aa4f8d7,Pulmonary fibrosis,260,260,0,1.0,True
+8cc5ee4cf5c697d98d7c85951aa4f8d7,Lung Opacity,0,0,0,1.0,True
+8d71580638dabfe93678f1a7bab30bfe,Aortic enlargement,2280,2280,0,1.0,True
+8d71580638dabfe93678f1a7bab30bfe,Cardiomegaly,4667,4667,0,1.0,True
+8d71580638dabfe93678f1a7bab30bfe,Pleural thickening,0,0,0,1.0,True
+8d71580638dabfe93678f1a7bab30bfe,Pulmonary fibrosis,0,0,0,1.0,True
+8d71580638dabfe93678f1a7bab30bfe,Lung Opacity,2096,2096,0,1.0,True
+8de556d9cd8d026b8eba03870cc6acba,Aortic enlargement,0,0,0,1.0,True
+8de556d9cd8d026b8eba03870cc6acba,Cardiomegaly,0,0,0,1.0,True
+8de556d9cd8d026b8eba03870cc6acba,Pleural thickening,0,0,0,1.0,True
+8de556d9cd8d026b8eba03870cc6acba,Pulmonary fibrosis,2859,2859,0,1.0,True
+8de556d9cd8d026b8eba03870cc6acba,Lung Opacity,2331,2331,0,1.0,True
+8e063eadea9a6aeb684c893c8598be3e,Aortic enlargement,899,899,0,1.0,True
+8e063eadea9a6aeb684c893c8598be3e,Cardiomegaly,0,0,0,1.0,True
+8e063eadea9a6aeb684c893c8598be3e,Pleural thickening,294,294,0,1.0,True
+8e063eadea9a6aeb684c893c8598be3e,Pulmonary fibrosis,0,0,0,1.0,True
+8e063eadea9a6aeb684c893c8598be3e,Lung Opacity,1750,1750,0,1.0,True
+8f6709f15f4f222cf7af5bb49f73aa18,Aortic enlargement,899,899,0,1.0,True
+8f6709f15f4f222cf7af5bb49f73aa18,Cardiomegaly,4025,4025,0,1.0,True
+8f6709f15f4f222cf7af5bb49f73aa18,Pleural thickening,0,0,0,1.0,True
+8f6709f15f4f222cf7af5bb49f73aa18,Pulmonary fibrosis,0,0,0,1.0,True
+8f6709f15f4f222cf7af5bb49f73aa18,Lung Opacity,98,98,0,1.0,True
+910c99ddbefd826f8e28f0969d0d162f,Aortic enlargement,3770,3770,0,1.0,True
+910c99ddbefd826f8e28f0969d0d162f,Cardiomegaly,5126,5126,0,1.0,True
+910c99ddbefd826f8e28f0969d0d162f,Pleural thickening,0,0,0,1.0,True
+910c99ddbefd826f8e28f0969d0d162f,Pulmonary fibrosis,340,340,0,1.0,True
+910c99ddbefd826f8e28f0969d0d162f,Lung Opacity,0,0,0,1.0,True
+917bf10b1a676986b3e548bed07c03f2,Aortic enlargement,1759,1759,0,1.0,True
+917bf10b1a676986b3e548bed07c03f2,Cardiomegaly,5437,5437,0,1.0,True
+917bf10b1a676986b3e548bed07c03f2,Pleural thickening,0,0,0,1.0,True
+917bf10b1a676986b3e548bed07c03f2,Pulmonary fibrosis,0,0,0,1.0,True
+917bf10b1a676986b3e548bed07c03f2,Lung Opacity,0,0,0,1.0,True
+91c6fc1df5829cdaff5705203a351e1e,Aortic enlargement,802,802,0,1.0,True
+91c6fc1df5829cdaff5705203a351e1e,Cardiomegaly,4430,4430,0,1.0,True
+91c6fc1df5829cdaff5705203a351e1e,Pleural thickening,187,187,0,1.0,True
+91c6fc1df5829cdaff5705203a351e1e,Pulmonary fibrosis,1295,1295,0,1.0,True
+91c6fc1df5829cdaff5705203a351e1e,Lung Opacity,1632,1632,0,1.0,True
+91dcbfac33b20bb82e9641211b18f53b,Aortic enlargement,0,0,0,1.0,True
+91dcbfac33b20bb82e9641211b18f53b,Cardiomegaly,0,0,0,1.0,True
+91dcbfac33b20bb82e9641211b18f53b,Pleural thickening,0,0,0,1.0,True
+91dcbfac33b20bb82e9641211b18f53b,Pulmonary fibrosis,776,776,0,1.0,True
+91dcbfac33b20bb82e9641211b18f53b,Lung Opacity,190,190,0,1.0,True
+92928a912d1736877050c8c00c3dacdb,Aortic enlargement,1285,1285,0,1.0,True
+92928a912d1736877050c8c00c3dacdb,Cardiomegaly,6144,6144,0,1.0,True
+92928a912d1736877050c8c00c3dacdb,Pleural thickening,1216,1216,0,1.0,True
+92928a912d1736877050c8c00c3dacdb,Pulmonary fibrosis,0,0,0,1.0,True
+92928a912d1736877050c8c00c3dacdb,Lung Opacity,6468,6468,0,1.0,True
+92c8ef82a9059eade4fd85c649f3b1fe,Aortic enlargement,0,0,0,1.0,True
+92c8ef82a9059eade4fd85c649f3b1fe,Cardiomegaly,4998,4998,0,1.0,True
+92c8ef82a9059eade4fd85c649f3b1fe,Pleural thickening,0,0,0,1.0,True
+92c8ef82a9059eade4fd85c649f3b1fe,Pulmonary fibrosis,2271,2271,0,1.0,True
+92c8ef82a9059eade4fd85c649f3b1fe,Lung Opacity,800,800,0,1.0,True
+931786165c810445eff5e832421a93c4,Aortic enlargement,0,0,0,1.0,True
+931786165c810445eff5e832421a93c4,Cardiomegaly,0,0,0,1.0,True
+931786165c810445eff5e832421a93c4,Pleural thickening,0,0,0,1.0,True
+931786165c810445eff5e832421a93c4,Pulmonary fibrosis,1148,1148,0,1.0,True
+931786165c810445eff5e832421a93c4,Lung Opacity,0,0,0,1.0,True
+93abddc3fe8d832eac4e48ef666437cd,Aortic enlargement,1388,1388,0,1.0,True
+93abddc3fe8d832eac4e48ef666437cd,Cardiomegaly,5718,5718,0,1.0,True
+93abddc3fe8d832eac4e48ef666437cd,Pleural thickening,280,280,0,1.0,True
+93abddc3fe8d832eac4e48ef666437cd,Pulmonary fibrosis,0,0,0,1.0,True
+93abddc3fe8d832eac4e48ef666437cd,Lung Opacity,0,0,0,1.0,True
+959e5d96df8e3eaa7eed10f8b0b3d08c,Aortic enlargement,780,780,0,1.0,True
+959e5d96df8e3eaa7eed10f8b0b3d08c,Cardiomegaly,0,0,0,1.0,True
+959e5d96df8e3eaa7eed10f8b0b3d08c,Pleural thickening,344,344,0,1.0,True
+959e5d96df8e3eaa7eed10f8b0b3d08c,Pulmonary fibrosis,0,0,0,1.0,True
+959e5d96df8e3eaa7eed10f8b0b3d08c,Lung Opacity,4224,4224,0,1.0,True
+96836e392ecca0df10f8aeac33db3c68,Aortic enlargement,899,899,0,1.0,True
+96836e392ecca0df10f8aeac33db3c68,Cardiomegaly,11544,11544,0,1.0,True
+96836e392ecca0df10f8aeac33db3c68,Pleural thickening,0,0,0,1.0,True
+96836e392ecca0df10f8aeac33db3c68,Pulmonary fibrosis,0,0,0,1.0,True
+96836e392ecca0df10f8aeac33db3c68,Lung Opacity,0,0,0,1.0,True
+97f48290716a3cad241bf74f3ce47143,Aortic enlargement,0,0,0,1.0,True
+97f48290716a3cad241bf74f3ce47143,Cardiomegaly,0,0,0,1.0,True
+97f48290716a3cad241bf74f3ce47143,Pleural thickening,0,0,0,1.0,True
+97f48290716a3cad241bf74f3ce47143,Pulmonary fibrosis,137,137,0,1.0,True
+97f48290716a3cad241bf74f3ce47143,Lung Opacity,0,0,0,1.0,True
+980cbaa4ca9127c95c7a24cfa7b08598,Aortic enlargement,1129,1129,0,1.0,True
+980cbaa4ca9127c95c7a24cfa7b08598,Cardiomegaly,3744,3744,0,1.0,True
+980cbaa4ca9127c95c7a24cfa7b08598,Pleural thickening,0,0,0,1.0,True
+980cbaa4ca9127c95c7a24cfa7b08598,Pulmonary fibrosis,0,0,0,1.0,True
+980cbaa4ca9127c95c7a24cfa7b08598,Lung Opacity,600,600,0,1.0,True
+9850d20ee4d2bf722154a90ae07ddff8,Aortic enlargement,0,0,0,1.0,True
+9850d20ee4d2bf722154a90ae07ddff8,Cardiomegaly,0,0,0,1.0,True
+9850d20ee4d2bf722154a90ae07ddff8,Pleural thickening,10365,10365,0,1.0,True
+9850d20ee4d2bf722154a90ae07ddff8,Pulmonary fibrosis,9825,9825,0,1.0,True
+9850d20ee4d2bf722154a90ae07ddff8,Lung Opacity,9825,9825,0,1.0,True
+9943805f08872ab64d994fc84ff1b25d,Aortic enlargement,782,782,0,1.0,True
+9943805f08872ab64d994fc84ff1b25d,Cardiomegaly,0,0,0,1.0,True
+9943805f08872ab64d994fc84ff1b25d,Pleural thickening,1191,1191,0,1.0,True
+9943805f08872ab64d994fc84ff1b25d,Pulmonary fibrosis,7516,7516,0,1.0,True
+9943805f08872ab64d994fc84ff1b25d,Lung Opacity,2975,2975,0,1.0,True
+99f45d9953ae4d119bdac3987dffb676,Aortic enlargement,0,0,0,1.0,True
+99f45d9953ae4d119bdac3987dffb676,Cardiomegaly,8050,8050,0,1.0,True
+99f45d9953ae4d119bdac3987dffb676,Pleural thickening,0,0,0,1.0,True
+99f45d9953ae4d119bdac3987dffb676,Pulmonary fibrosis,0,0,0,1.0,True
+99f45d9953ae4d119bdac3987dffb676,Lung Opacity,0,0,0,1.0,True
+9a080db6a1a2ceca36947cebd0367514,Aortic enlargement,1074,1074,0,1.0,True
+9a080db6a1a2ceca36947cebd0367514,Cardiomegaly,0,0,0,1.0,True
+9a080db6a1a2ceca36947cebd0367514,Pleural thickening,336,336,0,1.0,True
+9a080db6a1a2ceca36947cebd0367514,Pulmonary fibrosis,0,0,0,1.0,True
+9a080db6a1a2ceca36947cebd0367514,Lung Opacity,0,0,0,1.0,True
+9ce5d86c2dcaacd045d5f52587e41247,Aortic enlargement,607,607,0,1.0,True
+9ce5d86c2dcaacd045d5f52587e41247,Cardiomegaly,2854,2854,0,1.0,True
+9ce5d86c2dcaacd045d5f52587e41247,Pleural thickening,0,0,0,1.0,True
+9ce5d86c2dcaacd045d5f52587e41247,Pulmonary fibrosis,0,0,0,1.0,True
+9ce5d86c2dcaacd045d5f52587e41247,Lung Opacity,0,0,0,1.0,True
+9f2360f56f61751a254678ec0adbc77d,Aortic enlargement,1880,1880,0,1.0,True
+9f2360f56f61751a254678ec0adbc77d,Cardiomegaly,7461,7461,0,1.0,True
+9f2360f56f61751a254678ec0adbc77d,Pleural thickening,675,675,0,1.0,True
+9f2360f56f61751a254678ec0adbc77d,Pulmonary fibrosis,0,0,0,1.0,True
+9f2360f56f61751a254678ec0adbc77d,Lung Opacity,0,0,0,1.0,True
+9f3cd35d1e478da2bac4bf5afd1153c0,Aortic enlargement,1216,1216,0,1.0,True
+9f3cd35d1e478da2bac4bf5afd1153c0,Cardiomegaly,0,0,0,1.0,True
+9f3cd35d1e478da2bac4bf5afd1153c0,Pleural thickening,0,0,0,1.0,True
+9f3cd35d1e478da2bac4bf5afd1153c0,Pulmonary fibrosis,700,700,0,1.0,True
+9f3cd35d1e478da2bac4bf5afd1153c0,Lung Opacity,0,0,0,1.0,True
+9f7a76f14e777ed53606a7d6d3ef3890,Aortic enlargement,2714,2714,0,1.0,True
+9f7a76f14e777ed53606a7d6d3ef3890,Cardiomegaly,7398,7398,0,1.0,True
+9f7a76f14e777ed53606a7d6d3ef3890,Pleural thickening,942,942,0,1.0,True
+9f7a76f14e777ed53606a7d6d3ef3890,Pulmonary fibrosis,0,0,0,1.0,True
+9f7a76f14e777ed53606a7d6d3ef3890,Lung Opacity,0,0,0,1.0,True
+9fa07ce40365c2c37f75ba3a5486b8c6,Aortic enlargement,954,954,0,1.0,True
+9fa07ce40365c2c37f75ba3a5486b8c6,Cardiomegaly,5611,5611,0,1.0,True
+9fa07ce40365c2c37f75ba3a5486b8c6,Pleural thickening,975,975,0,1.0,True
+9fa07ce40365c2c37f75ba3a5486b8c6,Pulmonary fibrosis,0,0,0,1.0,True
+9fa07ce40365c2c37f75ba3a5486b8c6,Lung Opacity,0,0,0,1.0,True
+9fd7f8bc66d606ffee290028c4d5d1f3,Aortic enlargement,0,0,0,1.0,True
+9fd7f8bc66d606ffee290028c4d5d1f3,Cardiomegaly,0,0,0,1.0,True
+9fd7f8bc66d606ffee290028c4d5d1f3,Pleural thickening,0,0,0,1.0,True
+9fd7f8bc66d606ffee290028c4d5d1f3,Pulmonary fibrosis,7647,7647,0,1.0,True
+9fd7f8bc66d606ffee290028c4d5d1f3,Lung Opacity,0,0,0,1.0,True
+a07064273b3f1112655970e8326f25df,Aortic enlargement,1549,1549,0,1.0,True
+a07064273b3f1112655970e8326f25df,Cardiomegaly,0,0,0,1.0,True
+a07064273b3f1112655970e8326f25df,Pleural thickening,0,0,0,1.0,True
+a07064273b3f1112655970e8326f25df,Pulmonary fibrosis,0,0,0,1.0,True
+a07064273b3f1112655970e8326f25df,Lung Opacity,13992,13992,0,1.0,True
+a091c439300eaff4c79f0a82d343a369,Aortic enlargement,945,945,0,1.0,True
+a091c439300eaff4c79f0a82d343a369,Cardiomegaly,4665,4665,0,1.0,True
+a091c439300eaff4c79f0a82d343a369,Pleural thickening,0,0,0,1.0,True
+a091c439300eaff4c79f0a82d343a369,Pulmonary fibrosis,0,0,0,1.0,True
+a091c439300eaff4c79f0a82d343a369,Lung Opacity,0,0,0,1.0,True
+a1375f9466915186308ef31e0766db3f,Aortic enlargement,0,0,0,1.0,True
+a1375f9466915186308ef31e0766db3f,Cardiomegaly,7776,7776,0,1.0,True
+a1375f9466915186308ef31e0766db3f,Pleural thickening,1320,1320,0,1.0,True
+a1375f9466915186308ef31e0766db3f,Pulmonary fibrosis,0,0,0,1.0,True
+a1375f9466915186308ef31e0766db3f,Lung Opacity,0,0,0,1.0,True
+a2c6dd0cabc2fc70fbb1cf2dac50d11c,Aortic enlargement,945,945,0,1.0,True
+a2c6dd0cabc2fc70fbb1cf2dac50d11c,Cardiomegaly,0,0,0,1.0,True
+a2c6dd0cabc2fc70fbb1cf2dac50d11c,Pleural thickening,1166,1166,0,1.0,True
+a2c6dd0cabc2fc70fbb1cf2dac50d11c,Pulmonary fibrosis,2796,2796,0,1.0,True
+a2c6dd0cabc2fc70fbb1cf2dac50d11c,Lung Opacity,3186,3186,0,1.0,True
+a534ccaabf172ce675cfa296a26656de,Aortic enlargement,1254,1254,0,1.0,True
+a534ccaabf172ce675cfa296a26656de,Cardiomegaly,4361,4361,0,1.0,True
+a534ccaabf172ce675cfa296a26656de,Pleural thickening,917,917,0,1.0,True
+a534ccaabf172ce675cfa296a26656de,Pulmonary fibrosis,0,0,0,1.0,True
+a534ccaabf172ce675cfa296a26656de,Lung Opacity,0,0,0,1.0,True
+a5ac5264ecd49bbdb58c894c100eacdf,Aortic enlargement,2141,2141,0,1.0,True
+a5ac5264ecd49bbdb58c894c100eacdf,Cardiomegaly,6712,6712,0,1.0,True
+a5ac5264ecd49bbdb58c894c100eacdf,Pleural thickening,608,608,0,1.0,True
+a5ac5264ecd49bbdb58c894c100eacdf,Pulmonary fibrosis,0,0,0,1.0,True
+a5ac5264ecd49bbdb58c894c100eacdf,Lung Opacity,0,0,0,1.0,True
+a5bdf59cbdda3f531f057d3c1840fef1,Aortic enlargement,1214,1214,0,1.0,True
+a5bdf59cbdda3f531f057d3c1840fef1,Cardiomegaly,0,0,0,1.0,True
+a5bdf59cbdda3f531f057d3c1840fef1,Pleural thickening,0,0,0,1.0,True
+a5bdf59cbdda3f531f057d3c1840fef1,Pulmonary fibrosis,704,704,0,1.0,True
+a5bdf59cbdda3f531f057d3c1840fef1,Lung Opacity,450,450,0,1.0,True
+a5beb1c44c49e97f1f46e5071c5c38e8,Aortic enlargement,1365,1365,0,1.0,True
+a5beb1c44c49e97f1f46e5071c5c38e8,Cardiomegaly,0,0,0,1.0,True
+a5beb1c44c49e97f1f46e5071c5c38e8,Pleural thickening,1938,1938,0,1.0,True
+a5beb1c44c49e97f1f46e5071c5c38e8,Pulmonary fibrosis,3118,3118,0,1.0,True
+a5beb1c44c49e97f1f46e5071c5c38e8,Lung Opacity,0,0,0,1.0,True
+a62197f08a9d755712d126c4c8c93541,Aortic enlargement,0,0,0,1.0,True
+a62197f08a9d755712d126c4c8c93541,Cardiomegaly,0,0,0,1.0,True
+a62197f08a9d755712d126c4c8c93541,Pleural thickening,1804,1804,0,1.0,True
+a62197f08a9d755712d126c4c8c93541,Pulmonary fibrosis,0,0,0,1.0,True
+a62197f08a9d755712d126c4c8c93541,Lung Opacity,0,0,0,1.0,True
+a6bcb9f5d59588d699c5aa83cd3039c7,Aortic enlargement,0,0,0,1.0,True
+a6bcb9f5d59588d699c5aa83cd3039c7,Cardiomegaly,0,0,0,1.0,True
+a6bcb9f5d59588d699c5aa83cd3039c7,Pleural thickening,960,960,0,1.0,True
+a6bcb9f5d59588d699c5aa83cd3039c7,Pulmonary fibrosis,3759,3759,0,1.0,True
+a6bcb9f5d59588d699c5aa83cd3039c7,Lung Opacity,1027,1027,0,1.0,True
+a71462e25ea94178b2ff97939d7af7ec,Aortic enlargement,4092,4092,0,1.0,True
+a71462e25ea94178b2ff97939d7af7ec,Cardiomegaly,3043,3043,0,1.0,True
+a71462e25ea94178b2ff97939d7af7ec,Pleural thickening,0,0,0,1.0,True
+a71462e25ea94178b2ff97939d7af7ec,Pulmonary fibrosis,0,0,0,1.0,True
+a71462e25ea94178b2ff97939d7af7ec,Lung Opacity,0,0,0,1.0,True
+a7f1d66c0930fc471b6723dec24d707f,Aortic enlargement,0,0,0,1.0,True
+a7f1d66c0930fc471b6723dec24d707f,Cardiomegaly,0,0,0,1.0,True
+a7f1d66c0930fc471b6723dec24d707f,Pleural thickening,198,198,0,1.0,True
+a7f1d66c0930fc471b6723dec24d707f,Pulmonary fibrosis,899,899,0,1.0,True
+a7f1d66c0930fc471b6723dec24d707f,Lung Opacity,0,0,0,1.0,True
+a914589fe6b948522475f7bf7e7b1136,Aortic enlargement,834,834,0,1.0,True
+a914589fe6b948522475f7bf7e7b1136,Cardiomegaly,4482,4482,0,1.0,True
+a914589fe6b948522475f7bf7e7b1136,Pleural thickening,743,743,0,1.0,True
+a914589fe6b948522475f7bf7e7b1136,Pulmonary fibrosis,328,328,0,1.0,True
+a914589fe6b948522475f7bf7e7b1136,Lung Opacity,0,0,0,1.0,True
+aa08370eb6114a474adfd0accb6a7238,Aortic enlargement,918,918,0,1.0,True
+aa08370eb6114a474adfd0accb6a7238,Cardiomegaly,3705,3705,0,1.0,True
+aa08370eb6114a474adfd0accb6a7238,Pleural thickening,0,0,0,1.0,True
+aa08370eb6114a474adfd0accb6a7238,Pulmonary fibrosis,0,0,0,1.0,True
+aa08370eb6114a474adfd0accb6a7238,Lung Opacity,0,0,0,1.0,True
+aaef6f8db63b90e24660b8d788103ff6,Aortic enlargement,1014,1014,0,1.0,True
+aaef6f8db63b90e24660b8d788103ff6,Cardiomegaly,4299,4299,0,1.0,True
+aaef6f8db63b90e24660b8d788103ff6,Pleural thickening,0,0,0,1.0,True
+aaef6f8db63b90e24660b8d788103ff6,Pulmonary fibrosis,249,249,0,1.0,True
+aaef6f8db63b90e24660b8d788103ff6,Lung Opacity,0,0,0,1.0,True
+ad86f42123384e2441cce36347aa7d1a,Aortic enlargement,1708,1708,0,1.0,True
+ad86f42123384e2441cce36347aa7d1a,Cardiomegaly,4708,4708,0,1.0,True
+ad86f42123384e2441cce36347aa7d1a,Pleural thickening,1778,1778,0,1.0,True
+ad86f42123384e2441cce36347aa7d1a,Pulmonary fibrosis,216,216,0,1.0,True
+ad86f42123384e2441cce36347aa7d1a,Lung Opacity,750,750,0,1.0,True
+ada5ba2e729f9b4518de5a6bc31e1eca,Aortic enlargement,1763,1763,0,1.0,True
+ada5ba2e729f9b4518de5a6bc31e1eca,Cardiomegaly,8607,8607,0,1.0,True
+ada5ba2e729f9b4518de5a6bc31e1eca,Pleural thickening,0,0,0,1.0,True
+ada5ba2e729f9b4518de5a6bc31e1eca,Pulmonary fibrosis,0,0,0,1.0,True
+ada5ba2e729f9b4518de5a6bc31e1eca,Lung Opacity,5344,5344,0,1.0,True
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Aortic enlargement,644,644,0,1.0,True
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Cardiomegaly,4653,4653,0,1.0,True
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pleural thickening,0,0,0,1.0,True
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Pulmonary fibrosis,0,0,0,1.0,True
+ae6dd2d7f46bb9d1d2f9e4a9917dc151,Lung Opacity,0,0,0,1.0,True
+ae93342f946e59b019b3554610c6f760,Aortic enlargement,0,0,0,1.0,True
+ae93342f946e59b019b3554610c6f760,Cardiomegaly,0,0,0,1.0,True
+ae93342f946e59b019b3554610c6f760,Pleural thickening,0,0,0,1.0,True
+ae93342f946e59b019b3554610c6f760,Pulmonary fibrosis,1450,1450,0,1.0,True
+ae93342f946e59b019b3554610c6f760,Lung Opacity,0,0,0,1.0,True
+ae9d832badb7dcd02d2e8cfbcf128ce6,Aortic enlargement,0,0,0,1.0,True
+ae9d832badb7dcd02d2e8cfbcf128ce6,Cardiomegaly,6756,6756,0,1.0,True
+ae9d832badb7dcd02d2e8cfbcf128ce6,Pleural thickening,0,0,0,1.0,True
+ae9d832badb7dcd02d2e8cfbcf128ce6,Pulmonary fibrosis,0,0,0,1.0,True
+ae9d832badb7dcd02d2e8cfbcf128ce6,Lung Opacity,0,0,0,1.0,True
+af9e637ceefdd477dd305fe750ff75b5,Aortic enlargement,1292,1292,0,1.0,True
+af9e637ceefdd477dd305fe750ff75b5,Cardiomegaly,2866,2866,0,1.0,True
+af9e637ceefdd477dd305fe750ff75b5,Pleural thickening,370,370,0,1.0,True
+af9e637ceefdd477dd305fe750ff75b5,Pulmonary fibrosis,0,0,0,1.0,True
+af9e637ceefdd477dd305fe750ff75b5,Lung Opacity,0,0,0,1.0,True
+afa4de6570c31504ba4b77978377ccc9,Aortic enlargement,660,660,0,1.0,True
+afa4de6570c31504ba4b77978377ccc9,Cardiomegaly,0,0,0,1.0,True
+afa4de6570c31504ba4b77978377ccc9,Pleural thickening,0,0,0,1.0,True
+afa4de6570c31504ba4b77978377ccc9,Pulmonary fibrosis,0,0,0,1.0,True
+afa4de6570c31504ba4b77978377ccc9,Lung Opacity,0,0,0,1.0,True
+b0df2d378c04b59dbd0f7c20352c35e8,Aortic enlargement,550,550,0,1.0,True
+b0df2d378c04b59dbd0f7c20352c35e8,Cardiomegaly,0,0,0,1.0,True
+b0df2d378c04b59dbd0f7c20352c35e8,Pleural thickening,0,0,0,1.0,True
+b0df2d378c04b59dbd0f7c20352c35e8,Pulmonary fibrosis,0,0,0,1.0,True
+b0df2d378c04b59dbd0f7c20352c35e8,Lung Opacity,3883,3883,0,1.0,True
+b0e76a5226cdee7e8e17b45f117d9ed5,Aortic enlargement,1347,1347,0,1.0,True
+b0e76a5226cdee7e8e17b45f117d9ed5,Cardiomegaly,4493,4493,0,1.0,True
+b0e76a5226cdee7e8e17b45f117d9ed5,Pleural thickening,216,216,0,1.0,True
+b0e76a5226cdee7e8e17b45f117d9ed5,Pulmonary fibrosis,0,0,0,1.0,True
+b0e76a5226cdee7e8e17b45f117d9ed5,Lung Opacity,5535,5535,0,1.0,True
+b1e31fb059b5a49bb70bb4f274c56841,Aortic enlargement,832,832,0,1.0,True
+b1e31fb059b5a49bb70bb4f274c56841,Cardiomegaly,3471,3471,0,1.0,True
+b1e31fb059b5a49bb70bb4f274c56841,Pleural thickening,383,383,0,1.0,True
+b1e31fb059b5a49bb70bb4f274c56841,Pulmonary fibrosis,0,0,0,1.0,True
+b1e31fb059b5a49bb70bb4f274c56841,Lung Opacity,0,0,0,1.0,True
+b305ccbbf99b1f59b9a7edffd46659f1,Aortic enlargement,1050,1050,0,1.0,True
+b305ccbbf99b1f59b9a7edffd46659f1,Cardiomegaly,0,0,0,1.0,True
+b305ccbbf99b1f59b9a7edffd46659f1,Pleural thickening,1789,1789,0,1.0,True
+b305ccbbf99b1f59b9a7edffd46659f1,Pulmonary fibrosis,0,0,0,1.0,True
+b305ccbbf99b1f59b9a7edffd46659f1,Lung Opacity,0,0,0,1.0,True
+b42b72d0fcbdf8b3b811fe219193e397,Aortic enlargement,1540,1540,0,1.0,True
+b42b72d0fcbdf8b3b811fe219193e397,Cardiomegaly,0,0,0,1.0,True
+b42b72d0fcbdf8b3b811fe219193e397,Pleural thickening,0,0,0,1.0,True
+b42b72d0fcbdf8b3b811fe219193e397,Pulmonary fibrosis,0,0,0,1.0,True
+b42b72d0fcbdf8b3b811fe219193e397,Lung Opacity,0,0,0,1.0,True
+b4faf90679534ac80ab9113365203dc0,Aortic enlargement,396,396,0,1.0,True
+b4faf90679534ac80ab9113365203dc0,Cardiomegaly,2713,2713,0,1.0,True
+b4faf90679534ac80ab9113365203dc0,Pleural thickening,465,465,0,1.0,True
+b4faf90679534ac80ab9113365203dc0,Pulmonary fibrosis,160,160,0,1.0,True
+b4faf90679534ac80ab9113365203dc0,Lung Opacity,132,132,0,1.0,True
+b6b3626c00261d525ff80435fe25eb5b,Aortic enlargement,818,818,0,1.0,True
+b6b3626c00261d525ff80435fe25eb5b,Cardiomegaly,3190,3190,0,1.0,True
+b6b3626c00261d525ff80435fe25eb5b,Pleural thickening,0,0,0,1.0,True
+b6b3626c00261d525ff80435fe25eb5b,Pulmonary fibrosis,0,0,0,1.0,True
+b6b3626c00261d525ff80435fe25eb5b,Lung Opacity,0,0,0,1.0,True
+b6bb5088976d0d3d51f3041b2172cffb,Aortic enlargement,2695,2695,0,1.0,True
+b6bb5088976d0d3d51f3041b2172cffb,Cardiomegaly,0,0,0,1.0,True
+b6bb5088976d0d3d51f3041b2172cffb,Pleural thickening,1442,1442,0,1.0,True
+b6bb5088976d0d3d51f3041b2172cffb,Pulmonary fibrosis,2802,2802,0,1.0,True
+b6bb5088976d0d3d51f3041b2172cffb,Lung Opacity,0,0,0,1.0,True
+b8d3a0bb21e3e536728b13aaea587974,Aortic enlargement,2253,2253,0,1.0,True
+b8d3a0bb21e3e536728b13aaea587974,Cardiomegaly,3560,3560,0,1.0,True
+b8d3a0bb21e3e536728b13aaea587974,Pleural thickening,0,0,0,1.0,True
+b8d3a0bb21e3e536728b13aaea587974,Pulmonary fibrosis,0,0,0,1.0,True
+b8d3a0bb21e3e536728b13aaea587974,Lung Opacity,0,0,0,1.0,True
+b919471290e71f53a6b9c1a672662854,Aortic enlargement,4024,4024,0,1.0,True
+b919471290e71f53a6b9c1a672662854,Cardiomegaly,5440,5440,0,1.0,True
+b919471290e71f53a6b9c1a672662854,Pleural thickening,0,0,0,1.0,True
+b919471290e71f53a6b9c1a672662854,Pulmonary fibrosis,0,0,0,1.0,True
+b919471290e71f53a6b9c1a672662854,Lung Opacity,0,0,0,1.0,True
+b9374768fadad510f514c5b81b048881,Aortic enlargement,1224,1224,0,1.0,True
+b9374768fadad510f514c5b81b048881,Cardiomegaly,5006,5006,0,1.0,True
+b9374768fadad510f514c5b81b048881,Pleural thickening,217,217,0,1.0,True
+b9374768fadad510f514c5b81b048881,Pulmonary fibrosis,0,0,0,1.0,True
+b9374768fadad510f514c5b81b048881,Lung Opacity,0,0,0,1.0,True
+ba665972d68d2cb8b55839ad6592961c,Aortic enlargement,0,0,0,1.0,True
+ba665972d68d2cb8b55839ad6592961c,Cardiomegaly,0,0,0,1.0,True
+ba665972d68d2cb8b55839ad6592961c,Pleural thickening,688,688,0,1.0,True
+ba665972d68d2cb8b55839ad6592961c,Pulmonary fibrosis,13597,13597,0,1.0,True
+ba665972d68d2cb8b55839ad6592961c,Lung Opacity,4290,4290,0,1.0,True
+ba8c1cd9bceb450054920b79af773650,Aortic enlargement,660,660,0,1.0,True
+ba8c1cd9bceb450054920b79af773650,Cardiomegaly,0,0,0,1.0,True
+ba8c1cd9bceb450054920b79af773650,Pleural thickening,90,90,0,1.0,True
+ba8c1cd9bceb450054920b79af773650,Pulmonary fibrosis,0,0,0,1.0,True
+ba8c1cd9bceb450054920b79af773650,Lung Opacity,0,0,0,1.0,True
+bd3fa1499eba12696a695b952f9218a3,Aortic enlargement,700,700,0,1.0,True
+bd3fa1499eba12696a695b952f9218a3,Cardiomegaly,3971,3971,0,1.0,True
+bd3fa1499eba12696a695b952f9218a3,Pleural thickening,0,0,0,1.0,True
+bd3fa1499eba12696a695b952f9218a3,Pulmonary fibrosis,0,0,0,1.0,True
+bd3fa1499eba12696a695b952f9218a3,Lung Opacity,143,143,0,1.0,True
+bdd8423e5deae0ae5dc7e0547887fafc,Aortic enlargement,1515,1515,0,1.0,True
+bdd8423e5deae0ae5dc7e0547887fafc,Cardiomegaly,3150,3150,0,1.0,True
+bdd8423e5deae0ae5dc7e0547887fafc,Pleural thickening,2183,2183,0,1.0,True
+bdd8423e5deae0ae5dc7e0547887fafc,Pulmonary fibrosis,0,0,0,1.0,True
+bdd8423e5deae0ae5dc7e0547887fafc,Lung Opacity,4385,4385,0,1.0,True
+be95363066a0f6e2d9644cc14b39d3e1,Aortic enlargement,2058,2058,0,1.0,True
+be95363066a0f6e2d9644cc14b39d3e1,Cardiomegaly,3932,3932,0,1.0,True
+be95363066a0f6e2d9644cc14b39d3e1,Pleural thickening,0,0,0,1.0,True
+be95363066a0f6e2d9644cc14b39d3e1,Pulmonary fibrosis,0,0,0,1.0,True
+be95363066a0f6e2d9644cc14b39d3e1,Lung Opacity,2460,2460,0,1.0,True
+beaa1ae511a49bd86ee5c090f91c80d7,Aortic enlargement,1514,1514,0,1.0,True
+beaa1ae511a49bd86ee5c090f91c80d7,Cardiomegaly,0,0,0,1.0,True
+beaa1ae511a49bd86ee5c090f91c80d7,Pleural thickening,2711,2711,0,1.0,True
+beaa1ae511a49bd86ee5c090f91c80d7,Pulmonary fibrosis,2713,2713,0,1.0,True
+beaa1ae511a49bd86ee5c090f91c80d7,Lung Opacity,0,0,0,1.0,True
+c0440c09698f89df168dc146af067fe7,Aortic enlargement,3362,3362,0,1.0,True
+c0440c09698f89df168dc146af067fe7,Cardiomegaly,0,0,0,1.0,True
+c0440c09698f89df168dc146af067fe7,Pleural thickening,2013,2013,0,1.0,True
+c0440c09698f89df168dc146af067fe7,Pulmonary fibrosis,1247,1247,0,1.0,True
+c0440c09698f89df168dc146af067fe7,Lung Opacity,416,416,0,1.0,True
+c184ac40eb6c1713f28f34582f768c5d,Aortic enlargement,0,0,0,1.0,True
+c184ac40eb6c1713f28f34582f768c5d,Cardiomegaly,0,0,0,1.0,True
+c184ac40eb6c1713f28f34582f768c5d,Pleural thickening,150,150,0,1.0,True
+c184ac40eb6c1713f28f34582f768c5d,Pulmonary fibrosis,3060,3060,0,1.0,True
+c184ac40eb6c1713f28f34582f768c5d,Lung Opacity,0,0,0,1.0,True
+c399b71d7f853206cdf9bfa916252b4d,Aortic enlargement,1833,1833,0,1.0,True
+c399b71d7f853206cdf9bfa916252b4d,Cardiomegaly,3685,3685,0,1.0,True
+c399b71d7f853206cdf9bfa916252b4d,Pleural thickening,0,0,0,1.0,True
+c399b71d7f853206cdf9bfa916252b4d,Pulmonary fibrosis,0,0,0,1.0,True
+c399b71d7f853206cdf9bfa916252b4d,Lung Opacity,0,0,0,1.0,True
+c41d4f698ccccbf7068c44c8c14f4e16,Aortic enlargement,1098,1098,0,1.0,True
+c41d4f698ccccbf7068c44c8c14f4e16,Cardiomegaly,0,0,0,1.0,True
+c41d4f698ccccbf7068c44c8c14f4e16,Pleural thickening,527,527,0,1.0,True
+c41d4f698ccccbf7068c44c8c14f4e16,Pulmonary fibrosis,0,0,0,1.0,True
+c41d4f698ccccbf7068c44c8c14f4e16,Lung Opacity,1059,1059,0,1.0,True
+c6ad29cb15e0476259fdf56305b286d4,Aortic enlargement,1222,1222,0,1.0,True
+c6ad29cb15e0476259fdf56305b286d4,Cardiomegaly,0,0,0,1.0,True
+c6ad29cb15e0476259fdf56305b286d4,Pleural thickening,0,0,0,1.0,True
+c6ad29cb15e0476259fdf56305b286d4,Pulmonary fibrosis,0,0,0,1.0,True
+c6ad29cb15e0476259fdf56305b286d4,Lung Opacity,0,0,0,1.0,True
+c75d652b2cd934bb797a9a02c6aec8ee,Aortic enlargement,0,0,0,1.0,True
+c75d652b2cd934bb797a9a02c6aec8ee,Cardiomegaly,0,0,0,1.0,True
+c75d652b2cd934bb797a9a02c6aec8ee,Pleural thickening,0,0,0,1.0,True
+c75d652b2cd934bb797a9a02c6aec8ee,Pulmonary fibrosis,3268,3268,0,1.0,True
+c75d652b2cd934bb797a9a02c6aec8ee,Lung Opacity,0,0,0,1.0,True
+c772fcde08c1e9cb49ab6c11b8fe6e42,Aortic enlargement,844,844,0,1.0,True
+c772fcde08c1e9cb49ab6c11b8fe6e42,Cardiomegaly,2378,2378,0,1.0,True
+c772fcde08c1e9cb49ab6c11b8fe6e42,Pleural thickening,0,0,0,1.0,True
+c772fcde08c1e9cb49ab6c11b8fe6e42,Pulmonary fibrosis,1836,1836,0,1.0,True
+c772fcde08c1e9cb49ab6c11b8fe6e42,Lung Opacity,0,0,0,1.0,True
+c854dff7593a38e6e7a83330ff32ac86,Aortic enlargement,0,0,0,1.0,True
+c854dff7593a38e6e7a83330ff32ac86,Cardiomegaly,0,0,0,1.0,True
+c854dff7593a38e6e7a83330ff32ac86,Pleural thickening,0,0,0,1.0,True
+c854dff7593a38e6e7a83330ff32ac86,Pulmonary fibrosis,0,0,0,1.0,True
+c854dff7593a38e6e7a83330ff32ac86,Lung Opacity,414,414,0,1.0,True
+c989d46402b855ed7f825b7e6e4c17b2,Aortic enlargement,1653,1653,0,1.0,True
+c989d46402b855ed7f825b7e6e4c17b2,Cardiomegaly,0,0,0,1.0,True
+c989d46402b855ed7f825b7e6e4c17b2,Pleural thickening,2735,2735,0,1.0,True
+c989d46402b855ed7f825b7e6e4c17b2,Pulmonary fibrosis,4535,4535,0,1.0,True
+c989d46402b855ed7f825b7e6e4c17b2,Lung Opacity,3578,3578,0,1.0,True
+ccce794d56a43641c1bb3d6b0253e794,Aortic enlargement,0,0,0,1.0,True
+ccce794d56a43641c1bb3d6b0253e794,Cardiomegaly,0,0,0,1.0,True
+ccce794d56a43641c1bb3d6b0253e794,Pleural thickening,0,0,0,1.0,True
+ccce794d56a43641c1bb3d6b0253e794,Pulmonary fibrosis,0,0,0,1.0,True
+ccce794d56a43641c1bb3d6b0253e794,Lung Opacity,540,540,0,1.0,True
+cd42d4220f19d14291f1cf7c2a194f07,Aortic enlargement,955,955,0,1.0,True
+cd42d4220f19d14291f1cf7c2a194f07,Cardiomegaly,7060,7060,0,1.0,True
+cd42d4220f19d14291f1cf7c2a194f07,Pleural thickening,264,264,0,1.0,True
+cd42d4220f19d14291f1cf7c2a194f07,Pulmonary fibrosis,0,0,0,1.0,True
+cd42d4220f19d14291f1cf7c2a194f07,Lung Opacity,0,0,0,1.0,True
+cdfac35a0800774db5fe8a6354df64ef,Aortic enlargement,0,0,0,1.0,True
+cdfac35a0800774db5fe8a6354df64ef,Cardiomegaly,0,0,0,1.0,True
+cdfac35a0800774db5fe8a6354df64ef,Pleural thickening,0,0,0,1.0,True
+cdfac35a0800774db5fe8a6354df64ef,Pulmonary fibrosis,1280,1280,0,1.0,True
+cdfac35a0800774db5fe8a6354df64ef,Lung Opacity,1280,1280,0,1.0,True
+ceae25112f71e514cb5772484f9434f7,Aortic enlargement,2471,2471,0,1.0,True
+ceae25112f71e514cb5772484f9434f7,Cardiomegaly,6511,6511,0,1.0,True
+ceae25112f71e514cb5772484f9434f7,Pleural thickening,0,0,0,1.0,True
+ceae25112f71e514cb5772484f9434f7,Pulmonary fibrosis,0,0,0,1.0,True
+ceae25112f71e514cb5772484f9434f7,Lung Opacity,0,0,0,1.0,True
+cfe3e67ca5f8235d64e51416a26e70cc,Aortic enlargement,0,0,0,1.0,True
+cfe3e67ca5f8235d64e51416a26e70cc,Cardiomegaly,0,0,0,1.0,True
+cfe3e67ca5f8235d64e51416a26e70cc,Pleural thickening,378,378,0,1.0,True
+cfe3e67ca5f8235d64e51416a26e70cc,Pulmonary fibrosis,0,0,0,1.0,True
+cfe3e67ca5f8235d64e51416a26e70cc,Lung Opacity,0,0,0,1.0,True
+d06c3bda18d5dc7ff656faf4358615a4,Aortic enlargement,0,0,0,1.0,True
+d06c3bda18d5dc7ff656faf4358615a4,Cardiomegaly,0,0,0,1.0,True
+d06c3bda18d5dc7ff656faf4358615a4,Pleural thickening,239,239,0,1.0,True
+d06c3bda18d5dc7ff656faf4358615a4,Pulmonary fibrosis,797,797,0,1.0,True
+d06c3bda18d5dc7ff656faf4358615a4,Lung Opacity,72,72,0,1.0,True
+d106ec9b305178f3da060efe3191499a,Aortic enlargement,0,0,0,1.0,True
+d106ec9b305178f3da060efe3191499a,Cardiomegaly,0,0,0,1.0,True
+d106ec9b305178f3da060efe3191499a,Pleural thickening,99,99,0,1.0,True
+d106ec9b305178f3da060efe3191499a,Pulmonary fibrosis,0,0,0,1.0,True
+d106ec9b305178f3da060efe3191499a,Lung Opacity,0,0,0,1.0,True
+d13883c248f9a28b6f50e3ac77ccb756,Aortic enlargement,0,0,0,1.0,True
+d13883c248f9a28b6f50e3ac77ccb756,Cardiomegaly,5902,5902,0,1.0,True
+d13883c248f9a28b6f50e3ac77ccb756,Pleural thickening,0,0,0,1.0,True
+d13883c248f9a28b6f50e3ac77ccb756,Pulmonary fibrosis,0,0,0,1.0,True
+d13883c248f9a28b6f50e3ac77ccb756,Lung Opacity,0,0,0,1.0,True
+d3780a0c70b4737cd12874433023c40a,Aortic enlargement,990,990,0,1.0,True
+d3780a0c70b4737cd12874433023c40a,Cardiomegaly,0,0,0,1.0,True
+d3780a0c70b4737cd12874433023c40a,Pleural thickening,176,176,0,1.0,True
+d3780a0c70b4737cd12874433023c40a,Pulmonary fibrosis,1832,1832,0,1.0,True
+d3780a0c70b4737cd12874433023c40a,Lung Opacity,0,0,0,1.0,True
+d3e275e681d082bcc003336b8355b2f2,Aortic enlargement,6192,6192,0,1.0,True
+d3e275e681d082bcc003336b8355b2f2,Cardiomegaly,6750,6750,0,1.0,True
+d3e275e681d082bcc003336b8355b2f2,Pleural thickening,0,0,0,1.0,True
+d3e275e681d082bcc003336b8355b2f2,Pulmonary fibrosis,0,0,0,1.0,True
+d3e275e681d082bcc003336b8355b2f2,Lung Opacity,0,0,0,1.0,True
+d3fcec7cbaa93e9e4845724118cae73c,Aortic enlargement,1632,1632,0,1.0,True
+d3fcec7cbaa93e9e4845724118cae73c,Cardiomegaly,2622,2622,0,1.0,True
+d3fcec7cbaa93e9e4845724118cae73c,Pleural thickening,0,0,0,1.0,True
+d3fcec7cbaa93e9e4845724118cae73c,Pulmonary fibrosis,0,0,0,1.0,True
+d3fcec7cbaa93e9e4845724118cae73c,Lung Opacity,0,0,0,1.0,True
+d433568de3111a8536c18e27eff73a47,Aortic enlargement,1558,1558,0,1.0,True
+d433568de3111a8536c18e27eff73a47,Cardiomegaly,3132,3132,0,1.0,True
+d433568de3111a8536c18e27eff73a47,Pleural thickening,551,551,0,1.0,True
+d433568de3111a8536c18e27eff73a47,Pulmonary fibrosis,0,0,0,1.0,True
+d433568de3111a8536c18e27eff73a47,Lung Opacity,2333,2333,0,1.0,True
+d44deb5774617d3e89893bae3994489f,Aortic enlargement,824,824,0,1.0,True
+d44deb5774617d3e89893bae3994489f,Cardiomegaly,3740,3740,0,1.0,True
+d44deb5774617d3e89893bae3994489f,Pleural thickening,722,722,0,1.0,True
+d44deb5774617d3e89893bae3994489f,Pulmonary fibrosis,0,0,0,1.0,True
+d44deb5774617d3e89893bae3994489f,Lung Opacity,0,0,0,1.0,True
+d45c88116610fd72a56688d29bf2771d,Aortic enlargement,456,456,0,1.0,True
+d45c88116610fd72a56688d29bf2771d,Cardiomegaly,5320,5320,0,1.0,True
+d45c88116610fd72a56688d29bf2771d,Pleural thickening,0,0,0,1.0,True
+d45c88116610fd72a56688d29bf2771d,Pulmonary fibrosis,462,462,0,1.0,True
+d45c88116610fd72a56688d29bf2771d,Lung Opacity,0,0,0,1.0,True
+d4a67043b09bca469a46c16b763c0391,Aortic enlargement,1670,1670,0,1.0,True
+d4a67043b09bca469a46c16b763c0391,Cardiomegaly,4676,4676,0,1.0,True
+d4a67043b09bca469a46c16b763c0391,Pleural thickening,1189,1189,0,1.0,True
+d4a67043b09bca469a46c16b763c0391,Pulmonary fibrosis,0,0,0,1.0,True
+d4a67043b09bca469a46c16b763c0391,Lung Opacity,0,0,0,1.0,True
+d4bcbefefd480d4362d7d373a23e8729,Aortic enlargement,1088,1088,0,1.0,True
+d4bcbefefd480d4362d7d373a23e8729,Cardiomegaly,0,0,0,1.0,True
+d4bcbefefd480d4362d7d373a23e8729,Pleural thickening,9393,9393,0,1.0,True
+d4bcbefefd480d4362d7d373a23e8729,Pulmonary fibrosis,3180,3180,0,1.0,True
+d4bcbefefd480d4362d7d373a23e8729,Lung Opacity,12932,12932,0,1.0,True
+d70e8f6924ff1e80d6b008965df94e08,Aortic enlargement,0,0,0,1.0,True
+d70e8f6924ff1e80d6b008965df94e08,Cardiomegaly,0,0,0,1.0,True
+d70e8f6924ff1e80d6b008965df94e08,Pleural thickening,704,704,0,1.0,True
+d70e8f6924ff1e80d6b008965df94e08,Pulmonary fibrosis,300,300,0,1.0,True
+d70e8f6924ff1e80d6b008965df94e08,Lung Opacity,2144,2144,0,1.0,True
+d936f8115e8be8a46c5933decd3b6b94,Aortic enlargement,1554,1554,0,1.0,True
+d936f8115e8be8a46c5933decd3b6b94,Cardiomegaly,9084,9084,0,1.0,True
+d936f8115e8be8a46c5933decd3b6b94,Pleural thickening,738,738,0,1.0,True
+d936f8115e8be8a46c5933decd3b6b94,Pulmonary fibrosis,431,431,0,1.0,True
+d936f8115e8be8a46c5933decd3b6b94,Lung Opacity,4923,4923,0,1.0,True
+d9d272d8282ba9ce1ce1065f45cd0456,Aortic enlargement,0,0,0,1.0,True
+d9d272d8282ba9ce1ce1065f45cd0456,Cardiomegaly,0,0,0,1.0,True
+d9d272d8282ba9ce1ce1065f45cd0456,Pleural thickening,0,0,0,1.0,True
+d9d272d8282ba9ce1ce1065f45cd0456,Pulmonary fibrosis,3194,3194,0,1.0,True
+d9d272d8282ba9ce1ce1065f45cd0456,Lung Opacity,0,0,0,1.0,True
+da7ba2750699edc297c106c314963f15,Aortic enlargement,825,825,0,1.0,True
+da7ba2750699edc297c106c314963f15,Cardiomegaly,3496,3496,0,1.0,True
+da7ba2750699edc297c106c314963f15,Pleural thickening,0,0,0,1.0,True
+da7ba2750699edc297c106c314963f15,Pulmonary fibrosis,0,0,0,1.0,True
+da7ba2750699edc297c106c314963f15,Lung Opacity,0,0,0,1.0,True
+da80aff78196208d9395ced4a9f0d485,Aortic enlargement,0,0,0,1.0,True
+da80aff78196208d9395ced4a9f0d485,Cardiomegaly,0,0,0,1.0,True
+da80aff78196208d9395ced4a9f0d485,Pleural thickening,0,0,0,1.0,True
+da80aff78196208d9395ced4a9f0d485,Pulmonary fibrosis,242,242,0,1.0,True
+da80aff78196208d9395ced4a9f0d485,Lung Opacity,0,0,0,1.0,True
+db0409f17482d968dc350ae12a91d913,Aortic enlargement,576,576,0,1.0,True
+db0409f17482d968dc350ae12a91d913,Cardiomegaly,0,0,0,1.0,True
+db0409f17482d968dc350ae12a91d913,Pleural thickening,1452,1452,0,1.0,True
+db0409f17482d968dc350ae12a91d913,Pulmonary fibrosis,0,0,0,1.0,True
+db0409f17482d968dc350ae12a91d913,Lung Opacity,0,0,0,1.0,True
+db169d0be36123bd55b866d6aa73983b,Aortic enlargement,904,904,0,1.0,True
+db169d0be36123bd55b866d6aa73983b,Cardiomegaly,0,0,0,1.0,True
+db169d0be36123bd55b866d6aa73983b,Pleural thickening,702,702,0,1.0,True
+db169d0be36123bd55b866d6aa73983b,Pulmonary fibrosis,168,168,0,1.0,True
+db169d0be36123bd55b866d6aa73983b,Lung Opacity,8778,8778,0,1.0,True
+db462203729870bda6162307e7d2f319,Aortic enlargement,1754,1754,0,1.0,True
+db462203729870bda6162307e7d2f319,Cardiomegaly,5654,5654,0,1.0,True
+db462203729870bda6162307e7d2f319,Pleural thickening,766,766,0,1.0,True
+db462203729870bda6162307e7d2f319,Pulmonary fibrosis,0,0,0,1.0,True
+db462203729870bda6162307e7d2f319,Lung Opacity,0,0,0,1.0,True
+dcbe7cd300844e5e702e7dd68a54794c,Aortic enlargement,1147,1147,0,1.0,True
+dcbe7cd300844e5e702e7dd68a54794c,Cardiomegaly,0,0,0,1.0,True
+dcbe7cd300844e5e702e7dd68a54794c,Pleural thickening,0,0,0,1.0,True
+dcbe7cd300844e5e702e7dd68a54794c,Pulmonary fibrosis,102,102,0,1.0,True
+dcbe7cd300844e5e702e7dd68a54794c,Lung Opacity,0,0,0,1.0,True
+de4917c51024b4f810868d211e4f4d40,Aortic enlargement,1190,1190,0,1.0,True
+de4917c51024b4f810868d211e4f4d40,Cardiomegaly,0,0,0,1.0,True
+de4917c51024b4f810868d211e4f4d40,Pleural thickening,0,0,0,1.0,True
+de4917c51024b4f810868d211e4f4d40,Pulmonary fibrosis,0,0,0,1.0,True
+de4917c51024b4f810868d211e4f4d40,Lung Opacity,0,0,0,1.0,True
+df2e21b90ce0510ed66e161136cf60ad,Aortic enlargement,1092,1092,0,1.0,True
+df2e21b90ce0510ed66e161136cf60ad,Cardiomegaly,3564,3564,0,1.0,True
+df2e21b90ce0510ed66e161136cf60ad,Pleural thickening,2343,2343,0,1.0,True
+df2e21b90ce0510ed66e161136cf60ad,Pulmonary fibrosis,2106,2106,0,1.0,True
+df2e21b90ce0510ed66e161136cf60ad,Lung Opacity,0,0,0,1.0,True
+df4cdf26c36cbf365fc95d261e1d3bcc,Aortic enlargement,1000,1000,0,1.0,True
+df4cdf26c36cbf365fc95d261e1d3bcc,Cardiomegaly,5258,5258,0,1.0,True
+df4cdf26c36cbf365fc95d261e1d3bcc,Pleural thickening,304,304,0,1.0,True
+df4cdf26c36cbf365fc95d261e1d3bcc,Pulmonary fibrosis,0,0,0,1.0,True
+df4cdf26c36cbf365fc95d261e1d3bcc,Lung Opacity,2080,2080,0,1.0,True
+dfc7293d19f545e0de7e67dfb7772653,Aortic enlargement,0,0,0,1.0,True
+dfc7293d19f545e0de7e67dfb7772653,Cardiomegaly,6305,6305,0,1.0,True
+dfc7293d19f545e0de7e67dfb7772653,Pleural thickening,234,234,0,1.0,True
+dfc7293d19f545e0de7e67dfb7772653,Pulmonary fibrosis,0,0,0,1.0,True
+dfc7293d19f545e0de7e67dfb7772653,Lung Opacity,0,0,0,1.0,True
+e04fc8c293aab8b63db7576e123a7d84,Aortic enlargement,667,667,0,1.0,True
+e04fc8c293aab8b63db7576e123a7d84,Cardiomegaly,0,0,0,1.0,True
+e04fc8c293aab8b63db7576e123a7d84,Pleural thickening,3137,3137,0,1.0,True
+e04fc8c293aab8b63db7576e123a7d84,Pulmonary fibrosis,230,230,0,1.0,True
+e04fc8c293aab8b63db7576e123a7d84,Lung Opacity,0,0,0,1.0,True
+e18a100e84aefa9da53dc8cc2fd4f22c,Aortic enlargement,1312,1312,0,1.0,True
+e18a100e84aefa9da53dc8cc2fd4f22c,Cardiomegaly,5734,5734,0,1.0,True
+e18a100e84aefa9da53dc8cc2fd4f22c,Pleural thickening,0,0,0,1.0,True
+e18a100e84aefa9da53dc8cc2fd4f22c,Pulmonary fibrosis,2311,2311,0,1.0,True
+e18a100e84aefa9da53dc8cc2fd4f22c,Lung Opacity,480,480,0,1.0,True
+e1a4dd4c30b1757eafb095021def4d63,Aortic enlargement,716,716,0,1.0,True
+e1a4dd4c30b1757eafb095021def4d63,Cardiomegaly,3731,3731,0,1.0,True
+e1a4dd4c30b1757eafb095021def4d63,Pleural thickening,850,850,0,1.0,True
+e1a4dd4c30b1757eafb095021def4d63,Pulmonary fibrosis,0,0,0,1.0,True
+e1a4dd4c30b1757eafb095021def4d63,Lung Opacity,0,0,0,1.0,True
+e1ba0e65d55cff798f5253a5bc108fd7,Aortic enlargement,851,851,0,1.0,True
+e1ba0e65d55cff798f5253a5bc108fd7,Cardiomegaly,4524,4524,0,1.0,True
+e1ba0e65d55cff798f5253a5bc108fd7,Pleural thickening,0,0,0,1.0,True
+e1ba0e65d55cff798f5253a5bc108fd7,Pulmonary fibrosis,0,0,0,1.0,True
+e1ba0e65d55cff798f5253a5bc108fd7,Lung Opacity,840,840,0,1.0,True
+e33ce975b5a636df54a8a1f592410b0c,Aortic enlargement,700,700,0,1.0,True
+e33ce975b5a636df54a8a1f592410b0c,Cardiomegaly,1824,1824,0,1.0,True
+e33ce975b5a636df54a8a1f592410b0c,Pleural thickening,513,513,0,1.0,True
+e33ce975b5a636df54a8a1f592410b0c,Pulmonary fibrosis,0,0,0,1.0,True
+e33ce975b5a636df54a8a1f592410b0c,Lung Opacity,0,0,0,1.0,True
+e443471026e11f9cdf418dca3f35017f,Aortic enlargement,0,0,0,1.0,True
+e443471026e11f9cdf418dca3f35017f,Cardiomegaly,0,0,0,1.0,True
+e443471026e11f9cdf418dca3f35017f,Pleural thickening,0,0,0,1.0,True
+e443471026e11f9cdf418dca3f35017f,Pulmonary fibrosis,273,273,0,1.0,True
+e443471026e11f9cdf418dca3f35017f,Lung Opacity,0,0,0,1.0,True
+e521b0e2fca887f754c05d26a9783103,Aortic enlargement,1155,1155,0,1.0,True
+e521b0e2fca887f754c05d26a9783103,Cardiomegaly,0,0,0,1.0,True
+e521b0e2fca887f754c05d26a9783103,Pleural thickening,925,925,0,1.0,True
+e521b0e2fca887f754c05d26a9783103,Pulmonary fibrosis,0,0,0,1.0,True
+e521b0e2fca887f754c05d26a9783103,Lung Opacity,0,0,0,1.0,True
+e529c5465cafd94ee9a3b38f7267523a,Aortic enlargement,0,0,0,1.0,True
+e529c5465cafd94ee9a3b38f7267523a,Cardiomegaly,8120,8120,0,1.0,True
+e529c5465cafd94ee9a3b38f7267523a,Pleural thickening,0,0,0,1.0,True
+e529c5465cafd94ee9a3b38f7267523a,Pulmonary fibrosis,0,0,0,1.0,True
+e529c5465cafd94ee9a3b38f7267523a,Lung Opacity,0,0,0,1.0,True
+e531672ae6083e717cbe83d7fc71ddda,Aortic enlargement,1176,1176,0,1.0,True
+e531672ae6083e717cbe83d7fc71ddda,Cardiomegaly,5878,5878,0,1.0,True
+e531672ae6083e717cbe83d7fc71ddda,Pleural thickening,0,0,0,1.0,True
+e531672ae6083e717cbe83d7fc71ddda,Pulmonary fibrosis,0,0,0,1.0,True
+e531672ae6083e717cbe83d7fc71ddda,Lung Opacity,0,0,0,1.0,True
+e583b6c45b5622f1e714f57521a22a30,Aortic enlargement,1431,1431,0,1.0,True
+e583b6c45b5622f1e714f57521a22a30,Cardiomegaly,0,0,0,1.0,True
+e583b6c45b5622f1e714f57521a22a30,Pleural thickening,6052,6052,0,1.0,True
+e583b6c45b5622f1e714f57521a22a30,Pulmonary fibrosis,2449,2449,0,1.0,True
+e583b6c45b5622f1e714f57521a22a30,Lung Opacity,1911,1911,0,1.0,True
+e62c2f1897582761b9a5dbc7dbb1a930,Aortic enlargement,0,0,0,1.0,True
+e62c2f1897582761b9a5dbc7dbb1a930,Cardiomegaly,0,0,0,1.0,True
+e62c2f1897582761b9a5dbc7dbb1a930,Pleural thickening,0,0,0,1.0,True
+e62c2f1897582761b9a5dbc7dbb1a930,Pulmonary fibrosis,0,0,0,1.0,True
+e62c2f1897582761b9a5dbc7dbb1a930,Lung Opacity,110,110,0,1.0,True
+e652b2cebae0a6c74e292b3112d29e6e,Aortic enlargement,1211,1211,0,1.0,True
+e652b2cebae0a6c74e292b3112d29e6e,Cardiomegaly,4699,4699,0,1.0,True
+e652b2cebae0a6c74e292b3112d29e6e,Pleural thickening,1248,1248,0,1.0,True
+e652b2cebae0a6c74e292b3112d29e6e,Pulmonary fibrosis,529,529,0,1.0,True
+e652b2cebae0a6c74e292b3112d29e6e,Lung Opacity,0,0,0,1.0,True
+e6fe1659a6cacb4f2ea6ef651481e0ba,Aortic enlargement,704,704,0,1.0,True
+e6fe1659a6cacb4f2ea6ef651481e0ba,Cardiomegaly,5733,5733,0,1.0,True
+e6fe1659a6cacb4f2ea6ef651481e0ba,Pleural thickening,621,621,0,1.0,True
+e6fe1659a6cacb4f2ea6ef651481e0ba,Pulmonary fibrosis,1961,1961,0,1.0,True
+e6fe1659a6cacb4f2ea6ef651481e0ba,Lung Opacity,0,0,0,1.0,True
+e724ee60258fda4c7f15e0f8d757ee2c,Aortic enlargement,1111,1111,0,1.0,True
+e724ee60258fda4c7f15e0f8d757ee2c,Cardiomegaly,3284,3284,0,1.0,True
+e724ee60258fda4c7f15e0f8d757ee2c,Pleural thickening,0,0,0,1.0,True
+e724ee60258fda4c7f15e0f8d757ee2c,Pulmonary fibrosis,0,0,0,1.0,True
+e724ee60258fda4c7f15e0f8d757ee2c,Lung Opacity,0,0,0,1.0,True
+e7ae00eef602436f48a44b36dc79b383,Aortic enlargement,976,976,0,1.0,True
+e7ae00eef602436f48a44b36dc79b383,Cardiomegaly,3741,3741,0,1.0,True
+e7ae00eef602436f48a44b36dc79b383,Pleural thickening,184,184,0,1.0,True
+e7ae00eef602436f48a44b36dc79b383,Pulmonary fibrosis,0,0,0,1.0,True
+e7ae00eef602436f48a44b36dc79b383,Lung Opacity,0,0,0,1.0,True
+e7ea94b2fec95a7461b10a7f3eea2897,Aortic enlargement,1359,1359,0,1.0,True
+e7ea94b2fec95a7461b10a7f3eea2897,Cardiomegaly,3809,3809,0,1.0,True
+e7ea94b2fec95a7461b10a7f3eea2897,Pleural thickening,0,0,0,1.0,True
+e7ea94b2fec95a7461b10a7f3eea2897,Pulmonary fibrosis,0,0,0,1.0,True
+e7ea94b2fec95a7461b10a7f3eea2897,Lung Opacity,0,0,0,1.0,True
+e9278ee61a8a275650baf02c600c382e,Aortic enlargement,916,916,0,1.0,True
+e9278ee61a8a275650baf02c600c382e,Cardiomegaly,0,0,0,1.0,True
+e9278ee61a8a275650baf02c600c382e,Pleural thickening,0,0,0,1.0,True
+e9278ee61a8a275650baf02c600c382e,Pulmonary fibrosis,0,0,0,1.0,True
+e9278ee61a8a275650baf02c600c382e,Lung Opacity,0,0,0,1.0,True
+ea00fab3726550241cd51c2750892d36,Aortic enlargement,1120,1120,0,1.0,True
+ea00fab3726550241cd51c2750892d36,Cardiomegaly,3705,3705,0,1.0,True
+ea00fab3726550241cd51c2750892d36,Pleural thickening,910,910,0,1.0,True
+ea00fab3726550241cd51c2750892d36,Pulmonary fibrosis,36,36,0,1.0,True
+ea00fab3726550241cd51c2750892d36,Lung Opacity,0,0,0,1.0,True
+eb72e2bb09327ca57b150dab46677e1f,Aortic enlargement,957,957,0,1.0,True
+eb72e2bb09327ca57b150dab46677e1f,Cardiomegaly,3822,3822,0,1.0,True
+eb72e2bb09327ca57b150dab46677e1f,Pleural thickening,0,0,0,1.0,True
+eb72e2bb09327ca57b150dab46677e1f,Pulmonary fibrosis,3276,3276,0,1.0,True
+eb72e2bb09327ca57b150dab46677e1f,Lung Opacity,3276,3276,0,1.0,True
+ec0d8eda3ff0b4fe8d3a7a7b795fed21,Aortic enlargement,1432,1432,0,1.0,True
+ec0d8eda3ff0b4fe8d3a7a7b795fed21,Cardiomegaly,4645,4645,0,1.0,True
+ec0d8eda3ff0b4fe8d3a7a7b795fed21,Pleural thickening,0,0,0,1.0,True
+ec0d8eda3ff0b4fe8d3a7a7b795fed21,Pulmonary fibrosis,0,0,0,1.0,True
+ec0d8eda3ff0b4fe8d3a7a7b795fed21,Lung Opacity,0,0,0,1.0,True
+ecce24df48ffadc82e635c279a18c622,Aortic enlargement,399,399,0,1.0,True
+ecce24df48ffadc82e635c279a18c622,Cardiomegaly,0,0,0,1.0,True
+ecce24df48ffadc82e635c279a18c622,Pleural thickening,332,332,0,1.0,True
+ecce24df48ffadc82e635c279a18c622,Pulmonary fibrosis,576,576,0,1.0,True
+ecce24df48ffadc82e635c279a18c622,Lung Opacity,0,0,0,1.0,True
+ed6f20cff422347c954f41eac82fac8b,Aortic enlargement,0,0,0,1.0,True
+ed6f20cff422347c954f41eac82fac8b,Cardiomegaly,0,0,0,1.0,True
+ed6f20cff422347c954f41eac82fac8b,Pleural thickening,387,387,0,1.0,True
+ed6f20cff422347c954f41eac82fac8b,Pulmonary fibrosis,0,0,0,1.0,True
+ed6f20cff422347c954f41eac82fac8b,Lung Opacity,3312,3312,0,1.0,True
+ee9e445e316c60e028de2486e3f459df,Aortic enlargement,3600,3600,0,1.0,True
+ee9e445e316c60e028de2486e3f459df,Cardiomegaly,0,0,0,1.0,True
+ee9e445e316c60e028de2486e3f459df,Pleural thickening,314,314,0,1.0,True
+ee9e445e316c60e028de2486e3f459df,Pulmonary fibrosis,498,498,0,1.0,True
+ee9e445e316c60e028de2486e3f459df,Lung Opacity,17850,17850,0,1.0,True
+ef0b10e9d207fa0ff2f4e2f59a590970,Aortic enlargement,0,0,0,1.0,True
+ef0b10e9d207fa0ff2f4e2f59a590970,Cardiomegaly,3979,3979,0,1.0,True
+ef0b10e9d207fa0ff2f4e2f59a590970,Pleural thickening,0,0,0,1.0,True
+ef0b10e9d207fa0ff2f4e2f59a590970,Pulmonary fibrosis,632,632,0,1.0,True
+ef0b10e9d207fa0ff2f4e2f59a590970,Lung Opacity,544,544,0,1.0,True
+ef85cda3a115da5e7399342ac986d489,Aortic enlargement,0,0,0,1.0,True
+ef85cda3a115da5e7399342ac986d489,Cardiomegaly,0,0,0,1.0,True
+ef85cda3a115da5e7399342ac986d489,Pleural thickening,1248,1248,0,1.0,True
+ef85cda3a115da5e7399342ac986d489,Pulmonary fibrosis,0,0,0,1.0,True
+ef85cda3a115da5e7399342ac986d489,Lung Opacity,0,0,0,1.0,True
+f10143e3eb341eac01909c339a5cf01f,Aortic enlargement,1320,1320,0,1.0,True
+f10143e3eb341eac01909c339a5cf01f,Cardiomegaly,5772,5772,0,1.0,True
+f10143e3eb341eac01909c339a5cf01f,Pleural thickening,1664,1664,0,1.0,True
+f10143e3eb341eac01909c339a5cf01f,Pulmonary fibrosis,0,0,0,1.0,True
+f10143e3eb341eac01909c339a5cf01f,Lung Opacity,0,0,0,1.0,True
+f233f426d24061d9584932e52bfdbd49,Aortic enlargement,661,661,0,1.0,True
+f233f426d24061d9584932e52bfdbd49,Cardiomegaly,2528,2528,0,1.0,True
+f233f426d24061d9584932e52bfdbd49,Pleural thickening,725,725,0,1.0,True
+f233f426d24061d9584932e52bfdbd49,Pulmonary fibrosis,10610,10610,0,1.0,True
+f233f426d24061d9584932e52bfdbd49,Lung Opacity,0,0,0,1.0,True
+f29df9890df1e30033396c8f220a9f14,Aortic enlargement,0,0,0,1.0,True
+f29df9890df1e30033396c8f220a9f14,Cardiomegaly,0,0,0,1.0,True
+f29df9890df1e30033396c8f220a9f14,Pleural thickening,315,315,0,1.0,True
+f29df9890df1e30033396c8f220a9f14,Pulmonary fibrosis,0,0,0,1.0,True
+f29df9890df1e30033396c8f220a9f14,Lung Opacity,868,868,0,1.0,True
+f2e56bf4b304000674dde626b3335ca7,Aortic enlargement,0,0,0,1.0,True
+f2e56bf4b304000674dde626b3335ca7,Cardiomegaly,0,0,0,1.0,True
+f2e56bf4b304000674dde626b3335ca7,Pleural thickening,100,100,0,1.0,True
+f2e56bf4b304000674dde626b3335ca7,Pulmonary fibrosis,3226,3226,0,1.0,True
+f2e56bf4b304000674dde626b3335ca7,Lung Opacity,4544,4544,0,1.0,True
+f3ae85dcad0b8befecc06e496f3c4263,Aortic enlargement,702,702,0,1.0,True
+f3ae85dcad0b8befecc06e496f3c4263,Cardiomegaly,0,0,0,1.0,True
+f3ae85dcad0b8befecc06e496f3c4263,Pleural thickening,986,986,0,1.0,True
+f3ae85dcad0b8befecc06e496f3c4263,Pulmonary fibrosis,0,0,0,1.0,True
+f3ae85dcad0b8befecc06e496f3c4263,Lung Opacity,0,0,0,1.0,True
+f4da0959856bcdd4b91e0c6949b109e3,Aortic enlargement,980,980,0,1.0,True
+f4da0959856bcdd4b91e0c6949b109e3,Cardiomegaly,0,0,0,1.0,True
+f4da0959856bcdd4b91e0c6949b109e3,Pleural thickening,0,0,0,1.0,True
+f4da0959856bcdd4b91e0c6949b109e3,Pulmonary fibrosis,0,0,0,1.0,True
+f4da0959856bcdd4b91e0c6949b109e3,Lung Opacity,1080,1080,0,1.0,True
+f51434ef988e30a05f8b0986814d9485,Aortic enlargement,0,0,0,1.0,True
+f51434ef988e30a05f8b0986814d9485,Cardiomegaly,0,0,0,1.0,True
+f51434ef988e30a05f8b0986814d9485,Pleural thickening,0,0,0,1.0,True
+f51434ef988e30a05f8b0986814d9485,Pulmonary fibrosis,345,345,0,1.0,True
+f51434ef988e30a05f8b0986814d9485,Lung Opacity,182,182,0,1.0,True
+f58ecf974a05d2f5ece85aa9393cf9d6,Aortic enlargement,504,504,0,1.0,True
+f58ecf974a05d2f5ece85aa9393cf9d6,Cardiomegaly,0,0,0,1.0,True
+f58ecf974a05d2f5ece85aa9393cf9d6,Pleural thickening,223,223,0,1.0,True
+f58ecf974a05d2f5ece85aa9393cf9d6,Pulmonary fibrosis,8028,8028,0,1.0,True
+f58ecf974a05d2f5ece85aa9393cf9d6,Lung Opacity,1416,1416,0,1.0,True
+f5eb3e7e9ee9c4d08377de30251a94e2,Aortic enlargement,810,810,0,1.0,True
+f5eb3e7e9ee9c4d08377de30251a94e2,Cardiomegaly,0,0,0,1.0,True
+f5eb3e7e9ee9c4d08377de30251a94e2,Pleural thickening,2091,2091,0,1.0,True
+f5eb3e7e9ee9c4d08377de30251a94e2,Pulmonary fibrosis,1258,1258,0,1.0,True
+f5eb3e7e9ee9c4d08377de30251a94e2,Lung Opacity,624,624,0,1.0,True
+f70157a4a06e9ba3da6fae2fc48fb4e9,Aortic enlargement,1150,1150,0,1.0,True
+f70157a4a06e9ba3da6fae2fc48fb4e9,Cardiomegaly,0,0,0,1.0,True
+f70157a4a06e9ba3da6fae2fc48fb4e9,Pleural thickening,0,0,0,1.0,True
+f70157a4a06e9ba3da6fae2fc48fb4e9,Pulmonary fibrosis,0,0,0,1.0,True
+f70157a4a06e9ba3da6fae2fc48fb4e9,Lung Opacity,1400,1400,0,1.0,True
+f769eea17a2e7678f481f386c3c6261c,Aortic enlargement,928,928,0,1.0,True
+f769eea17a2e7678f481f386c3c6261c,Cardiomegaly,5824,5824,0,1.0,True
+f769eea17a2e7678f481f386c3c6261c,Pleural thickening,192,192,0,1.0,True
+f769eea17a2e7678f481f386c3c6261c,Pulmonary fibrosis,564,564,0,1.0,True
+f769eea17a2e7678f481f386c3c6261c,Lung Opacity,0,0,0,1.0,True
+f8e34b28f4fa0c030e1d55b1190990f1,Aortic enlargement,1355,1355,0,1.0,True
+f8e34b28f4fa0c030e1d55b1190990f1,Cardiomegaly,0,0,0,1.0,True
+f8e34b28f4fa0c030e1d55b1190990f1,Pleural thickening,546,546,0,1.0,True
+f8e34b28f4fa0c030e1d55b1190990f1,Pulmonary fibrosis,0,0,0,1.0,True
+f8e34b28f4fa0c030e1d55b1190990f1,Lung Opacity,1410,1410,0,1.0,True
+f97b35befd831df48967fda3cef13c12,Aortic enlargement,0,0,0,1.0,True
+f97b35befd831df48967fda3cef13c12,Cardiomegaly,0,0,0,1.0,True
+f97b35befd831df48967fda3cef13c12,Pleural thickening,0,0,0,1.0,True
+f97b35befd831df48967fda3cef13c12,Pulmonary fibrosis,0,0,0,1.0,True
+f97b35befd831df48967fda3cef13c12,Lung Opacity,1066,1066,0,1.0,True
+fa5f06ba5deade163b028b37cfe68901,Aortic enlargement,0,0,0,1.0,True
+fa5f06ba5deade163b028b37cfe68901,Cardiomegaly,0,0,0,1.0,True
+fa5f06ba5deade163b028b37cfe68901,Pleural thickening,4127,4127,0,1.0,True
+fa5f06ba5deade163b028b37cfe68901,Pulmonary fibrosis,9631,9631,0,1.0,True
+fa5f06ba5deade163b028b37cfe68901,Lung Opacity,0,0,0,1.0,True
+fa8115db4830d2b29eccf4f133341a7c,Aortic enlargement,0,0,0,1.0,True
+fa8115db4830d2b29eccf4f133341a7c,Cardiomegaly,0,0,0,1.0,True
+fa8115db4830d2b29eccf4f133341a7c,Pleural thickening,396,396,0,1.0,True
+fa8115db4830d2b29eccf4f133341a7c,Pulmonary fibrosis,622,622,0,1.0,True
+fa8115db4830d2b29eccf4f133341a7c,Lung Opacity,4071,4071,0,1.0,True
+fba40b4a066903eaccbf80e168617e69,Aortic enlargement,834,834,0,1.0,True
+fba40b4a066903eaccbf80e168617e69,Cardiomegaly,5141,5141,0,1.0,True
+fba40b4a066903eaccbf80e168617e69,Pleural thickening,0,0,0,1.0,True
+fba40b4a066903eaccbf80e168617e69,Pulmonary fibrosis,0,0,0,1.0,True
+fba40b4a066903eaccbf80e168617e69,Lung Opacity,0,0,0,1.0,True
+fbe11df20d8794421a72b14fdc3aa593,Aortic enlargement,0,0,0,1.0,True
+fbe11df20d8794421a72b14fdc3aa593,Cardiomegaly,6127,6127,0,1.0,True
+fbe11df20d8794421a72b14fdc3aa593,Pleural thickening,0,0,0,1.0,True
+fbe11df20d8794421a72b14fdc3aa593,Pulmonary fibrosis,80,80,0,1.0,True
+fbe11df20d8794421a72b14fdc3aa593,Lung Opacity,0,0,0,1.0,True
+fcbe95aa17720d5caa68e24f4f664040,Aortic enlargement,1476,1476,0,1.0,True
+fcbe95aa17720d5caa68e24f4f664040,Cardiomegaly,0,0,0,1.0,True
+fcbe95aa17720d5caa68e24f4f664040,Pleural thickening,0,0,0,1.0,True
+fcbe95aa17720d5caa68e24f4f664040,Pulmonary fibrosis,0,0,0,1.0,True
+fcbe95aa17720d5caa68e24f4f664040,Lung Opacity,0,0,0,1.0,True
+fd810298e165ef0b9a88bb25fda7a34b,Aortic enlargement,1218,1218,0,1.0,True
+fd810298e165ef0b9a88bb25fda7a34b,Cardiomegaly,3867,3867,0,1.0,True
+fd810298e165ef0b9a88bb25fda7a34b,Pleural thickening,0,0,0,1.0,True
+fd810298e165ef0b9a88bb25fda7a34b,Pulmonary fibrosis,0,0,0,1.0,True
+fd810298e165ef0b9a88bb25fda7a34b,Lung Opacity,1302,1302,0,1.0,True
+fdcbaf21dccc1202812b5233b960de0b,Aortic enlargement,987,987,0,1.0,True
+fdcbaf21dccc1202812b5233b960de0b,Cardiomegaly,0,0,0,1.0,True
+fdcbaf21dccc1202812b5233b960de0b,Pleural thickening,1024,1024,0,1.0,True
+fdcbaf21dccc1202812b5233b960de0b,Pulmonary fibrosis,0,0,0,1.0,True
+fdcbaf21dccc1202812b5233b960de0b,Lung Opacity,0,0,0,1.0,True
+fe9ae553a2fa76cba207ebd4b9b0cddb,Aortic enlargement,1886,1886,0,1.0,True
+fe9ae553a2fa76cba207ebd4b9b0cddb,Cardiomegaly,0,0,0,1.0,True
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pleural thickening,740,740,0,1.0,True
+fe9ae553a2fa76cba207ebd4b9b0cddb,Pulmonary fibrosis,0,0,0,1.0,True
+fe9ae553a2fa76cba207ebd4b9b0cddb,Lung Opacity,0,0,0,1.0,True
+ffceb71a80efba3b83c88e11f4b9694b,Aortic enlargement,0,0,0,1.0,True
+ffceb71a80efba3b83c88e11f4b9694b,Cardiomegaly,22347,22347,0,1.0,True
+ffceb71a80efba3b83c88e11f4b9694b,Pleural thickening,0,0,0,1.0,True
+ffceb71a80efba3b83c88e11f4b9694b,Pulmonary fibrosis,900,900,0,1.0,True
+ffceb71a80efba3b83c88e11f4b9694b,Lung Opacity,0,0,0,1.0,True
