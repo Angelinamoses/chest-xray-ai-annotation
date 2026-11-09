@@ -15,6 +15,7 @@ from app.inference import (
     ChestXrayInference,
     CLASS_NAMES,
     THRESHOLDS,
+    MODEL_VERSION,
 )
 
 from app.schemas import (
@@ -54,9 +55,10 @@ app = FastAPI(
     title="Chest X-ray AI Annotation API",
     description=(
         "Human-in-the-loop chest X-ray segmentation "
-        "using a five-channel U-Net model."
+        "using a five-channel U-Net model with "
+        "confidence and uncertainty estimation."
     ),
-    version="1.0.0",
+    version="1.1.0",
     lifespan=lifespan,
 )
 
@@ -93,9 +95,14 @@ def encode_png_base64(array, is_probability=False):
 
     if is_probability:
         image_array = np.clip(array, 0, 1)
-        image_array = (image_array * 255).round().astype(np.uint8)
+        image_array = (
+            image_array * 255
+        ).round().astype(np.uint8)
+
     else:
-        image_array = (array.astype(np.uint8) * 255)
+        image_array = (
+            array.astype(np.uint8) * 255
+        )
 
     pil_image = Image.fromarray(image_array)
 
@@ -119,6 +126,7 @@ def root():
     return {
         "message": "Chest X-ray AI Annotation API",
         "status": "running",
+        "model_version": MODEL_VERSION,
         "documentation": "/docs",
     }
 
@@ -234,16 +242,27 @@ async def predict(
         # Original DICOM dimensions
         original_height, original_width = result["original_size"]
 
+        # Build prediction response
         return PredictionResponse(
             filename=filename,
+            model_version=result["model_version"],
+
             original_width=original_width,
             original_height=original_height,
+
             input_width=256,
             input_height=256,
-            class_names=CLASS_NAMES,
-            thresholds=THRESHOLDS,
+
+            class_names=result["class_names"],
+            thresholds=result["thresholds"],
+
             masks=masks_encoded,
             probabilities=probabilities_encoded,
+
+            confidence=result["confidence"],
+            uncertainty=result["uncertainty"],
+            image_uncertainty=result["image_uncertainty"],
+
             device=result["device"],
         )
 

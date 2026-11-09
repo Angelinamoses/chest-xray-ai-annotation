@@ -20,6 +20,8 @@ CHECKPOINT_PATH = (
     / "best_unet_baseline.pth"
 )
 
+MODEL_VERSION = "unet-v1"
+
 CLASS_NAMES = [
     "Aortic enlargement",
     "Cardiomegaly",
@@ -38,7 +40,40 @@ THRESHOLDS = {
 
 
 # --------------------------------------------------
-# 2. INFERENCE ENGINE
+# 2. UNCERTAINTY CALCULATION
+# --------------------------------------------------
+
+def calculate_normalized_entropy(probability_map):
+    """
+    Calculate normalized binary entropy.
+
+    Returns:
+        Float between 0 and 1.
+
+        0 = low uncertainty
+        1 = maximum uncertainty (probability near 0.5)
+    """
+
+    epsilon = 1e-7
+
+    p = np.clip(
+        probability_map.astype(np.float32),
+        epsilon,
+        1.0 - epsilon
+    )
+
+    entropy = -(
+        p * np.log(p)
+        + (1.0 - p) * np.log(1.0 - p)
+    )
+
+    normalized_entropy = entropy / np.log(2.0)
+
+    return normalized_entropy
+
+
+# --------------------------------------------------
+# 3. INFERENCE ENGINE
 # --------------------------------------------------
 
 class ChestXrayInference:
@@ -68,7 +103,7 @@ class ChestXrayInference:
             weights_only=True
         )
 
-        # Extract model weights from the training checkpoint
+        # Load trained weights
         self.model.load_state_dict(
             checkpoint["model_state_dict"]
         )
@@ -77,13 +112,16 @@ class ChestXrayInference:
         self.model.eval()
 
         print("Model loaded successfully!")
+        print("Model version:", MODEL_VERSION)
         print("Device:", self.device)
-        print("Trainable parameters:", sum(
-            p.numel() for p in self.model.parameters()
-        ))
+
+        print(
+            "Trainable parameters:",
+            sum(p.numel() for p in self.model.parameters())
+        )
 
     # --------------------------------------------------
-    # 3. PREDICTION
+    # 4. PREDICTION
     # --------------------------------------------------
 
     @torch.inference_mode()
@@ -110,19 +148,69 @@ class ChestXrayInference:
         # Generate binary segmentation masks
         masks = {}
 
+        # Confidence and uncertainty outputs
+        confidence = {}
+        uncertainty = {}
+
         for index, class_name in enumerate(CLASS_NAMES):
 
             threshold = THRESHOLDS[class_name]
 
+            probability_map = probability_array[index]
+
+            # Binary segmentation mask
             binary_mask = (
-                probability_array[index] >= threshold
+                probability_map >= threshold
             ).astype(np.uint8)
 
             masks[class_name] = binary_mask
 
+            # ------------------------------------------
+            # CLASS-LEVEL CONFIDENCE
+            # ------------------------------------------
+
+            positive_probabilities = probability_map[
+                binary_mask == 1
+            ]
+
+            if positive_probabilities.size > 0:
+
+                confidence[class_name] = float(
+                    np.mean(positive_probabilities)
+                )
+
+            else:
+
+                # No positive segmentation region
+                confidence[class_name] = None
+
+            # ------------------------------------------
+            # CLASS-LEVEL UNCERTAINTY
+            # ------------------------------------------
+
+            entropy_map = calculate_normalized_entropy(
+                probability_map
+            )
+
+            uncertainty[class_name] = float(
+                np.mean(entropy_map)
+            )
+
+        # ----------------------------------------------
+        # IMAGE-LEVEL UNCERTAINTY
+        # ----------------------------------------------
+
+        image_uncertainty = float(
+            np.mean(list(uncertainty.values()))
+        )
+
         return {
+            "model_version": MODEL_VERSION,
             "masks": masks,
             "probabilities": probability_array,
+            "confidence": confidence,
+            "uncertainty": uncertainty,
+            "image_uncertainty": image_uncertainty,
             "original_size": original_size,
             "input_size": (256, 256),
             "class_names": CLASS_NAMES,
@@ -132,7 +220,7 @@ class ChestXrayInference:
 
 
 # --------------------------------------------------
-# 4. STANDALONE TEST
+# 5. STANDALONE TEST
 # --------------------------------------------------
 
 if __name__ == "__main__":
@@ -173,14 +261,16 @@ if __name__ == "__main__":
 
     for class_name, mask in result["masks"].items():
 
-        print(
-            f"{class_name}: "
-            f"Shape={mask.shape}, "
-            f"Positive pixels={int(mask.sum())}"
-        )
+        print(f"\n{class_name}")
+        print("Positive pixels:", int(mask.sum()))
+        print("Confidence:", result["confidence"][class_name])
+        print("Uncertainty:", result["uncertainty"][class_name])
+
+    print("\nImage uncertainty:", result["image_uncertainty"])
 
     print("\nOriginal image size:", result["original_size"])
     print("Input size:", result["input_size"])
+    print("Model version:", result["model_version"])
     print("Device:", result["device"])
 
     print("\nINFERENCE TEST PASSED!")
