@@ -246,3 +246,6 @@ credentials/
 venv/
 .venv/
 __pycache__/
+
+# Exclude private training dataset archive
+/vindr_training_dataset.zip
