@@ -2,13 +2,22 @@
 import base64
 import io
 import tempfile
+import os
+import secrets
 from contextlib import asynccontextmanager
 from pathlib import Path
 
 import numpy as np
 from PIL import Image
 
-from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi import (
+    FastAPI,
+    File,
+    HTTPException,
+    UploadFile,
+    Header,
+    Depends,
+)
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.inference import (
@@ -22,6 +31,43 @@ from app.schemas import (
     ModelInfoResponse,
     PredictionResponse,
 )
+
+
+# --------------------------------------------------
+# API KEY AUTHENTICATION
+# --------------------------------------------------
+
+# Configure API_KEY as an environment variable.
+# Never hardcode the secret or commit it to Git.
+API_KEY = os.getenv("API_KEY")
+
+
+def verify_api_key(
+    x_api_key: str | None = Header(
+        default=None,
+        alias="X-API-Key",
+        description="API key required to access prediction."
+    )
+):
+    """Require a valid API key before running inference."""
+
+    if not API_KEY:
+        raise HTTPException(
+            status_code=503,
+            detail="API authentication is not configured."
+        )
+
+    if (
+        x_api_key is None
+        or not secrets.compare_digest(x_api_key, API_KEY)
+    ):
+        raise HTTPException(
+            status_code=401,
+            detail="Invalid or missing API key.",
+            headers={"WWW-Authenticate": "API-Key"},
+        )
+
+    return True
 
 
 # --------------------------------------------------
@@ -67,12 +113,21 @@ app = FastAPI(
 # 3. CORS CONFIGURATION
 # --------------------------------------------------
 
+# Set CORS_ORIGINS in the hosting environment to a comma-separated
+# list of trusted frontend origins. "*" is suitable only when no
+# browser-cookie credentials are used; API-key authentication is header-based.
+cors_origins = [
+    origin.strip()
+    for origin in os.getenv("CORS_ORIGINS", "*").split(",")
+    if origin.strip()
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Restrict this for production
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=cors_origins,
+    allow_credentials=False,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "X-API-Key"],
 )
 
 
@@ -180,7 +235,8 @@ def model_info():
     response_model=PredictionResponse
 )
 async def predict(
-    file: UploadFile = File(...)
+    file: UploadFile = File(...),
+    authenticated: bool = Depends(verify_api_key),
 ):
 
     if inference_engine is None:
@@ -275,7 +331,7 @@ async def predict(
 
         raise HTTPException(
             status_code=422,
-            detail=f"Prediction failed: {str(error)}"
+            detail="Prediction failed. Check the server logs for details."
         )
 
     finally:
