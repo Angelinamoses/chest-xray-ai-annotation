@@ -249,3 +249,14 @@ __pycache__/
 
 # Exclude private training dataset archive
 /vindr_training_dataset.zip
+
+# Local API test outputs
+/prediction_response.json
+/prediction_response*.json
+
+# Medical imaging files
+*.dcm
+*.dicom
+
+# Exclude all local datasets and generated data
+/data/
